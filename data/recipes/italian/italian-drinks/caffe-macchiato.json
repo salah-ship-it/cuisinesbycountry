@@ -1,0 +1,41 @@
+{
+  "slug": "caffe-macchiato",
+  "name": "Caffè Macchiato",
+  "description": "An espresso shot 'stained' with a small dollop of warm foamed milk, a staple of Italian morning bars.",
+  "prepTime": "3 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "400g ground beef",
+    "1 cup spaghetti",
+    "a handful of sliced shallots",
+    "a pinch of grated nutmeg",
+    "1/4 cup unsalted butter",
+    "1 cup San Marzano tomatoes, sliced",
+    "a handful of fresh parsley, chopped",
+    "a generous spoonful of Parmesan cheese",
+    "400ml whole milk",
+    "2 tsp cracked black pepper",
+    "a generous handful of zucchini",
+    "a drizzle of mascarpone"
+  ],
+  "instructions": [
+    "Combine the ciabatta bread and dry white wine in a saucepan, blender, or pitcher, stirring well.",
+    "Add the cracked black pepper and lemon zest, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 0 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with Parmesan cheese, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with basil just before serving.",
+    "Pour into your favorite glass or cup and enjoy."
+  ],
+  "tips": [
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours.",
+    "Serve in a chilled glass for the most refreshing result on a hot day.",
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇮🇹"
+}

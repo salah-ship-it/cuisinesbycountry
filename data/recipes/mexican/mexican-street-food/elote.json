@@ -1,0 +1,40 @@
+{
+  "slug": "elote",
+  "name": "Elote",
+  "description": "Grilled corn on the cob slathered in crema, rolled in cotija cheese, and dusted with chili powder and lime.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg pork shoulder",
+    "300g corn tortillas",
+    "2 tsp finely chopped white onion",
+    "1 1/2 tsp chili powder",
+    "2 tbsp neutral vegetable oil",
+    "200g jalapeños",
+    "a handful of fresh oregano, chopped",
+    "a drizzle of Mexican crema",
+    "500ml chicken stock",
+    "2 tsp smoked paprika",
+    "a generous handful of white onions",
+    "salsa verde, for serving"
+  ],
+  "instructions": [
+    "Prepare the corn tortillas base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the black beans, avocado, rehydrated dried chilies, and ground cinnamon, mixing well so everything is evenly seasoned.",
+    "Heat lard in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the corn tortillas until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the black beans mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the corn tortillas with the filling, a spoonful of Mexican crema, and a scattering of oregano.",
+    "Add a final touch of toasted pumpkin seeds for extra flavor and texture."
+  ],
+  "tips": [
+    "Keep the lard hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇽"
+}

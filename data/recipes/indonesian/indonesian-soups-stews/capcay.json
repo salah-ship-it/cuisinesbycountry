@@ -1,0 +1,37 @@
+{
+  "slug": "capcay",
+  "name": "Cap Cay",
+  "description": "A Chinese-Indonesian stir-fry of mixed vegetables, quail eggs, and chicken in a light oyster sauce thickened broth.",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g chicken thighs",
+    "1 cup jasmine rice",
+    "2 tsp sliced lemongrass",
+    "a pinch of palm sugar",
+    "1/4 cup coconut oil",
+    "a generous handful of cherry tomatoes",
+    "a handful of fresh cilantro, chopped",
+    "roasted peanuts, for serving",
+    "500ml chicken stock",
+    "1/2 tsp tamarind paste"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the sliced lemongrass and sliced galangal gently until soft and fragrant.",
+    "Stir in the palm sugar and crushed candlenuts, toasting briefly until the kitchen fills with their aroma.",
+    "Add the large prawns and cabbage, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the large prawns is tender, about 15 mins.",
+    "Stir in the fried shallot crackers (krupuk) and continue simmering for a few minutes more, until heated through.",
+    "Finish with the coconut cream and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the chicken stock reduces as it simmers, concentrating the flavor.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇩"
+}

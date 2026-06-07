@@ -1,0 +1,37 @@
+{
+  "slug": "tomato-shorba",
+  "name": "Tomato Shorba",
+  "description": "A velvety roasted tomato soup scented with cardamom and black pepper, garnished with cream and coriander.",
+  "prepTime": "10 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g lamb shoulder",
+    "400g roti",
+    "1 tbsp minced garlic",
+    "1/2 tsp red chili powder",
+    "1/4 cup ghee",
+    "200g cauliflower florets",
+    "a handful of fresh curry leaves, chopped",
+    "a drizzle of plain yogurt",
+    "500ml water"
+  ],
+  "instructions": [
+    "Heat ghee in a large pot over medium heat and cook the crushed green cardamom pods and grated fresh ginger gently until soft and fragrant.",
+    "Stir in the red chili powder and mustard seeds, toasting briefly until the kitchen fills with their aroma.",
+    "Add the large prawns and fresh spinach, stirring well to coat everything in the spiced base.",
+    "Pour in the whole milk, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the large prawns is tender, about 30 mins.",
+    "Stir in the semolina and continue simmering for a few minutes more, until heated through.",
+    "Finish with the ghee and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the cilantro, and serve piping hot."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇳"
+}

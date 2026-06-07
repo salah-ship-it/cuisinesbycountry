@@ -1,0 +1,39 @@
+{
+  "slug": "boeuf-bourguignon",
+  "name": "Bœuf Bourguignon",
+  "description": "Beef braised low and slow in Burgundy red wine with lardons, pearl onions, and mushrooms until deeply tender.",
+  "prepTime": "30 mins",
+  "cookTime": "3 hrs",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "600g duck legs",
+    "400g egg noodles",
+    "a handful of sliced shallots",
+    "1 1/2 tsp cracked black peppercorns",
+    "2 tbsp unsalted butter",
+    "a generous handful of pearl onions",
+    "a handful of fresh chives, chopped",
+    "a generous spoonful of Gruyère cheese",
+    "1 cup dry red wine",
+    "a pinch of fresh thyme",
+    "a generous handful of shallots"
+  ],
+  "instructions": [
+    "Pat the sea bass fillets dry, season generously with salt, pepper, and herbes de Provence, and let it sit for a few minutes to absorb the flavors.",
+    "Heat extra-virgin olive oil in a wide pan or heavy pot over medium-high heat and sear the sea bass fillets until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the sliced shallots and minced garlic over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the bay leaves and celery stalks, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the sea bass fillets to the pan, pour in the chicken stock, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the sea bass fillets is tender and cooked through, roughly 3 hrs.",
+    "Stir in the unsalted butter, taste, and adjust the seasoning with salt and pepper as needed."
+  ],
+  "tips": [
+    "For deeper flavor, marinate the sea bass fillets for at least an hour — or overnight — before cooking.",
+    "A squeeze of lemon or a final scattering of parsley just before serving brightens up all the deep, slow-cooked flavors.",
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇫🇷"
+}

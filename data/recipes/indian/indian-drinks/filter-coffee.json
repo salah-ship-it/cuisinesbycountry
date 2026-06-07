@@ -1,0 +1,39 @@
+{
+  "slug": "filter-coffee",
+  "name": "Filter Coffee",
+  "description": "South Indian decoction coffee brewed in a traditional filter, blended with hot milk and frothed between tumblers.",
+  "prepTime": "10 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Medium",
+  "servings": 2,
+  "ingredients": [
+    "500g chickpeas",
+    "2 cups roti",
+    "2 tbsp grated fresh ginger",
+    "1 1/2 tsp dried fenugreek leaves",
+    "2 tbsp neutral vegetable oil",
+    "2 fresh spinach, chopped",
+    "a handful of fresh cilantro, chopped",
+    "ghee, to taste",
+    "500ml chicken stock",
+    "1/2 tsp ground turmeric",
+    "1 cup ripe tomatoes, sliced"
+  ],
+  "instructions": [
+    "Combine the semolina and whole milk in a saucepan, blender, or pitcher, stirring well.",
+    "Add the ground cumin and roasted cashews, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 5 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with heavy cream, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with cilantro just before serving.",
+    "Pour into your favorite glass or cup and enjoy."
+  ],
+  "tips": [
+    "Serve in a chilled glass for the most refreshing result on a hot day.",
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇮🇳"
+}

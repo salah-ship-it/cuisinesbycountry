@@ -1,0 +1,37 @@
+{
+  "slug": "roti-breakfast",
+  "name": "Roti with Egg",
+  "description": "A buttery fried roti cooked with egg on the griddle, rolled and served with curry sauce or sweetened condensed milk.",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "400g firm tofu",
+    "1 cup glutinous rice",
+    "1 tbsp minced garlic",
+    "1 tsp red curry paste",
+    "1/4 cup neutral vegetable oil",
+    "200g cherry tomatoes",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of coconut cream",
+    "500ml water",
+    "a pinch of ground turmeric",
+    "200g baby corn"
+  ],
+  "instructions": [
+    "Gather and prep the roti dough and chicken thighs, measuring everything out so it is ready to go.",
+    "Heat coconut oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the torn kaffir lime leaves and Thai bird's eye chilies, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the chicken thighs, season with dried shrimp, and cook until just done, about 10 mins.",
+    "Warm the roti dough alongside, turning once, until heated through and lightly toasted.",
+    "Plate the roti dough and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Keep the heat moderate so the chicken thighs cooks through gently without drying out or turning rubbery.",
+    "Prep the roti dough and chicken thighs the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇭"
+}

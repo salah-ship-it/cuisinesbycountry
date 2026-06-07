@@ -1,0 +1,38 @@
+{
+  "slug": "menudo",
+  "name": "Menudo",
+  "description": "A bold, slow-simmered tripe stew in a dried red chili broth with hominy, oregano, and a splash of lime.",
+  "prepTime": "30 mins",
+  "cookTime": "4 hrs",
+  "difficulty": "Hard",
+  "servings": 8,
+  "ingredients": [
+    "500g pork shoulder",
+    "300g corn tortillas",
+    "1 tbsp finely chopped white onion",
+    "1 1/2 tsp dried oregano",
+    "1/4 cup lard",
+    "200g white onions",
+    "a handful of fresh oregano, chopped",
+    "a drizzle of salsa verde",
+    "1 cup chicken stock",
+    "a pinch of ground cinnamon"
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and cook the finely chopped white onion and minced garlic gently until soft and fragrant.",
+    "Stir in the chili powder and ground cinnamon, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chicken thighs and ripe tomatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chicken thighs is tender, about 4 hrs.",
+    "Stir in the corn tortillas and continue simmering for a few minutes more, until heated through.",
+    "Finish with the toasted pumpkin seeds and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the oregano, and serve piping hot."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇽"
+}

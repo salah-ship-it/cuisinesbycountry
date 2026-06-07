@@ -1,0 +1,36 @@
+{
+  "slug": "red-bean-soup",
+  "name": "Red Bean Soup",
+  "description": "Sweet azuki beans slow-simmered with dried tangerine peel and rock sugar into a warming Cantonese morning tong sui.",
+  "prepTime": "10 mins",
+  "cookTime": "1 hr",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg ground pork",
+    "2 cups jasmine rice",
+    "a handful of crushed Sichuan peppercorns",
+    "2 tsp doubanjiang (chili bean paste)",
+    "2 tbsp toasted sesame oil",
+    "a generous handful of bean sprouts",
+    "a handful of fresh cilantro, chopped",
+    "Shaoxing wine, for serving",
+    "500ml chicken stock"
+  ],
+  "instructions": [
+    "Gather and prep the egg noodles and ground pork, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the crushed Sichuan peppercorns and bok choy, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the ground pork, season with five-spice powder, and cook until just done, about 1 hr.",
+    "Warm the egg noodles alongside, turning once, until heated through and lightly toasted.",
+    "Plate the egg noodles and spoon the cooked mixture over the top.",
+    "Drizzle with Shaoxing wine and finish with a sprinkle of cilantro."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of cilantro just before serving brightens up the whole plate.",
+    "Prep the egg noodles and ground pork the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇨🇳"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "osso-buco",
+  "name": "Osso Buco",
+  "description": "Braised veal shanks slow-cooked in white wine and gremolata until the meat is fall-off-the-bone tender.",
+  "prepTime": "20 mins",
+  "cookTime": "2 hrs",
+  "difficulty": "Hard",
+  "servings": 4,
+  "ingredients": [
+    "1 kg ground beef",
+    "400g ciabatta bread",
+    "a handful of minced garlic",
+    "1 1/2 tsp dried oregano",
+    "2 tbsp unsalted butter",
+    "1 cup San Marzano tomatoes, sliced",
+    "a handful of fresh basil, chopped",
+    "mascarpone, to taste",
+    "400ml chicken stock"
+  ],
+  "instructions": [
+    "Pat the Italian sausage dry, season generously with salt, pepper, and cracked black pepper, and let it sit for a few minutes to absorb the flavors.",
+    "Heat extra-virgin olive oil in a wide pan or heavy pot over medium-high heat and sear the Italian sausage until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the minced garlic and sliced shallots over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the fennel seeds and yellow onions, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the Italian sausage to the pan, pour in the whole milk, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the Italian sausage is tender and cooked through, roughly 2 hrs."
+  ],
+  "tips": [
+    "For deeper flavor, marinate the Italian sausage for at least an hour — or overnight — before cooking.",
+    "A squeeze of lemon or a final scattering of sage just before serving brightens up all the deep, slow-cooked flavors.",
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇮🇹"
+}

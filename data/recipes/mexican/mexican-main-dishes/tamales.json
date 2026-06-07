@@ -1,0 +1,38 @@
+{
+  "slug": "tamales",
+  "name": "Tamales de Rajas con Queso",
+  "description": "Masa dough parcels stuffed with roasted poblano strips and melted cheese, steamed in corn husks.",
+  "prepTime": "60 mins",
+  "cookTime": "1 hr",
+  "difficulty": "Hard",
+  "servings": 12,
+  "ingredients": [
+    "500g black beans",
+    "1 cup corn tortillas",
+    "2 tsp rehydrated dried chilies",
+    "a pinch of ground cinnamon",
+    "3 tbsp olive oil",
+    "a generous handful of tomatillos",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of crumbled cotija cheese",
+    "500ml chicken stock",
+    "1 1/2 tsp chili powder",
+    "2 red bell peppers, chopped"
+  ],
+  "instructions": [
+    "Pat the white fish fillets dry, season generously with salt, pepper, and ground cinnamon, and let it sit for a few minutes to absorb the flavors.",
+    "Heat olive oil in a wide pan or heavy pot over medium-high heat and sear the white fish fillets until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the rehydrated dried chilies and minced garlic over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the ground cumin and ripe tomatoes, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the white fish fillets to the pan, pour in the chicken stock, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the white fish fillets is tender and cooked through, roughly 1 hr.",
+    "Stir in the pickled red onions, taste, and adjust the seasoning with salt and pepper as needed."
+  ],
+  "tips": [
+    "For deeper flavor, marinate the white fish fillets for at least an hour — or overnight — before cooking.",
+    "Avoid crowding the pan when searing the white fish fillets; work in batches so it browns instead of steaming."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇲🇽"
+}

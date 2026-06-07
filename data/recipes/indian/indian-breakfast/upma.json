@@ -1,0 +1,35 @@
+{
+  "slug": "upma",
+  "name": "Upma",
+  "description": "Roasted semolina porridge cooked with ghee, mustard seeds, vegetables, and curry leaves until fluffy and dry.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "500g lamb shoulder",
+    "1 cup roti",
+    "2 tsp minced garlic",
+    "2 tsp red chili powder",
+    "2 tbsp neutral vegetable oil",
+    "2 ripe tomatoes, chopped",
+    "a handful of fresh mint, chopped",
+    "tamarind paste, for serving"
+  ],
+  "instructions": [
+    "Gather and prep the basmati rice and lamb shoulder, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the crushed green cardamom pods and potatoes, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the lamb shoulder, season with ground turmeric, and cook until just done, about 15 mins.",
+    "Warm the basmati rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the basmati rice and spoon the cooked mixture over the top.",
+    "Drizzle with lemon wedges and finish with a sprinkle of cilantro."
+  ],
+  "tips": [
+    "Prep the basmati rice and lamb shoulder the night before to make busy mornings much easier.",
+    "A squeeze of citrus or a sprinkle of cilantro just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇳"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "jalebi",
+  "name": "Jalebi",
+  "description": "Pretzel-shaped batter spirals deep-fried to a crisp, then dunked in saffron syrup for a sticky, sugary sweet.",
+  "prepTime": "15 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "400g paneer cubes",
+    "1 cup naan bread",
+    "2 tbsp curry leaves",
+    "a pinch of red chili powder",
+    "3 tbsp neutral vegetable oil",
+    "2 potatoes, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a drizzle of roasted cashews",
+    "400ml chicken stock",
+    "2 tsp ground coriander",
+    "2 yellow onions, chopped",
+    "a generous spoonful of heavy cream"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with ghee.",
+    "In a large bowl, whisk together the roti and garam masala until evenly combined.",
+    "In a separate bowl, blend the heavy cream with the coconut milk until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 20 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with mint or a dusting of plain yogurt.",
+    "Slice or portion into servings and serve."
+  ],
+  "tips": [
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting.",
+    "This keeps well for a couple of days in an airtight container, and the flavor often improves overnight."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇮🇳"
+}

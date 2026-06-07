@@ -1,0 +1,34 @@
+{
+  "slug": "bir-pletok",
+  "name": "Bir Pletok",
+  "description": "A non-alcoholic Betawi heritage drink of ginger, rose syrup, and spices that turns ruby red when shaken.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g beef shin",
+    "1 cup rice noodles",
+    "2 tbsp grated fresh ginger",
+    "1/2 tsp crushed candlenuts",
+    "3 tbsp neutral vegetable oil",
+    "a generous handful of bean sprouts",
+    "a handful of fresh Thai basil, chopped",
+    "crispy fried shallots, for serving"
+  ],
+  "instructions": [
+    "Combine the jasmine rice and water in a saucepan, blender, or pitcher, stirring well.",
+    "Add the coriander seeds and lime wedges, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 15 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with coconut cream, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot."
+  ],
+  "tips": [
+    "Serve in a chilled glass for the most refreshing result on a hot day.",
+    "Adjust the sweetness gradually, tasting as you go — you can always add more coconut cream, but you cannot take it away."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇮🇩"
+}

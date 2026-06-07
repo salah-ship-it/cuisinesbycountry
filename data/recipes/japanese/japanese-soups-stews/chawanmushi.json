@@ -1,0 +1,39 @@
+{
+  "slug": "chawanmushi",
+  "name": "Chawanmushi",
+  "description": "Silky steamed egg custard infused with dashi and concealing morsels of shrimp, chicken, and ginkgo nuts.",
+  "prepTime": "15 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "600g pork loin",
+    "2 cups nori sheets",
+    "1 tbsp sliced scallion whites",
+    "1 1/2 tsp cracked black pepper",
+    "1/4 cup neutral vegetable oil",
+    "2 scallions, chopped",
+    "a handful of fresh chives, chopped",
+    "a drizzle of toasted sesame oil",
+    "400ml water",
+    "1 tsp white sesame seeds",
+    "200g daikon radish",
+    "a drizzle of pickled ginger"
+  ],
+  "instructions": [
+    "Heat toasted sesame oil in a large pot over medium heat and cook the minced garlic and sliced scallion whites gently until soft and fragrant.",
+    "Stir in the wasabi paste and white sesame seeds, toasting briefly until the kitchen fills with their aroma.",
+    "Add the fresh salmon fillets and scallions, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the fresh salmon fillets is tender, about 20 mins.",
+    "Stir in the short-grain rice and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the water reduces as it simmers, concentrating the flavor.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇯🇵"
+}

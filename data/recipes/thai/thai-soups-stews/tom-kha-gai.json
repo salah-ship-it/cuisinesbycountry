@@ -1,0 +1,36 @@
+{
+  "slug": "tom-kha-gai",
+  "name": "Tom Kha Gai",
+  "description": "Chicken simmered in a coconut milk broth perfumed with galangal, lemongrass, and lime for a mellow, creamy soup.",
+  "prepTime": "10 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g white fish fillets",
+    "2 cups jasmine rice",
+    "a handful of torn kaffir lime leaves",
+    "1 tsp palm sugar",
+    "3 tbsp neutral vegetable oil",
+    "2 Thai eggplant, chopped",
+    "a handful of fresh Thai basil, chopped",
+    "fish sauce, for serving"
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat and cook the sliced shallots and sliced lemongrass gently until soft and fragrant.",
+    "Stir in the white pepper and ground turmeric, toasting briefly until the kitchen fills with their aroma.",
+    "Add the large prawns and Thai bird's eye chilies, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the large prawns is tender, about 20 mins.",
+    "Stir in the rice vermicelli and continue simmering for a few minutes more, until heated through.",
+    "Finish with the lime wedges and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the Thai basil, and serve piping hot."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the chicken stock reduces as it simmers, concentrating the flavor.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇭"
+}

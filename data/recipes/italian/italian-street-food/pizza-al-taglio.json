@@ -1,0 +1,39 @@
+{
+  "slug": "pizza-al-taglio",
+  "name": "Pizza al Taglio",
+  "description": "Roman-style rectangular pizza baked in sheet pans with a thick, airy crust and endless topping combinations.",
+  "prepTime": "20 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "400g ground beef",
+    "1 cup spaghetti",
+    "a handful of minced garlic",
+    "2 tsp grated nutmeg",
+    "1/4 cup extra-virgin olive oil",
+    "200g celery stalks",
+    "a handful of fresh basil, chopped",
+    "a generous spoonful of pine nuts",
+    "500ml vegetable stock",
+    "1 1/2 tsp fennel seeds",
+    "1 cup yellow onions, sliced"
+  ],
+  "instructions": [
+    "Prepare the ciabatta bread base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the guanciale, San Marzano tomatoes, sliced shallots, and cracked black pepper, mixing well so everything is evenly seasoned.",
+    "Heat extra-virgin olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the ciabatta bread until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the guanciale mixture until cooked through and lightly charred at the edges, about 25 mins.",
+    "Assemble by layering the ciabatta bread with the filling, a spoonful of balsamic vinegar, and a scattering of parsley.",
+    "Add a final touch of mascarpone for extra flavor and texture.",
+    "Serve immediately while hot, with extra balsamic vinegar on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Double the balsamic vinegar so you have plenty for dipping — it tends to disappear fast.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇹"
+}

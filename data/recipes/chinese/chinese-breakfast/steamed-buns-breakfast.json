@@ -1,0 +1,35 @@
+{
+  "slug": "steamed-buns-breakfast",
+  "name": "Steamed Milk Buns",
+  "description": "Cloud-soft mantou steamed buns eaten plain with condensed milk or alongside a warm bowl of soy milk.",
+  "prepTime": "25 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "600g large prawns",
+    "300g steamed buns",
+    "2 tsp sliced scallion whites",
+    "1 tsp chili oil",
+    "3 tbsp neutral vegetable oil",
+    "a generous handful of shiitake mushrooms",
+    "a handful of fresh cilantro, chopped",
+    "black vinegar, for serving"
+  ],
+  "instructions": [
+    "Gather and prep the steamed buns and ground pork, measuring everything out so it is ready to go.",
+    "Heat toasted sesame oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced scallion whites and scallions, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the ground pork, season with white pepper, and cook until just done, about 15 mins.",
+    "Warm the steamed buns alongside, turning once, until heated through and lightly toasted.",
+    "Plate the steamed buns and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Prep the steamed buns and ground pork the night before to make busy mornings much easier.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "A squeeze of citrus or a sprinkle of cilantro just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇨🇳"
+}

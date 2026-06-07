@@ -1,0 +1,40 @@
+{
+  "slug": "chilaquiles",
+  "name": "Chilaquiles",
+  "description": "Fried tortilla chips briefly simmered in salsa verde or roja, topped with fried eggs, crema, and queso fresco.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "500g white fish fillets",
+    "2 cups bolillo rolls",
+    "2 tbsp finely chopped white onion",
+    "1 tsp ground cumin",
+    "2 tbsp neutral vegetable oil",
+    "200g avocado",
+    "a handful of fresh cilantro, chopped",
+    "pickled red onions, to taste",
+    "400ml beef stock",
+    "1/2 tsp dried oregano",
+    "a generous handful of white onions",
+    "a generous spoonful of lime wedges"
+  ],
+  "instructions": [
+    "Gather and prep the corn tortillas and black beans, measuring everything out so it is ready to go.",
+    "Heat lard in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the finely chopped white onion and red bell peppers, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the black beans, season with chili powder, and cook until just done, about 15 mins.",
+    "Warm the corn tortillas alongside, turning once, until heated through and lightly toasted.",
+    "Plate the corn tortillas and spoon the cooked mixture over the top.",
+    "Drizzle with Mexican crema and finish with a sprinkle of oregano.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of oregano just before serving brightens up the whole plate.",
+    "Prep the corn tortillas and black beans the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇲🇽"
+}

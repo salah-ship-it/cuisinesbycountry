@@ -1,0 +1,36 @@
+{
+  "slug": "kunefe",
+  "name": "Künefe",
+  "description": "Shredded kadayif pastry sandwiching molten unsalted cheese, baked in a copper pan and drenched in syrup.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Hard",
+  "servings": 4,
+  "ingredients": [
+    "700g ground lamb",
+    "300g yufka pastry",
+    "2 tsp sliced scallions",
+    "1 1/2 tsp Aleppo pepper",
+    "2 tbsp unsalted butter",
+    "2 green peppers, chopped",
+    "a handful of fresh mint, chopped",
+    "butter-fried pita, to taste",
+    "500ml beef stock",
+    "a pinch of dried mint"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with unsalted butter.",
+    "In a large bowl, whisk together the yufka pastry and cracked black pepper until evenly combined.",
+    "In a separate bowl, blend the lemon wedges with the chicken stock until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 20 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly."
+  ],
+  "tips": [
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting.",
+    "Bring your lemon wedges to room temperature before mixing for a smoother, more even texture."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇹🇷"
+}

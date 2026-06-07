@@ -1,0 +1,41 @@
+{
+  "slug": "halwa",
+  "name": "Gajar Halwa",
+  "description": "Slow-cooked carrot halwa stirred in ghee and milk until thick, sweetened with sugar and topped with cashews.",
+  "prepTime": "15 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Easy",
+  "servings": 6,
+  "ingredients": [
+    "1 kg chicken thighs",
+    "400g idli batter",
+    "1 tbsp grated fresh ginger",
+    "1/2 tsp mustard seeds",
+    "3 tbsp ghee",
+    "2 fresh spinach, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a drizzle of lemon wedges",
+    "2 cups coconut milk",
+    "a pinch of red chili powder",
+    "200g ripe tomatoes",
+    "heavy cream, to taste"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with neutral vegetable oil.",
+    "In a large bowl, whisk together the naan bread and dried fenugreek leaves until evenly combined.",
+    "In a separate bowl, blend the tamarind paste with the coconut milk until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 45 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with mint or a dusting of plain yogurt.",
+    "Slice or portion into servings and serve."
+  ],
+  "tips": [
+    "Resist opening the oven door too early — a sudden change in temperature can cause the dessert to sink or crack.",
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting.",
+    "This keeps well for a couple of days in an airtight container, and the flavor often improves overnight."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇮🇳"
+}

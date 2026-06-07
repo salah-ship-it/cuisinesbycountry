@@ -1,0 +1,36 @@
+{
+  "slug": "doner-kebab",
+  "name": "Döner Kebab",
+  "description": "Seasoned lamb and veal stacked on a vertical spit, slowly roasted and shaved to order into flatbread with salad.",
+  "prepTime": "30 mins",
+  "cookTime": "2 hrs",
+  "difficulty": "Hard",
+  "servings": 8,
+  "ingredients": [
+    "1 kg lamb shoulder",
+    "2 cups rice pilaf",
+    "a handful of sliced scallions",
+    "1 1/2 tsp dried mint",
+    "3 tbsp olive oil",
+    "200g ripe tomatoes",
+    "a handful of fresh dill, chopped",
+    "plain yogurt, for serving",
+    "2 cups beef stock"
+  ],
+  "instructions": [
+    "Pat the lamb shoulder dry, season generously with salt, pepper, and Aleppo pepper, and let it sit for a few minutes to absorb the flavors.",
+    "Heat unsalted butter in a wide pan or heavy pot over medium-high heat and sear the lamb shoulder until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the minced garlic and finely chopped red onion over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the ground cumin and green peppers, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the lamb shoulder to the pan, pour in the water, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the lamb shoulder is tender and cooked through, roughly 2 hrs."
+  ],
+  "tips": [
+    "For deeper flavor, marinate the lamb shoulder for at least an hour — or overnight — before cooking.",
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat.",
+    "A squeeze of lemon or a final scattering of mint just before serving brightens up all the deep, slow-cooked flavors."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇹🇷"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "oden",
+  "name": "Oden",
+  "description": "A winter one-pot of daikon, fish cakes, boiled eggs, and konnyaku slowly simmered in a delicate dashi broth.",
+  "prepTime": "20 mins",
+  "cookTime": "1 hr 30 mins",
+  "difficulty": "Easy",
+  "servings": 6,
+  "ingredients": [
+    "700g sushi-grade tuna",
+    "2 cups short-grain rice",
+    "1 tbsp sliced scallion whites",
+    "1 tsp white sesame seeds",
+    "3 tbsp neutral vegetable oil",
+    "200g shiitake mushrooms",
+    "a handful of fresh mitsuba, chopped",
+    "pickled ginger, to taste",
+    "500ml water",
+    "1/2 tsp shichimi togarashi",
+    "1 cup carrots, sliced"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the sliced scallion whites and grated fresh ginger gently until soft and fragrant.",
+    "Stir in the white sesame seeds and wasabi paste, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chicken thighs and carrots, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chicken thighs is tender, about 1 hr 30 mins.",
+    "Stir in the ramen noodles and continue simmering for a few minutes more, until heated through.",
+    "Finish with the bonito flakes and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the shiso leaves, and serve piping hot."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇯🇵"
+}

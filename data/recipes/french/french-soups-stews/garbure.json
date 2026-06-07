@@ -1,0 +1,37 @@
+{
+  "slug": "garbure",
+  "name": "Garbure",
+  "description": "A Gascon peasant soup so thick with cabbage, beans, and duck confit it can stand a spoon upright.",
+  "prepTime": "20 mins",
+  "cookTime": "1 hr 30 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "700g chicken thighs",
+    "300g puff pastry",
+    "a handful of minced garlic",
+    "2 tsp grated nutmeg",
+    "3 tbsp unsalted butter",
+    "2 shallots, chopped",
+    "a handful of fresh tarragon, chopped",
+    "a drizzle of Dijon mustard",
+    "400ml chicken stock",
+    "1 tsp fresh thyme"
+  ],
+  "instructions": [
+    "Heat extra-virgin olive oil in a large pot over medium heat and cook the minced garlic and sliced leeks gently until soft and fragrant.",
+    "Stir in the bay leaves and grated nutmeg, toasting briefly until the kitchen fills with their aroma.",
+    "Add the beef chuck and carrots, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the beef chuck is tender, about 1 hr 30 mins.",
+    "Stir in the brioche and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇫🇷"
+}

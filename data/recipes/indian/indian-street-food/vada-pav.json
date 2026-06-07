@@ -1,0 +1,37 @@
+{
+  "slug": "vada-pav",
+  "name": "Vada Pav",
+  "description": "Mumbai's beloved street burger of spiced mashed potato fritter tucked into a soft pav bun with chutneys.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "500g large prawns",
+    "1 cup flattened rice (poha)",
+    "1 tbsp crushed green cardamom pods",
+    "1/2 tsp red chili powder",
+    "2 tbsp ghee",
+    "1 cup cauliflower florets, sliced",
+    "a handful of fresh mint, chopped",
+    "a drizzle of tamarind paste"
+  ],
+  "instructions": [
+    "Prepare the basmati rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the chicken thighs, cauliflower florets, crushed green cardamom pods, and ground cumin, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the basmati rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the chicken thighs mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the basmati rice with the filling, a spoonful of tamarind paste, and a scattering of cilantro.",
+    "Add a final touch of ghee for extra flavor and texture.",
+    "Serve immediately while hot, with extra tamarind paste on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Keep the neutral vegetable oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇳"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "arancini",
+  "name": "Arancini",
+  "description": "Golden fried Sicilian rice balls stuffed with ragù, mozzarella, and peas in a crispy breadcrumb shell.",
+  "prepTime": "30 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Medium",
+  "servings": 12,
+  "ingredients": [
+    "600g fresh mozzarella",
+    "400g ciabatta bread",
+    "1 tbsp sliced shallots",
+    "1 tsp cracked black pepper",
+    "2 tbsp extra-virgin olive oil",
+    "1 cup San Marzano tomatoes, sliced",
+    "a handful of fresh rosemary, chopped",
+    "a generous spoonful of balsamic vinegar",
+    "1 cup chicken stock",
+    "1 tsp grated nutmeg",
+    "200g celery stalks",
+    "mascarpone, to taste"
+  ],
+  "instructions": [
+    "Prepare the arborio rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the Italian sausage, yellow onions, minced garlic, and cracked black pepper, mixing well so everything is evenly seasoned.",
+    "Heat unsalted butter in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the arborio rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the Italian sausage mixture until cooked through and lightly charred at the edges, about 25 mins.",
+    "Assemble by layering the arborio rice with the filling, a spoonful of extra-virgin olive oil, and a scattering of basil.",
+    "Add a final touch of lemon zest for extra flavor and texture.",
+    "Serve immediately while hot, with extra extra-virgin olive oil on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Keep the unsalted butter hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇹"
+}

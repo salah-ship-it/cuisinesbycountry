@@ -1,0 +1,39 @@
+{
+  "slug": "huevos-rancheros",
+  "name": "Huevos Rancheros",
+  "description": "Fried eggs served on warm corn tortillas blanketed with a chunky tomato-chili ranch sauce.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "700g cured chorizo",
+    "400g white rice",
+    "a handful of rehydrated dried chilies",
+    "1/2 tsp ground cinnamon",
+    "1/4 cup neutral vegetable oil",
+    "2 red bell peppers, chopped",
+    "a handful of fresh cilantro, chopped",
+    "pickled red onions, to taste",
+    "1 cup chicken stock",
+    "1/2 tsp smoked paprika",
+    "a generous handful of avocado",
+    "a generous spoonful of lime wedges"
+  ],
+  "instructions": [
+    "Gather and prep the bolillo rolls and chicken thighs, measuring everything out so it is ready to go.",
+    "Heat olive oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and white onions, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the chicken thighs, season with ground cinnamon, and cook until just done, about 15 mins.",
+    "Warm the bolillo rolls alongside, turning once, until heated through and lightly toasted.",
+    "Plate the bolillo rolls and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Keep the heat moderate so the chicken thighs cooks through gently without drying out or turning rubbery.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "A squeeze of citrus or a sprinkle of epazote just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇲🇽"
+}

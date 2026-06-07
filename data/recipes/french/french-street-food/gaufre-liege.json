@@ -1,0 +1,36 @@
+{
+  "slug": "gaufre-liege",
+  "name": "Gaufre de Liège",
+  "description": "A caramelized yeasted Belgian-style waffle studded with pearl sugar, eaten warm from a street iron.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "500g chicken thighs",
+    "400g baguette",
+    "2 tbsp sliced leeks",
+    "2 tsp grated nutmeg",
+    "2 tbsp extra-virgin olive oil",
+    "a generous handful of button mushrooms",
+    "a handful of fresh chives, chopped",
+    "Dijon mustard, for serving"
+  ],
+  "instructions": [
+    "Prepare the brioche base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the pork lardons, shallots, minced garlic, and fresh thyme, mixing well so everything is evenly seasoned.",
+    "Heat unsalted butter in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the brioche until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the pork lardons mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the brioche with the filling, a spoonful of cognac, and a scattering of chervil.",
+    "Add a final touch of unsalted butter for extra flavor and texture."
+  ],
+  "tips": [
+    "Double the cognac so you have plenty for dipping — it tends to disappear fast.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Keep the unsalted butter hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇫🇷"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "pan-dulce",
+  "name": "Pan Dulce",
+  "description": "An assortment of Mexican sweet breads—conchas, cuernos, and polvorones—best enjoyed with a warm café de olla.",
+  "prepTime": "30 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Hard",
+  "servings": 12,
+  "ingredients": [
+    "700g white fish fillets",
+    "400g corn tortillas",
+    "a handful of minced garlic",
+    "1/2 tsp chili powder",
+    "1/4 cup olive oil",
+    "200g red bell peppers",
+    "a handful of fresh oregano, chopped",
+    "a generous spoonful of pickled red onions",
+    "400ml beef stock"
+  ],
+  "instructions": [
+    "Gather and prep the bolillo rolls and pork shoulder, measuring everything out so it is ready to go.",
+    "Heat olive oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the rehydrated dried chilies and white onions, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the pork shoulder, season with ground cinnamon, and cook until just done, about 20 mins.",
+    "Warm the bolillo rolls alongside, turning once, until heated through and lightly toasted.",
+    "Plate the bolillo rolls and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Keep the heat moderate so the pork shoulder cooks through gently without drying out or turning rubbery.",
+    "A squeeze of citrus or a sprinkle of cilantro just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇲🇽"
+}

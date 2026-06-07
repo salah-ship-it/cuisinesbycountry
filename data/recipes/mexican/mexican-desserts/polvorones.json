@@ -1,0 +1,35 @@
+{
+  "slug": "polvorones",
+  "name": "Polvorones",
+  "description": "Crumbly Mexican shortbread cookies made with lard and pecans, dusted in powdered sugar and melt-in-the-mouth.",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 24,
+  "ingredients": [
+    "400g cured chorizo",
+    "300g corn tortillas",
+    "1 tbsp rehydrated dried chilies",
+    "2 tsp smoked paprika",
+    "3 tbsp lard",
+    "200g jalapeños",
+    "a handful of fresh epazote, chopped",
+    "salsa verde, to taste"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with neutral vegetable oil.",
+    "In a large bowl, whisk together the pinto beans and ground cumin until evenly combined.",
+    "In a separate bowl, blend the crumbled cotija cheese with the beef stock until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 15 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with epazote or a dusting of pickled red onions."
+  ],
+  "tips": [
+    "This keeps well for a couple of days in an airtight container, and the flavor often improves overnight.",
+    "Resist opening the oven door too early — a sudden change in temperature can cause the dessert to sink or crack."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇲🇽"
+}

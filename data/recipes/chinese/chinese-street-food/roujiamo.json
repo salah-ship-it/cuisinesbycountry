@@ -1,0 +1,38 @@
+{
+  "slug": "roujiamo",
+  "name": "Roujiamo",
+  "description": "Xi'an's answer to the burger: slow-braised spiced pork chopped and stuffed into a baked flatbread.",
+  "prepTime": "20 mins",
+  "cookTime": "2 hrs",
+  "difficulty": "Hard",
+  "servings": 4,
+  "ingredients": [
+    "400g whole duck",
+    "400g steamed buns",
+    "2 tbsp crushed Sichuan peppercorns",
+    "1 tsp doubanjiang (chili bean paste)",
+    "1/4 cup neutral vegetable oil",
+    "2 carrots, chopped",
+    "a handful of fresh scallion greens, chopped",
+    "a generous spoonful of toasted sesame seeds",
+    "500ml pork stock",
+    "1 1/2 tsp star anise",
+    "1 cup napa cabbage, sliced",
+    "a drizzle of Shaoxing wine"
+  ],
+  "instructions": [
+    "Prepare the jasmine rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the chicken thighs, carrots, minced garlic, and chili oil, mixing well so everything is evenly seasoned.",
+    "Heat toasted sesame oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the jasmine rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the chicken thighs mixture until cooked through and lightly charred at the edges, about 2 hrs.",
+    "Assemble by layering the jasmine rice with the filling, a spoonful of toasted sesame oil, and a scattering of chives."
+  ],
+  "tips": [
+    "Double the toasted sesame oil so you have plenty for dipping — it tends to disappear fast.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇨🇳"
+}

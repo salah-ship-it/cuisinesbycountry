@@ -1,0 +1,37 @@
+{
+  "slug": "mezcal",
+  "name": "Mezcal",
+  "description": "A smoky artisanal spirit distilled from roasted agave hearts in Oaxaca, sipped neat with an orange and sal de gusano.",
+  "prepTime": "2 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "500g pork shoulder",
+    "300g bolillo rolls",
+    "a handful of minced garlic",
+    "1 tsp ground cumin",
+    "3 tbsp lard",
+    "a generous handful of tomatillos",
+    "a handful of fresh oregano, chopped",
+    "a drizzle of salsa verde",
+    "400ml chicken stock",
+    "1 tsp smoked paprika"
+  ],
+  "instructions": [
+    "Combine the pinto beans and orange juice in a saucepan, blender, or pitcher, stirring well.",
+    "Add the smoked paprika and crumbled cotija cheese, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 0 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with salsa verde, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot."
+  ],
+  "tips": [
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil.",
+    "Adjust the sweetness gradually, tasting as you go — you can always add more salsa verde, but you cannot take it away.",
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇲🇽"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "enfrijoladas",
+  "name": "Enfrijoladas",
+  "description": "Corn tortillas dipped in a smooth black bean sauce and folded around chicken or cheese, topped with crema.",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g white fish fillets",
+    "400g bolillo rolls",
+    "2 tsp minced garlic",
+    "1 1/2 tsp smoked paprika",
+    "3 tbsp olive oil",
+    "2 tomatillos, chopped",
+    "a handful of fresh epazote, chopped",
+    "pickled red onions, for serving",
+    "1 cup chicken stock"
+  ],
+  "instructions": [
+    "Gather and prep the corn tortillas and cured chorizo, measuring everything out so it is ready to go.",
+    "Heat olive oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the finely chopped white onion and tomatillos, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the cured chorizo, season with dried oregano, and cook until just done, about 15 mins.",
+    "Warm the corn tortillas alongside, turning once, until heated through and lightly toasted.",
+    "Plate the corn tortillas and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Prep the corn tortillas and cured chorizo the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇲🇽"
+}

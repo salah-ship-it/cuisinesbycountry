@@ -1,0 +1,40 @@
+{
+  "slug": "tom-jued",
+  "name": "Tom Jued",
+  "description": "A clean, mild clear soup of minced pork, glass noodles, and tofu in a light broth seasoned with white pepper.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g white fish fillets",
+    "300g glutinous rice",
+    "2 tsp sliced lemongrass",
+    "a pinch of dried shrimp",
+    "1/4 cup neutral vegetable oil",
+    "1 cup cherry tomatoes, sliced",
+    "a handful of fresh cilantro, chopped",
+    "tamarind paste, to taste",
+    "400ml water",
+    "1/2 tsp white pepper",
+    "200g Thai bird's eye chilies",
+    "crispy fried shallots, to taste"
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat and cook the sliced shallots and minced garlic gently until soft and fragrant.",
+    "Stir in the red curry paste and ground turmeric, toasting briefly until the kitchen fills with their aroma.",
+    "Add the white fish fillets and Thai bird's eye chilies, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the white fish fillets is tender, about 15 mins.",
+    "Stir in the roti dough and continue simmering for a few minutes more, until heated through.",
+    "Finish with the coconut cream and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the cilantro, and serve piping hot."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇭"
+}

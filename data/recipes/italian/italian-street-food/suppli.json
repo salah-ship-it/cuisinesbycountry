@@ -1,0 +1,41 @@
+{
+  "slug": "suppli",
+  "name": "Supplì",
+  "description": "Roman fried rice croquettes filled with gooey mozzarella and tomato sauce, crispier than their Sicilian cousin.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 10,
+  "ingredients": [
+    "1 kg chicken thighs",
+    "300g pizza dough",
+    "1 tbsp sliced shallots",
+    "1 1/2 tsp grated nutmeg",
+    "1/4 cup unsalted butter",
+    "1 cup zucchini, sliced",
+    "a handful of fresh basil, chopped",
+    "Parmesan cheese, to taste",
+    "500ml chicken stock",
+    "2 tsp cracked black pepper",
+    "200g celery stalks",
+    "a generous spoonful of balsamic vinegar"
+  ],
+  "instructions": [
+    "Prepare the fresh lasagna sheets base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the Italian sausage, zucchini, sliced shallots, and cracked black pepper, mixing well so everything is evenly seasoned.",
+    "Heat unsalted butter in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the fresh lasagna sheets until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the Italian sausage mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the fresh lasagna sheets with the filling, a spoonful of balsamic vinegar, and a scattering of parsley.",
+    "Add a final touch of Parmesan cheese for extra flavor and texture.",
+    "Serve immediately while hot, with extra balsamic vinegar on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Keep the unsalted butter hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇹"
+}

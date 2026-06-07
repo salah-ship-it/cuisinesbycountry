@@ -1,0 +1,34 @@
+{
+  "slug": "tamales-de-elote",
+  "name": "Tamales de Elote",
+  "description": "Sweet fresh corn tamales steamed in their own husks with a moist, tender masa that needs no filling.",
+  "prepTime": "30 mins",
+  "cookTime": "1 hr",
+  "difficulty": "Medium",
+  "servings": 12,
+  "ingredients": [
+    "400g chicken thighs",
+    "400g white rice",
+    "2 tsp finely chopped white onion",
+    "1/2 tsp chili powder",
+    "2 tbsp lard",
+    "2 ripe tomatoes, chopped",
+    "a handful of fresh epazote, chopped",
+    "salsa verde, for serving"
+  ],
+  "instructions": [
+    "Gather and prep the white rice and pork shoulder, measuring everything out so it is ready to go.",
+    "Heat lard in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and jalapeños, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the pork shoulder, season with ground cumin, and cook until just done, about 1 hr.",
+    "Warm the white rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the white rice and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Prep the white rice and pork shoulder the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇲🇽"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "gulai-kambing",
+  "name": "Gulai Kambing",
+  "description": "Goat meat simmered in a turmeric-rich coconut curry with cinnamon, star anise, and lemongrass.",
+  "prepTime": "20 mins",
+  "cookTime": "1 hr 30 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "500g tempeh",
+    "1 cup compressed rice cakes (lontong)",
+    "2 tbsp grated fresh ginger",
+    "1/2 tsp crushed candlenuts",
+    "2 tbsp neutral vegetable oil",
+    "1 cup bean sprouts, sliced",
+    "a handful of fresh Thai basil, chopped",
+    "a generous spoonful of kecap manis (sweet soy sauce)",
+    "2 cups water",
+    "1 1/2 tsp ground cumin",
+    "2 long beans, chopped"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the sliced shallots and minced garlic gently until soft and fragrant.",
+    "Stir in the ground cumin and coriander seeds, toasting briefly until the kitchen fills with their aroma.",
+    "Add the firm tofu and shallots, stirring well to coat everything in the spiced base.",
+    "Pour in the coconut milk, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the firm tofu is tender, about 1 hr 30 mins.",
+    "Stir in the rice noodles and continue simmering for a few minutes more, until heated through.",
+    "Finish with the coconut cream and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇩"
+}

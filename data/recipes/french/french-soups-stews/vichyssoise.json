@@ -1,0 +1,36 @@
+{
+  "slug": "vichyssoise",
+  "name": "Vichyssoise",
+  "description": "A silky chilled leek and potato soup enriched with cream and seasoned delicately, topped with fresh chives.",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 6,
+  "ingredients": [
+    "700g duck legs",
+    "300g egg noodles",
+    "1 tbsp sliced leeks",
+    "1 1/2 tsp cracked black peppercorns",
+    "2 tbsp unsalted butter",
+    "200g pearl onions",
+    "a handful of fresh parsley, chopped",
+    "lemon zest, for serving",
+    "1 cup dry red wine",
+    "1/2 tsp herbes de Provence"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the minced garlic and sliced leeks gently until soft and fragrant.",
+    "Stir in the fresh thyme and bay leaves, toasting briefly until the kitchen fills with their aroma.",
+    "Add the beef chuck and button mushrooms, stirring well to coat everything in the spiced base.",
+    "Pour in the beef stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the beef chuck is tender, about 30 mins.",
+    "Stir in the puff pastry and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇫🇷"
+}

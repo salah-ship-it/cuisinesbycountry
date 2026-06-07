@@ -1,0 +1,35 @@
+{
+  "slug": "bombolone",
+  "name": "Bombolone",
+  "description": "Fluffy Italian filled doughnuts piped full of vanilla custard cream and rolled in granulated sugar.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 10,
+  "ingredients": [
+    "600g ground pork",
+    "1 cup spaghetti",
+    "a handful of sliced shallots",
+    "a pinch of dried oregano",
+    "3 tbsp unsalted butter",
+    "200g yellow onions",
+    "a handful of fresh basil, chopped",
+    "a generous spoonful of balsamic vinegar"
+  ],
+  "instructions": [
+    "Prepare the arborio rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the sea bass fillets, San Marzano tomatoes, minced garlic, and cracked black pepper, mixing well so everything is evenly seasoned.",
+    "Heat unsalted butter in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the arborio rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the sea bass fillets mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the arborio rice with the filling, a spoonful of pine nuts, and a scattering of sage."
+  ],
+  "tips": [
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Keep the unsalted butter hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇹"
+}

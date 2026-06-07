@@ -1,0 +1,38 @@
+{
+  "slug": "turkish-cheese-platter",
+  "name": "Turkish Cheese Platter",
+  "description": "A spread of white beyaz peynir, aged kaşar, and tulum cheeses served with olives, tomatoes, and fresh bread.",
+  "prepTime": "10 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg lamb shoulder",
+    "2 cups pide bread",
+    "2 tsp finely chopped red onion",
+    "1 1/2 tsp dried mint",
+    "3 tbsp unsalted butter",
+    "200g ripe tomatoes",
+    "a handful of fresh dill, chopped",
+    "butter-fried pita, for serving",
+    "500ml water",
+    "1/2 tsp Aleppo pepper",
+    "2 red onions, chopped"
+  ],
+  "instructions": [
+    "Gather and prep the pide bread and fresh mussels, measuring everything out so it is ready to go.",
+    "Heat olive oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and cucumber, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the fresh mussels, season with ground sumac, and cook until just done, about 0 mins.",
+    "Warm the pide bread alongside, turning once, until heated through and lightly toasted.",
+    "Plate the pide bread and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Prep the pide bread and fresh mussels the night before to make busy mornings much easier.",
+    "A squeeze of citrus or a sprinkle of dill just before serving brightens up the whole plate.",
+    "Keep the heat moderate so the fresh mussels cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇷"
+}

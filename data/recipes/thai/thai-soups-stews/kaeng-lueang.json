@@ -1,0 +1,35 @@
+{
+  "slug": "kaeng-lueang",
+  "name": "Kaeng Lueang",
+  "description": "A sour southern Thai yellow curry soup with fish, bamboo shoots, and turmeric-heavy paste and no coconut milk.",
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "600g large prawns",
+    "2 cups rice vermicelli",
+    "1 tbsp torn kaffir lime leaves",
+    "a pinch of white pepper",
+    "1/4 cup coconut oil",
+    "2 Thai eggplant, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of tamarind paste"
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat and cook the sliced lemongrass and sliced galangal gently until soft and fragrant.",
+    "Stir in the white pepper and ground turmeric, toasting briefly until the kitchen fills with their aroma.",
+    "Add the firm tofu and Thai eggplant, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the firm tofu is tender, about 25 mins.",
+    "Stir in the roti dough and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the chicken stock reduces as it simmers, concentrating the flavor.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇭"
+}

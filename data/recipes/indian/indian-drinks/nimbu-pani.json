@@ -1,0 +1,37 @@
+{
+  "slug": "nimbu-pani",
+  "name": "Nimbu Pani",
+  "description": "Indian fresh lemonade of squeezed lime, sugar or salt, cumin, and cold water—essential on a hot day.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "500g basmati rice",
+    "2 cups flattened rice (poha)",
+    "2 tbsp crushed green cardamom pods",
+    "1 1/2 tsp garam masala",
+    "1/4 cup ghee",
+    "200g yellow onions",
+    "a handful of fresh curry leaves, chopped",
+    "a drizzle of roasted cashews",
+    "1 cup coconut milk"
+  ],
+  "instructions": [
+    "Combine the roti and water in a saucepan, blender, or pitcher, stirring well.",
+    "Add the dried fenugreek leaves and tamarind paste, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 0 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with ghee, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with cilantro just before serving."
+  ],
+  "tips": [
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours.",
+    "Serve in a chilled glass for the most refreshing result on a hot day.",
+    "Adjust the sweetness gradually, tasting as you go — you can always add more ghee, but you cannot take it away."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇮🇳"
+}

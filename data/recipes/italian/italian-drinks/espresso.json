@@ -1,0 +1,39 @@
+{
+  "slug": "espresso",
+  "name": "Espresso",
+  "description": "A concentrated shot of coffee brewed under pressure, the cornerstone of Italian coffee culture and daily life.",
+  "prepTime": "2 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "600g fresh mozzarella",
+    "1 cup ciabatta bread",
+    "1 tbsp sliced shallots",
+    "a pinch of cracked black pepper",
+    "1/4 cup extra-virgin olive oil",
+    "2 zucchini, chopped",
+    "a handful of fresh basil, chopped",
+    "a drizzle of pine nuts",
+    "2 cups whole milk",
+    "1/2 tsp fennel seeds",
+    "a generous handful of carrots",
+    "a drizzle of balsamic vinegar"
+  ],
+  "instructions": [
+    "Combine the ciabatta bread and whole milk in a saucepan, blender, or pitcher, stirring well.",
+    "Add the dried oregano and balsamic vinegar, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 0 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with Parmesan cheese, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with parsley just before serving."
+  ],
+  "tips": [
+    "Serve in a chilled glass for the most refreshing result on a hot day.",
+    "Adjust the sweetness gradually, tasting as you go — you can always add more Parmesan cheese, but you cannot take it away."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇮🇹"
+}

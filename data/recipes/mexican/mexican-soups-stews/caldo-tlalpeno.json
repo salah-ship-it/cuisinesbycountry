@@ -1,0 +1,37 @@
+{
+  "slug": "caldo-tlalpeno",
+  "name": "Caldo Tlalpeño",
+  "description": "A smoky Mexico City soup of chicken, chickpeas, and chipotle, finished with fresh avocado and lime.",
+  "prepTime": "15 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g black beans",
+    "300g bolillo rolls",
+    "2 tbsp finely chopped white onion",
+    "1 1/2 tsp chili powder",
+    "3 tbsp olive oil",
+    "1 cup avocado, sliced",
+    "a handful of fresh oregano, chopped",
+    "a generous spoonful of lime wedges",
+    "1 cup chicken stock",
+    "a pinch of ground cinnamon"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the minced garlic and rehydrated dried chilies gently until soft and fragrant.",
+    "Stir in the smoked paprika and ground cinnamon, toasting briefly until the kitchen fills with their aroma.",
+    "Add the cured chorizo and jalapeños, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the cured chorizo is tender, about 45 mins.",
+    "Stir in the white rice and continue simmering for a few minutes more, until heated through.",
+    "Finish with the salsa verde and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇽"
+}

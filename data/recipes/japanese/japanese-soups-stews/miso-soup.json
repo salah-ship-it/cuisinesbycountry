@@ -1,0 +1,38 @@
+{
+  "slug": "miso-soup",
+  "name": "Miso Soup",
+  "description": "A daily Japanese staple of dashi broth enriched with miso paste, silken tofu, wakame, and sliced spring onion.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g large prawns",
+    "1 cup short-grain rice",
+    "a handful of sliced scallion whites",
+    "1/2 tsp cracked black pepper",
+    "1/4 cup toasted sesame oil",
+    "1 cup napa cabbage, sliced",
+    "a handful of fresh chives, chopped",
+    "soy sauce, to taste",
+    "500ml chicken stock",
+    "1 1/2 tsp wasabi paste",
+    "a generous handful of carrots"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the minced garlic and sliced scallion whites gently until soft and fragrant.",
+    "Stir in the wasabi paste and cracked black pepper, toasting briefly until the kitchen fills with their aroma.",
+    "Add the sushi-grade tuna and carrots, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the sushi-grade tuna is tender, about 10 mins.",
+    "Stir in the ramen noodles and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇯🇵"
+}

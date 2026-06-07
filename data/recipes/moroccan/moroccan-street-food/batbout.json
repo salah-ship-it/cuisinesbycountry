@@ -1,0 +1,37 @@
+{
+  "slug": "batbout",
+  "name": "Batbout",
+  "description": "Soft pita-like Moroccan rolls cooked on a griddle, perfect for stuffing with kefta or cheese.",
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 8,
+  "ingredients": [
+    "500g ground beef",
+    "2 cups flatbread",
+    "2 tsp grated fresh ginger",
+    "1/2 tsp ground turmeric",
+    "2 tbsp olive oil",
+    "2 ripe tomatoes, chopped",
+    "a handful of fresh parsley, chopped",
+    "a generous spoonful of toasted almonds",
+    "1 cup water"
+  ],
+  "instructions": [
+    "Prepare the crusty bread base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the chicken thighs, butternut squash, finely chopped red onion, and ras el hanout, mixing well so everything is evenly seasoned.",
+    "Heat olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the crusty bread until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the chicken thighs mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the crusty bread with the filling, a spoonful of dried apricots, and a scattering of cilantro.",
+    "Add a final touch of preserved lemon for extra flavor and texture."
+  ],
+  "tips": [
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Keep the olive oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇦"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "zuppa-di-pesce",
+  "name": "Zuppa di Pesce",
+  "description": "A luxurious Italian fish stew with a medley of seafood simmered in a white wine and saffron broth.",
+  "prepTime": "20 mins",
+  "cookTime": "35 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "1 kg ground beef",
+    "400g ladyfingers",
+    "2 tbsp sliced leeks",
+    "1/2 tsp grated nutmeg",
+    "3 tbsp extra-virgin olive oil",
+    "200g carrots",
+    "a handful of fresh parsley, chopped",
+    "balsamic vinegar, for serving",
+    "500ml whole milk",
+    "2 tsp dried oregano",
+    "a generous handful of celery stalks"
+  ],
+  "instructions": [
+    "Heat extra-virgin olive oil in a large pot over medium heat and cook the sliced leeks and minced garlic gently until soft and fragrant.",
+    "Stir in the red pepper flakes and cracked black pepper, toasting briefly until the kitchen fills with their aroma.",
+    "Add the fresh mozzarella and baby spinach, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the fresh mozzarella is tender, about 35 mins.",
+    "Stir in the arborio rice and continue simmering for a few minutes more, until heated through.",
+    "Finish with the balsamic vinegar and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the rosemary, and serve piping hot."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the chicken stock reduces as it simmers, concentrating the flavor.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇹"
+}

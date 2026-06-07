@@ -1,0 +1,36 @@
+{
+  "slug": "eight-treasure-congee",
+  "name": "Eight Treasure Congee",
+  "description": "A festive Laba rice porridge of eight grains, legumes, and dried fruits simmered into a nourishing winter bowl.",
+  "prepTime": "15 mins",
+  "cookTime": "1 hr",
+  "difficulty": "Easy",
+  "servings": 6,
+  "ingredients": [
+    "600g whole duck",
+    "300g wonton wrappers",
+    "2 tsp minced garlic",
+    "1 1/2 tsp five-spice powder",
+    "1/4 cup toasted sesame oil",
+    "1 cup napa cabbage, sliced",
+    "a handful of fresh chives, chopped",
+    "a drizzle of soy sauce",
+    "500ml pork stock"
+  ],
+  "instructions": [
+    "Heat toasted sesame oil in a large pot over medium heat and cook the crushed Sichuan peppercorns and minced garlic gently until soft and fragrant.",
+    "Stir in the five-spice powder and white pepper, toasting briefly until the kitchen fills with their aroma.",
+    "Add the whole duck and napa cabbage, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the whole duck is tender, about 1 hr.",
+    "Stir in the egg noodles and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇨🇳"
+}

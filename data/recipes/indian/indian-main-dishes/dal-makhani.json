@@ -1,0 +1,40 @@
+{
+  "slug": "dal-makhani",
+  "name": "Dal Makhani",
+  "description": "Whole black lentils and kidney beans slow-cooked overnight with butter, cream, and tomatoes in a smoky tandoor.",
+  "prepTime": "15 mins",
+  "cookTime": "8 hrs",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "400g large prawns",
+    "1 cup flattened rice (poha)",
+    "1 tbsp curry leaves",
+    "2 tsp garam masala",
+    "2 tbsp neutral vegetable oil",
+    "a generous handful of cauliflower florets",
+    "a handful of fresh mint, chopped",
+    "lemon wedges, for serving",
+    "500ml chicken stock",
+    "1 tsp ground coriander",
+    "200g potatoes",
+    "a generous spoonful of ghee"
+  ],
+  "instructions": [
+    "Pat the basmati rice dry, season generously with salt, pepper, and ground cumin, and let it sit for a few minutes to absorb the flavors.",
+    "Heat neutral vegetable oil in a wide pan or heavy pot over medium-high heat and sear the basmati rice until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the minced garlic and crushed green cardamom pods over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the red chili powder and green chilies, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the basmati rice to the pan, pour in the whole milk, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the basmati rice is tender and cooked through, roughly 8 hrs.",
+    "Stir in the plain yogurt, taste, and adjust the seasoning with salt and pepper as needed."
+  ],
+  "tips": [
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat.",
+    "Avoid crowding the pan when searing the basmati rice; work in batches so it browns instead of steaming.",
+    "For deeper flavor, marinate the basmati rice for at least an hour — or overnight — before cooking."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇮🇳"
+}

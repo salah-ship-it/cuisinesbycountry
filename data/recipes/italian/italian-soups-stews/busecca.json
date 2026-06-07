@@ -1,0 +1,34 @@
+{
+  "slug": "busecca",
+  "name": "Busecca",
+  "description": "A Milanese tripe stew slow-cooked with beans, tomatoes, and vegetables in a deeply savory broth.",
+  "prepTime": "20 mins",
+  "cookTime": "2 hrs",
+  "difficulty": "Hard",
+  "servings": 4,
+  "ingredients": [
+    "500g pancetta",
+    "2 cups pizza dough",
+    "a handful of minced garlic",
+    "a pinch of red pepper flakes",
+    "3 tbsp unsalted butter",
+    "2 yellow onions, chopped",
+    "a handful of fresh sage, chopped",
+    "pine nuts, for serving"
+  ],
+  "instructions": [
+    "Heat extra-virgin olive oil in a large pot over medium heat and cook the minced garlic and sliced shallots gently until soft and fragrant.",
+    "Stir in the dried oregano and fennel seeds, toasting briefly until the kitchen fills with their aroma.",
+    "Add the ground beef and baby spinach, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the ground beef is tender, about 2 hrs.",
+    "Stir in the ladyfingers and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the chicken stock reduces as it simmers, concentrating the flavor.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇹"
+}

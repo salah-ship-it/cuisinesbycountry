@@ -1,0 +1,39 @@
+{
+  "slug": "sutlac",
+  "name": "Sütlaç",
+  "description": "A baked rice pudding caramelized under the grill until the surface is burnished golden, served chilled.",
+  "prepTime": "10 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Easy",
+  "servings": 6,
+  "ingredients": [
+    "400g red lentils",
+    "400g simit rings",
+    "2 tbsp minced garlic",
+    "a pinch of cracked black pepper",
+    "1/4 cup olive oil",
+    "a generous handful of ripe tomatoes",
+    "a handful of fresh parsley, chopped",
+    "a generous spoonful of crumbled feta",
+    "400ml water",
+    "a pinch of dried mint",
+    "200g red onions"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with unsalted butter.",
+    "In a large bowl, whisk together the simit rings and cracked black pepper until evenly combined.",
+    "In a separate bowl, blend the butter-fried pita with the water until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 40 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with mint or a dusting of pomegranate molasses."
+  ],
+  "tips": [
+    "Resist opening the oven door too early — a sudden change in temperature can cause the dessert to sink or crack.",
+    "This keeps well for a couple of days in an airtight container, and the flavor often improves overnight.",
+    "Bring your butter-fried pita to room temperature before mixing for a smoother, more even texture."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇹🇷"
+}

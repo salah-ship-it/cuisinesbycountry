@@ -1,0 +1,36 @@
+{
+  "slug": "japanese-rice-set",
+  "name": "Japanese Rice Set",
+  "description": "The classic ichiju-sansai breakfast of steamed rice, miso soup, grilled fish, pickles, and simmered vegetables.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 2,
+  "ingredients": [
+    "400g thinly sliced beef",
+    "300g soba noodles",
+    "a handful of sliced scallion whites",
+    "1 1/2 tsp wasabi paste",
+    "2 tbsp neutral vegetable oil",
+    "a generous handful of napa cabbage",
+    "a handful of fresh mitsuba, chopped",
+    "bonito flakes, for serving",
+    "500ml water"
+  ],
+  "instructions": [
+    "Gather and prep the nori sheets and sushi-grade tuna, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and shiitake mushrooms, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the sushi-grade tuna, season with cracked black pepper, and cook until just done, about 20 mins.",
+    "Warm the nori sheets alongside, turning once, until heated through and lightly toasted.",
+    "Plate the nori sheets and spoon the cooked mixture over the top.",
+    "Drizzle with mirin and finish with a sprinkle of chives."
+  ],
+  "tips": [
+    "Keep the heat moderate so the sushi-grade tuna cooks through gently without drying out or turning rubbery.",
+    "A squeeze of citrus or a sprinkle of chives just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇯🇵"
+}

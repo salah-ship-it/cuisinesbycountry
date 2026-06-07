@@ -1,0 +1,40 @@
+{
+  "slug": "meloui",
+  "name": "Meloui",
+  "description": "Spiral-rolled Moroccan flatbreads with a flaky, chewy crumb, enjoyed as a snack or with mint tea.",
+  "prepTime": "25 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "600g merguez sausage",
+    "400g vermicelli noodles",
+    "2 tsp minced garlic",
+    "a pinch of saffron threads",
+    "2 tbsp butter",
+    "a generous handful of red bell peppers",
+    "a handful of fresh parsley, chopped",
+    "a drizzle of green olives",
+    "2 cups vegetable stock",
+    "1/2 tsp ras el hanout",
+    "a generous handful of potatoes"
+  ],
+  "instructions": [
+    "Prepare the flatbread base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the chicken thighs, red onions, minced garlic, and sweet paprika, mixing well so everything is evenly seasoned.",
+    "Heat olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the flatbread until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the chicken thighs mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the flatbread with the filling, a spoonful of pitted dates, and a scattering of cilantro.",
+    "Add a final touch of green olives for extra flavor and texture.",
+    "Serve immediately while hot, with extra pitted dates on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Keep the olive oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Double the pitted dates so you have plenty for dipping — it tends to disappear fast."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇦"
+}

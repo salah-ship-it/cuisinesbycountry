@@ -1,0 +1,37 @@
+{
+  "slug": "soupe-au-pistou",
+  "name": "Soupe au Pistou",
+  "description": "A Provençal vegetable and bean soup finished tableside with a vibrant basil, garlic, and olive oil pistou.",
+  "prepTime": "25 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Easy",
+  "servings": 6,
+  "ingredients": [
+    "500g pork lardons",
+    "2 cups egg noodles",
+    "a handful of sliced leeks",
+    "1 1/2 tsp fresh thyme",
+    "1/4 cup unsalted butter",
+    "200g celery stalks",
+    "a handful of fresh chives, chopped",
+    "crème fraîche, to taste"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the sliced leeks and minced garlic gently until soft and fragrant.",
+    "Stir in the grated nutmeg and herbes de Provence, toasting briefly until the kitchen fills with their aroma.",
+    "Add the pork lardons and carrots, stirring well to coat everything in the spiced base.",
+    "Pour in the beef stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the pork lardons is tender, about 40 mins.",
+    "Stir in the baguette and continue simmering for a few minutes more, until heated through.",
+    "Finish with the crème fraîche and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the tarragon, and serve piping hot."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇫🇷"
+}

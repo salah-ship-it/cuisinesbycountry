@@ -1,0 +1,39 @@
+{
+  "slug": "torta",
+  "name": "Torta Ahogada",
+  "description": "A birote bread roll stuffed with carnitas and drowned in a fiery tomato and arbol chili sauce from Guadalajara.",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 2,
+  "ingredients": [
+    "400g pork shoulder",
+    "2 cups corn tortillas",
+    "2 tsp finely chopped white onion",
+    "a pinch of chili powder",
+    "3 tbsp neutral vegetable oil",
+    "2 jalapeños, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a drizzle of crumbled cotija cheese",
+    "2 cups water",
+    "1 tsp ground cumin",
+    "200g ripe tomatoes"
+  ],
+  "instructions": [
+    "Prepare the white rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the cured chorizo, red bell peppers, finely chopped white onion, and dried oregano, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the white rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the cured chorizo mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the white rice with the filling, a spoonful of pickled red onions, and a scattering of oregano.",
+    "Add a final touch of toasted pumpkin seeds for extra flavor and texture.",
+    "Serve immediately while hot, with extra pickled red onions on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇽"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "ozoni",
+  "name": "Ozoni",
+  "description": "A celebratory New Year soup of clear or miso broth with mochi rice cakes, vegetables, and seasonal garnishes.",
+  "prepTime": "15 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g thinly sliced beef",
+    "400g ramen noodles",
+    "1 tbsp grated fresh ginger",
+    "1/2 tsp shichimi togarashi",
+    "3 tbsp neutral vegetable oil",
+    "1 cup shiitake mushrooms, sliced",
+    "a handful of fresh shiso leaves, chopped",
+    "mirin, for serving",
+    "1 cup water"
+  ],
+  "instructions": [
+    "Heat toasted sesame oil in a large pot over medium heat and cook the sliced scallion whites and grated fresh ginger gently until soft and fragrant.",
+    "Stir in the shichimi togarashi and cracked black pepper, toasting briefly until the kitchen fills with their aroma.",
+    "Add the pork loin and bean sprouts, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the pork loin is tender, about 20 mins.",
+    "Stir in the soba noodles and continue simmering for a few minutes more, until heated through.",
+    "Finish with the soy sauce and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the mitsuba, and serve piping hot."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the chicken stock reduces as it simmers, concentrating the flavor.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇯🇵"
+}

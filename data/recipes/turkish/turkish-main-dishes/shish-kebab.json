@@ -1,0 +1,40 @@
+{
+  "slug": "shish-kebab",
+  "name": "Şiş Kebab",
+  "description": "Cubes of marinated lamb or chicken threaded onto skewers with peppers and onions, grilled over charcoal.",
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g ground lamb",
+    "300g bulgur wheat",
+    "2 tbsp minced garlic",
+    "a pinch of Aleppo pepper",
+    "1/4 cup unsalted butter",
+    "200g baby potatoes",
+    "a handful of fresh parsley, chopped",
+    "a drizzle of pomegranate molasses",
+    "2 cups water",
+    "1 tsp sweet paprika",
+    "200g green peppers",
+    "plain yogurt, for serving"
+  ],
+  "instructions": [
+    "Pat the fresh mussels dry, season generously with salt, pepper, and Aleppo pepper, and let it sit for a few minutes to absorb the flavors.",
+    "Heat unsalted butter in a wide pan or heavy pot over medium-high heat and sear the fresh mussels until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the finely chopped red onion and minced garlic over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the ground sumac and red onions, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the fresh mussels to the pan, pour in the beef stock, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the fresh mussels is tender and cooked through, roughly 15 mins.",
+    "Stir in the crumbled feta, taste, and adjust the seasoning with salt and pepper as needed."
+  ],
+  "tips": [
+    "Avoid crowding the pan when searing the fresh mussels; work in batches so it browns instead of steaming.",
+    "A squeeze of lemon or a final scattering of mint just before serving brightens up all the deep, slow-cooked flavors.",
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇹🇷"
+}

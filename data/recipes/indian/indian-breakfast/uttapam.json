@@ -1,0 +1,39 @@
+{
+  "slug": "uttapam",
+  "name": "Uttapam",
+  "description": "Thick, fluffy rice and lentil pancakes topped with onions, tomatoes, and green chilies cooked on a griddle.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g chicken thighs",
+    "300g roti",
+    "2 tsp crushed green cardamom pods",
+    "2 tsp ground turmeric",
+    "1/4 cup neutral vegetable oil",
+    "a generous handful of potatoes",
+    "a handful of fresh curry leaves, chopped",
+    "plain yogurt, for serving",
+    "2 cups whole milk",
+    "1 1/2 tsp mustard seeds"
+  ],
+  "instructions": [
+    "Gather and prep the semolina and red lentils, measuring everything out so it is ready to go.",
+    "Heat ghee in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the curry leaves and green chilies, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the red lentils, season with mustard seeds, and cook until just done, about 15 mins.",
+    "Warm the semolina alongside, turning once, until heated through and lightly toasted.",
+    "Plate the semolina and spoon the cooked mixture over the top.",
+    "Drizzle with ghee and finish with a sprinkle of mint.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Prep the semolina and red lentils the night before to make busy mornings much easier.",
+    "Keep the heat moderate so the red lentils cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇳"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "durum",
+  "name": "Dürüm",
+  "description": "Thin lavash bread tightly rolled around grilled meat, salad, and spicy ezme sauce for a portable Turkish wrap.",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "400g lamb shoulder",
+    "400g pide bread",
+    "a handful of minced garlic",
+    "a pinch of dried mint",
+    "2 tbsp unsalted butter",
+    "a generous handful of green peppers",
+    "a handful of fresh dill, chopped",
+    "plain yogurt, to taste"
+  ],
+  "instructions": [
+    "Prepare the rice pilaf base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the beef sirloin, red onions, minced garlic, and dried mint, mixing well so everything is evenly seasoned.",
+    "Heat unsalted butter in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the rice pilaf until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the beef sirloin mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the rice pilaf with the filling, a spoonful of toasted pine nuts, and a scattering of parsley.",
+    "Add a final touch of butter-fried pita for extra flavor and texture."
+  ],
+  "tips": [
+    "Double the toasted pine nuts so you have plenty for dipping — it tends to disappear fast.",
+    "Keep the unsalted butter hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇹🇷"
+}

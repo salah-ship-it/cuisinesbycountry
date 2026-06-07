@@ -1,0 +1,35 @@
+{
+  "slug": "tetelas",
+  "name": "Tetelas",
+  "description": "Triangular Oaxacan masa pockets stuffed with black beans and cheese, toasted on a comal until golden.",
+  "prepTime": "20 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "400g chicken thighs",
+    "400g corn tortillas",
+    "a handful of rehydrated dried chilies",
+    "1/2 tsp smoked paprika",
+    "3 tbsp olive oil",
+    "200g ripe tomatoes",
+    "a handful of fresh epazote, chopped",
+    "Mexican crema, for serving"
+  ],
+  "instructions": [
+    "Prepare the masa dough base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the pork shoulder, jalapeños, minced garlic, and chili powder, mixing well so everything is evenly seasoned.",
+    "Heat olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the masa dough until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the pork shoulder mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the masa dough with the filling, a spoonful of salsa verde, and a scattering of oregano."
+  ],
+  "tips": [
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Double the salsa verde so you have plenty for dipping — it tends to disappear fast.",
+    "Keep the olive oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇽"
+}

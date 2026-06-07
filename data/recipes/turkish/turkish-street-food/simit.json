@@ -1,0 +1,36 @@
+{
+  "slug": "simit",
+  "name": "Simit",
+  "description": "A circular sesame-coated bread ring with a crispy crust and chewy interior, sold from carts across every Turkish city.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "400g beef sirloin",
+    "400g yufka pastry",
+    "1 tbsp sliced scallions",
+    "1 tsp sweet paprika",
+    "2 tbsp olive oil",
+    "2 red onions, chopped",
+    "a handful of fresh parsley, chopped",
+    "plain yogurt, for serving",
+    "400ml beef stock"
+  ],
+  "instructions": [
+    "Prepare the bulgur wheat base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the lamb shoulder, red onions, sliced scallions, and cracked black pepper, mixing well so everything is evenly seasoned.",
+    "Heat unsalted butter in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the bulgur wheat until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the lamb shoulder mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the bulgur wheat with the filling, a spoonful of crumbled feta, and a scattering of mint.",
+    "Add a final touch of lemon wedges for extra flavor and texture."
+  ],
+  "tips": [
+    "Double the crumbled feta so you have plenty for dipping — it tends to disappear fast.",
+    "Keep the unsalted butter hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇹🇷"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "bakso",
+  "name": "Bakso",
+  "description": "Bouncy beef meatballs in a clear broth with noodles, tofu, and fried wontons, sold from push-cart vendors nationwide.",
+  "prepTime": "20 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "700g firm tofu",
+    "300g fried shallot crackers (krupuk)",
+    "2 tsp sliced shallots",
+    "a pinch of ground turmeric",
+    "3 tbsp neutral vegetable oil",
+    "a generous handful of cabbage",
+    "a handful of fresh Thai basil, chopped",
+    "crispy fried shallots, for serving",
+    "1 cup coconut milk",
+    "1/2 tsp coriander seeds",
+    "1 cup long beans, sliced"
+  ],
+  "instructions": [
+    "Prepare the rice noodles base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the chicken thighs, long beans, minced garlic, and ground cumin, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the rice noodles until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the chicken thighs mixture until cooked through and lightly charred at the edges, about 30 mins.",
+    "Assemble by layering the rice noodles with the filling, a spoonful of lime wedges, and a scattering of Thai basil.",
+    "Add a final touch of roasted peanuts for extra flavor and texture.",
+    "Serve immediately while hot, with extra lime wedges on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Double the lime wedges so you have plenty for dipping — it tends to disappear fast."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇩"
+}

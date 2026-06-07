@@ -1,0 +1,39 @@
+{
+  "slug": "viennoiseries",
+  "name": "Viennoiseries",
+  "description": "A morning basket of fresh croissants, pains au chocolat, and pains aux raisins from the local boulangerie.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g duck legs",
+    "1 cup baguette",
+    "2 tbsp sliced shallots",
+    "1/2 tsp grated nutmeg",
+    "2 tbsp extra-virgin olive oil",
+    "a generous handful of pearl onions",
+    "a handful of fresh chervil, chopped",
+    "a generous spoonful of Dijon mustard",
+    "2 cups dry red wine",
+    "1 tsp herbes de Provence",
+    "2 celery stalks, chopped",
+    "a generous spoonful of unsalted butter"
+  ],
+  "instructions": [
+    "Gather and prep the arborio rice and sea bass fillets, measuring everything out so it is ready to go.",
+    "Heat unsalted butter in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and ripe tomatoes, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the sea bass fillets, season with herbes de Provence, and cook until just done, about 0 mins.",
+    "Warm the arborio rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the arborio rice and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Keep the heat moderate so the sea bass fillets cooks through gently without drying out or turning rubbery.",
+    "Prep the arborio rice and sea bass fillets the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇫🇷"
+}

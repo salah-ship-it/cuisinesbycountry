@@ -1,0 +1,40 @@
+{
+  "slug": "flautas",
+  "name": "Flautas",
+  "description": "Tightly rolled corn tortillas filled with chicken or potato, deep-fried until crispy and served with guacamole.",
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "500g chicken thighs",
+    "1 cup white rice",
+    "2 tbsp finely chopped white onion",
+    "a pinch of ground cinnamon",
+    "3 tbsp neutral vegetable oil",
+    "200g tomatillos",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of salsa verde",
+    "500ml water",
+    "1 1/2 tsp ground cumin",
+    "a generous handful of ripe tomatoes"
+  ],
+  "instructions": [
+    "Prepare the white rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the black beans, jalapeños, finely chopped white onion, and chili powder, mixing well so everything is evenly seasoned.",
+    "Heat olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the white rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the black beans mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the white rice with the filling, a spoonful of Mexican crema, and a scattering of epazote.",
+    "Add a final touch of toasted pumpkin seeds for extra flavor and texture.",
+    "Serve immediately while hot, with extra Mexican crema on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Double the Mexican crema so you have plenty for dipping — it tends to disappear fast.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Keep the olive oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇽"
+}

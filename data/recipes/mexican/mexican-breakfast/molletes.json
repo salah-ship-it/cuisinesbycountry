@@ -1,0 +1,39 @@
+{
+  "slug": "molletes",
+  "name": "Molletes",
+  "description": "Split bolillo rolls spread with refried beans and melted cheese, toasted open-face and served with fresh pico de gallo.",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "700g chicken thighs",
+    "1 cup bolillo rolls",
+    "a handful of rehydrated dried chilies",
+    "2 tsp dried oregano",
+    "1/4 cup olive oil",
+    "2 ripe tomatoes, chopped",
+    "a handful of fresh oregano, chopped",
+    "a drizzle of pickled red onions",
+    "400ml beef stock",
+    "1 1/2 tsp ground cumin"
+  ],
+  "instructions": [
+    "Gather and prep the corn tortillas and ground beef, measuring everything out so it is ready to go.",
+    "Heat lard in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the rehydrated dried chilies and red bell peppers, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the ground beef, season with ground cinnamon, and cook until just done, about 10 mins.",
+    "Warm the corn tortillas alongside, turning once, until heated through and lightly toasted.",
+    "Plate the corn tortillas and spoon the cooked mixture over the top.",
+    "Drizzle with toasted pumpkin seeds and finish with a sprinkle of epazote.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Prep the corn tortillas and ground beef the night before to make busy mornings much easier.",
+    "A squeeze of citrus or a sprinkle of epazote just before serving brightens up the whole plate.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇲🇽"
+}

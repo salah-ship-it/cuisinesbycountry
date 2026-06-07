@@ -1,0 +1,36 @@
+{
+  "slug": "seblak",
+  "name": "Seblak",
+  "description": "Wet crackers cooked in a spicy kencur and chili broth with egg and vegetables, a bold Sundanese morning staple.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg chicken thighs",
+    "2 cups fried shallot crackers (krupuk)",
+    "2 tbsp minced garlic",
+    "1 1/2 tsp ground turmeric",
+    "2 tbsp coconut oil",
+    "200g cherry tomatoes",
+    "a handful of fresh Thai basil, chopped",
+    "crispy fried shallots, for serving",
+    "1 cup water",
+    "1 tsp coriander seeds"
+  ],
+  "instructions": [
+    "Gather and prep the rice noodles and firm tofu, measuring everything out so it is ready to go.",
+    "Heat coconut oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced galangal and bean sprouts, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the firm tofu, season with crushed candlenuts, and cook until just done, about 15 mins.",
+    "Warm the rice noodles alongside, turning once, until heated through and lightly toasted.",
+    "Plate the rice noodles and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Prep the rice noodles and firm tofu the night before to make busy mornings much easier.",
+    "A squeeze of citrus or a sprinkle of cilantro just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇩"
+}

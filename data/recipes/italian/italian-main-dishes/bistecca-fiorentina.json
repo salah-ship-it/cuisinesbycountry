@@ -1,0 +1,39 @@
+{
+  "slug": "bistecca-fiorentina",
+  "name": "Bistecca Fiorentina",
+  "description": "A massive T-bone from Chianina cattle seasoned with salt only and cooked rare over blazing Tuscan oak coals.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 2,
+  "ingredients": [
+    "700g guanciale",
+    "1 cup arborio rice",
+    "2 tbsp sliced leeks",
+    "1 tsp fennel seeds",
+    "3 tbsp extra-virgin olive oil",
+    "200g zucchini",
+    "a handful of fresh rosemary, chopped",
+    "a drizzle of Parmesan cheese",
+    "400ml vegetable stock",
+    "2 tsp red pepper flakes",
+    "200g baby spinach",
+    "pine nuts, for serving"
+  ],
+  "instructions": [
+    "Pat the fresh mozzarella dry, season generously with salt, pepper, and fennel seeds, and let it sit for a few minutes to absorb the flavors.",
+    "Heat unsalted butter in a wide pan or heavy pot over medium-high heat and sear the fresh mozzarella until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the minced garlic and sliced shallots over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the red pepper flakes and zucchini, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the fresh mozzarella to the pan, pour in the whole milk, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the fresh mozzarella is tender and cooked through, roughly 15 mins."
+  ],
+  "tips": [
+    "For deeper flavor, marinate the fresh mozzarella for at least an hour — or overnight — before cooking.",
+    "Avoid crowding the pan when searing the fresh mozzarella; work in batches so it browns instead of steaming.",
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇮🇹"
+}

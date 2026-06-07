@@ -1,0 +1,38 @@
+{
+  "slug": "satay-thai",
+  "name": "Satay",
+  "description": "Skewers of turmeric-marinated pork or chicken grilled over charcoal and served with peanut sauce and ajad.",
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g large prawns",
+    "300g rice vermicelli",
+    "1 tbsp sliced shallots",
+    "1 1/2 tsp palm sugar",
+    "2 tbsp neutral vegetable oil",
+    "1 cup bean sprouts, sliced",
+    "a handful of fresh Thai basil, chopped",
+    "a drizzle of coconut cream",
+    "2 cups water",
+    "1 tsp red curry paste"
+  ],
+  "instructions": [
+    "Prepare the jasmine rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the chicken thighs, bean sprouts, sliced galangal, and ground turmeric, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the jasmine rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the chicken thighs mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the jasmine rice with the filling, a spoonful of coconut cream, and a scattering of cilantro.",
+    "Add a final touch of tamarind paste for extra flavor and texture.",
+    "Serve immediately while hot, with extra coconut cream on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Double the coconut cream so you have plenty for dipping — it tends to disappear fast.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇹🇭"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "cappuccino",
+  "name": "Cappuccino with Brioche",
+  "description": "Velvety steamed milk and espresso in classic proportions, paired with a warm buttery Sicilian brioche col tuppo.",
+  "prepTime": "5 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "700g ground pork",
+    "1 cup fresh lasagna sheets",
+    "1 tbsp sliced leeks",
+    "1 tsp fennel seeds",
+    "2 tbsp extra-virgin olive oil",
+    "a generous handful of carrots",
+    "a handful of fresh sage, chopped",
+    "Parmesan cheese, for serving",
+    "400ml chicken stock",
+    "1/2 tsp dried oregano",
+    "a generous handful of zucchini"
+  ],
+  "instructions": [
+    "Gather and prep the arborio rice and Italian sausage, measuring everything out so it is ready to go.",
+    "Heat extra-virgin olive oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced leeks and zucchini, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the Italian sausage, season with fennel seeds, and cook until just done, about 5 mins.",
+    "Warm the arborio rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the arborio rice and spoon the cooked mixture over the top.",
+    "Drizzle with mascarpone and finish with a sprinkle of parsley."
+  ],
+  "tips": [
+    "Prep the arborio rice and Italian sausage the night before to make busy mornings much easier.",
+    "A squeeze of citrus or a sprinkle of parsley just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇹"
+}

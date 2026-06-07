@@ -1,0 +1,37 @@
+{
+  "slug": "shoyu-ramen",
+  "name": "Shoyu Ramen",
+  "description": "A clear, amber soy-seasoned chicken broth served with ramen noodles, bamboo shoots, and tender chashu.",
+  "prepTime": "20 mins",
+  "cookTime": "1 hr 30 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "500g firm tofu",
+    "2 cups panko breadcrumbs",
+    "2 tsp minced garlic",
+    "1 1/2 tsp wasabi paste",
+    "1/4 cup toasted sesame oil",
+    "2 carrots, chopped",
+    "a handful of fresh mitsuba, chopped",
+    "mirin, to taste",
+    "400ml chicken stock",
+    "1 tsp shichimi togarashi"
+  ],
+  "instructions": [
+    "Heat toasted sesame oil in a large pot over medium heat and cook the minced garlic and grated fresh ginger gently until soft and fragrant.",
+    "Stir in the cracked black pepper and shichimi togarashi, toasting briefly until the kitchen fills with their aroma.",
+    "Add the pork loin and bean sprouts, stirring well to coat everything in the spiced base.",
+    "Pour in the dashi stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the pork loin is tender, about 1 hr 30 mins.",
+    "Stir in the ramen noodles and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Taste and adjust the seasoning right at the end — the dashi stock reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇯🇵"
+}

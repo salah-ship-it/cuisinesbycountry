@@ -1,0 +1,37 @@
+{
+  "slug": "white-bean-soup",
+  "name": "White Bean Soup",
+  "description": "Creamy white beans slowly simmered with tomatoes, garlic, and preserved lemon for a comforting bowl.",
+  "prepTime": "10 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g lamb shoulder",
+    "300g couscous",
+    "2 tsp finely chopped red onion",
+    "1/2 tsp ground ginger",
+    "2 tbsp butter",
+    "2 carrots, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of toasted almonds",
+    "500ml vegetable stock"
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and cook the finely chopped red onion and grated fresh ginger gently until soft and fragrant.",
+    "Stir in the ground turmeric and ground cumin, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chickpeas and ripe tomatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chickpeas is tender, about 45 mins.",
+    "Stir in the couscous and continue simmering for a few minutes more, until heated through.",
+    "Finish with the pitted dates and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the mint, and serve piping hot."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇦"
+}

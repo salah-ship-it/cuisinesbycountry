@@ -1,0 +1,39 @@
+{
+  "slug": "cornetto",
+  "name": "Cornetto",
+  "description": "Italy's beloved crescent pastry, lighter and sweeter than a croissant, enjoyed plain or filled with jam or custard.",
+  "prepTime": "30 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Hard",
+  "servings": 8,
+  "ingredients": [
+    "1 kg fresh mozzarella",
+    "1 cup ladyfingers",
+    "1 tbsp minced garlic",
+    "2 tsp fennel seeds",
+    "3 tbsp extra-virgin olive oil",
+    "1 cup carrots, sliced",
+    "a handful of fresh rosemary, chopped",
+    "mascarpone, to taste",
+    "1 cup whole milk",
+    "2 tsp cracked black pepper",
+    "a generous handful of zucchini"
+  ],
+  "instructions": [
+    "Gather and prep the arborio rice and chicken thighs, measuring everything out so it is ready to go.",
+    "Heat extra-virgin olive oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and zucchini, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the chicken thighs, season with grated nutmeg, and cook until just done, about 20 mins.",
+    "Warm the arborio rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the arborio rice and spoon the cooked mixture over the top.",
+    "Drizzle with extra-virgin olive oil and finish with a sprinkle of parsley."
+  ],
+  "tips": [
+    "Prep the arborio rice and chicken thighs the night before to make busy mornings much easier.",
+    "A squeeze of citrus or a sprinkle of parsley just before serving brightens up the whole plate.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇹"
+}

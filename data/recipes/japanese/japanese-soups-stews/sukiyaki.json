@@ -1,0 +1,38 @@
+{
+  "slug": "sukiyaki",
+  "name": "Sukiyaki",
+  "description": "Thinly sliced beef and tofu simmered in a sweet soy and mirin broth, dipped in raw beaten egg before eating.",
+  "prepTime": "20 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "700g sushi-grade tuna",
+    "2 cups soba noodles",
+    "1 tbsp grated fresh ginger",
+    "1 1/2 tsp white sesame seeds",
+    "1/4 cup neutral vegetable oil",
+    "2 shiitake mushrooms, chopped",
+    "a handful of fresh shiso leaves, chopped",
+    "toasted sesame oil, for serving",
+    "1 cup dashi stock"
+  ],
+  "instructions": [
+    "Heat toasted sesame oil in a large pot over medium heat and cook the sliced scallion whites and minced garlic gently until soft and fragrant.",
+    "Stir in the white sesame seeds and shichimi togarashi, toasting briefly until the kitchen fills with their aroma.",
+    "Add the large prawns and scallions, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the large prawns is tender, about 25 mins.",
+    "Stir in the soba noodles and continue simmering for a few minutes more, until heated through.",
+    "Finish with the toasted sesame oil and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the mitsuba, and serve piping hot."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇯🇵"
+}

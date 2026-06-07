@@ -1,0 +1,36 @@
+{
+  "slug": "paya-soup",
+  "name": "Paya Soup",
+  "description": "Slow-cooked lamb trotters in a deeply gelatinous broth spiced with ginger, garlic, and warming whole spices.",
+  "prepTime": "20 mins",
+  "cookTime": "4 hrs",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "1 kg basmati rice",
+    "2 cups idli batter",
+    "a handful of grated fresh ginger",
+    "1 tsp ground turmeric",
+    "2 tbsp ghee",
+    "a generous handful of ripe tomatoes",
+    "a handful of fresh cilantro, chopped",
+    "a drizzle of tamarind paste",
+    "1 cup coconut milk",
+    "1 1/2 tsp garam masala"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the minced garlic and grated fresh ginger gently until soft and fragrant.",
+    "Stir in the mustard seeds and ground coriander, toasting briefly until the kitchen fills with their aroma.",
+    "Add the basmati rice and potatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the basmati rice is tender, about 4 hrs.",
+    "Stir in the roti and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇳"
+}

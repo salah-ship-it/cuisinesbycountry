@@ -1,0 +1,38 @@
+{
+  "slug": "negroni",
+  "name": "Negroni",
+  "description": "A bittersweet Florentine cocktail of equal parts gin, Campari, and sweet vermouth, stirred over ice.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "600g guanciale",
+    "1 cup ladyfingers",
+    "1 tbsp minced garlic",
+    "a pinch of grated nutmeg",
+    "1/4 cup unsalted butter",
+    "1 cup eggplant, sliced",
+    "a handful of fresh basil, chopped",
+    "mascarpone, for serving",
+    "500ml chicken stock",
+    "1/2 tsp fennel seeds",
+    "200g celery stalks"
+  ],
+  "instructions": [
+    "Combine the ladyfingers and vegetable stock in a saucepan, blender, or pitcher, stirring well.",
+    "Add the dried oregano and extra-virgin olive oil, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 0 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with mascarpone, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with basil just before serving."
+  ],
+  "tips": [
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours.",
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇮🇹"
+}

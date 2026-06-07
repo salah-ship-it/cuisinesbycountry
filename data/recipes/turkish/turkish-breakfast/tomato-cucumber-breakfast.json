@@ -1,0 +1,38 @@
+{
+  "slug": "tomato-cucumber-breakfast",
+  "name": "Tomato and Cucumber Salad",
+  "description": "Ripe vine tomatoes and cool cucumber sliced and drizzled with olive oil and fresh dill for a classic side.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg beef sirloin",
+    "400g rice pilaf",
+    "2 tbsp minced garlic",
+    "1/2 tsp Aleppo pepper",
+    "1/4 cup olive oil",
+    "a generous handful of ripe tomatoes",
+    "a handful of fresh mint, chopped",
+    "pomegranate molasses, to taste",
+    "1 cup beef stock",
+    "1 tsp ground cumin"
+  ],
+  "instructions": [
+    "Gather and prep the rice pilaf and fresh mussels, measuring everything out so it is ready to go.",
+    "Heat unsalted butter in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced scallions and baby potatoes, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the fresh mussels, season with ground cumin, and cook until just done, about 0 mins.",
+    "Warm the rice pilaf alongside, turning once, until heated through and lightly toasted.",
+    "Plate the rice pilaf and spoon the cooked mixture over the top.",
+    "Drizzle with crumbled feta and finish with a sprinkle of mint."
+  ],
+  "tips": [
+    "Prep the rice pilaf and fresh mussels the night before to make busy mornings much easier.",
+    "A squeeze of citrus or a sprinkle of mint just before serving brightens up the whole plate.",
+    "Keep the heat moderate so the fresh mussels cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇷"
+}

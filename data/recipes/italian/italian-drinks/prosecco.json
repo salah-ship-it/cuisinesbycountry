@@ -1,0 +1,35 @@
+{
+  "slug": "prosecco",
+  "name": "Prosecco",
+  "description": "Light, refreshing Italian sparkling wine from Veneto made with Glera grapes, ideal as an aperitivo.",
+  "prepTime": "2 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g ground beef",
+    "2 cups ladyfingers",
+    "a handful of minced garlic",
+    "1 tsp red pepper flakes",
+    "2 tbsp extra-virgin olive oil",
+    "200g celery stalks",
+    "a handful of fresh rosemary, chopped",
+    "a drizzle of lemon zest",
+    "2 cups dry white wine"
+  ],
+  "instructions": [
+    "Combine the ciabatta bread and dry white wine in a saucepan, blender, or pitcher, stirring well.",
+    "Add the fennel seeds and extra-virgin olive oil, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 0 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with pine nuts, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot."
+  ],
+  "tips": [
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil.",
+    "Adjust the sweetness gradually, tasting as you go — you can always add more pine nuts, but you cannot take it away."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇮🇹"
+}

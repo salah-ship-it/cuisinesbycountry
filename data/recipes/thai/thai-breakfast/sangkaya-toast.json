@@ -1,0 +1,34 @@
+{
+  "slug": "sangkaya-toast",
+  "name": "Sangkaya Toast",
+  "description": "Thick white bread toasted and spread with homemade pandan coconut egg jam, a Thai café morning favourite.",
+  "prepTime": "5 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "600g beef sirloin",
+    "300g roti dough",
+    "a handful of sliced lemongrass",
+    "2 tsp white pepper",
+    "3 tbsp neutral vegetable oil",
+    "1 cup bean sprouts, sliced",
+    "a handful of fresh mint, chopped",
+    "a drizzle of crispy fried shallots"
+  ],
+  "instructions": [
+    "Gather and prep the glutinous rice and large prawns, measuring everything out so it is ready to go.",
+    "Heat coconut oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced lemongrass and Thai eggplant, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the large prawns, season with dried shrimp, and cook until just done, about 5 mins.",
+    "Warm the glutinous rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the glutinous rice and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Keep the heat moderate so the large prawns cooks through gently without drying out or turning rubbery.",
+    "A squeeze of citrus or a sprinkle of mint just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇭"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "stracciatella",
+  "name": "Stracciatella",
+  "description": "A Roman egg-drop soup of clear chicken broth with beaten eggs, Parmigiano, and fresh nutmeg swirled in.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g fresh mozzarella",
+    "300g arborio rice",
+    "2 tsp sliced leeks",
+    "1 1/2 tsp cracked black pepper",
+    "2 tbsp unsalted butter",
+    "a generous handful of San Marzano tomatoes",
+    "a handful of fresh basil, chopped",
+    "pine nuts, to taste",
+    "400ml dry white wine"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the sliced shallots and sliced leeks gently until soft and fragrant.",
+    "Stir in the grated nutmeg and red pepper flakes, toasting briefly until the kitchen fills with their aroma.",
+    "Add the Italian sausage and celery stalks, stirring well to coat everything in the spiced base.",
+    "Pour in the dry white wine, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the Italian sausage is tender, about 10 mins.",
+    "Stir in the pizza dough and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the dry white wine reduces as it simmers, concentrating the flavor.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇹"
+}

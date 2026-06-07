@@ -1,0 +1,36 @@
+{
+  "slug": "cacciucco",
+  "name": "Cacciucco",
+  "description": "A spicy Livornese seafood stew where five types of fish and shellfish cook down in tomatoes and red wine.",
+  "prepTime": "25 mins",
+  "cookTime": "1 hr",
+  "difficulty": "Hard",
+  "servings": 6,
+  "ingredients": [
+    "700g Italian sausage",
+    "1 cup pizza dough",
+    "a handful of sliced shallots",
+    "a pinch of fennel seeds",
+    "1/4 cup unsalted butter",
+    "1 cup zucchini, sliced",
+    "a handful of fresh parsley, chopped",
+    "mascarpone, for serving",
+    "400ml dry white wine",
+    "1 tsp red pepper flakes"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the minced garlic and sliced leeks gently until soft and fragrant.",
+    "Stir in the fennel seeds and red pepper flakes, toasting briefly until the kitchen fills with their aroma.",
+    "Add the Italian sausage and San Marzano tomatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the whole milk, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the Italian sausage is tender, about 1 hr.",
+    "Stir in the spaghetti and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Taste and adjust the seasoning right at the end — the whole milk reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇹"
+}

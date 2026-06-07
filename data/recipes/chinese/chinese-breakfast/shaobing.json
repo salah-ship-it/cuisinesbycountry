@@ -1,0 +1,39 @@
+{
+  "slug": "shaobing",
+  "name": "Shaobing",
+  "description": "Sesame-encrusted baked flatbreads with flaky layers, eaten plain or stuffed with sweet paste or smoked beef.",
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "700g beef sirloin",
+    "1 cup steamed buns",
+    "2 tbsp crushed Sichuan peppercorns",
+    "a pinch of doubanjiang (chili bean paste)",
+    "3 tbsp toasted sesame oil",
+    "2 bamboo shoots, chopped",
+    "a handful of fresh chives, chopped",
+    "a generous spoonful of toasted sesame seeds",
+    "2 cups water",
+    "1 tsp chili oil"
+  ],
+  "instructions": [
+    "Gather and prep the wonton wrappers and pork belly, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the grated fresh ginger and scallions, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the pork belly, season with five-spice powder, and cook until just done, about 15 mins.",
+    "Warm the wonton wrappers alongside, turning once, until heated through and lightly toasted.",
+    "Plate the wonton wrappers and spoon the cooked mixture over the top.",
+    "Drizzle with black vinegar and finish with a sprinkle of scallion greens.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Keep the heat moderate so the pork belly cooks through gently without drying out or turning rubbery.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Prep the wonton wrappers and pork belly the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇨🇳"
+}

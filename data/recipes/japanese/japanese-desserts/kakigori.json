@@ -1,0 +1,36 @@
+{
+  "slug": "kakigori",
+  "name": "Kakigori",
+  "description": "Finely shaved ice mounded in a bowl and drenched with flavored syrups like matcha, strawberry, or condensed milk.",
+  "prepTime": "10 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "500g chicken thighs",
+    "400g soba noodles",
+    "a handful of sliced scallion whites",
+    "a pinch of cracked black pepper",
+    "2 tbsp toasted sesame oil",
+    "a generous handful of daikon radish",
+    "a handful of fresh chives, chopped",
+    "a generous spoonful of sake"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with neutral vegetable oil.",
+    "In a large bowl, whisk together the ramen noodles and cracked black pepper until evenly combined.",
+    "In a separate bowl, blend the toasted sesame oil with the dashi stock until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 0 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with mitsuba or a dusting of mirin."
+  ],
+  "tips": [
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting.",
+    "Resist opening the oven door too early — a sudden change in temperature can cause the dessert to sink or crack.",
+    "Bring your toasted sesame oil to room temperature before mixing for a smoother, more even texture."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇯🇵"
+}

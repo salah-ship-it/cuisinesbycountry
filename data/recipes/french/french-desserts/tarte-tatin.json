@@ -1,0 +1,39 @@
+{
+  "slug": "tarte-tatin",
+  "name": "Tarte Tatin",
+  "description": "An upside-down caramelized apple tart baked under puff pastry and dramatically flipped onto the serving plate.",
+  "prepTime": "20 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "700g beef chuck",
+    "400g brioche",
+    "2 tbsp sliced leeks",
+    "1/2 tsp cracked black peppercorns",
+    "2 tbsp unsalted butter",
+    "1 cup carrots, sliced",
+    "a handful of fresh parsley, chopped",
+    "a generous spoonful of lemon zest",
+    "2 cups chicken stock",
+    "1/2 tsp fresh thyme",
+    "a generous handful of pearl onions"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with extra-virgin olive oil.",
+    "In a large bowl, whisk together the arborio rice and cracked black peppercorns until evenly combined.",
+    "In a separate bowl, blend the Gruyère cheese with the whole milk until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 40 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with chervil or a dusting of crème fraîche.",
+    "Slice or portion into servings and serve."
+  ],
+  "tips": [
+    "Resist opening the oven door too early — a sudden change in temperature can cause the dessert to sink or crack.",
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇫🇷"
+}

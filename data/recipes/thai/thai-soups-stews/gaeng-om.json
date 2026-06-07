@@ -1,0 +1,37 @@
+{
+  "slug": "gaeng-om",
+  "name": "Gaeng Om",
+  "description": "A northern Thai herbal curry stew with minimal coconut milk, packed with fresh dill, lemongrass, and pork ribs.",
+  "prepTime": "20 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "600g beef sirloin",
+    "300g rice vermicelli",
+    "2 tbsp sliced galangal",
+    "1 tsp dried shrimp",
+    "2 tbsp coconut oil",
+    "2 bean sprouts, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of tamarind paste",
+    "400ml tamarind water"
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat and cook the minced garlic and torn kaffir lime leaves gently until soft and fragrant.",
+    "Stir in the red curry paste and white pepper, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chicken thighs and baby corn, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chicken thighs is tender, about 40 mins.",
+    "Stir in the rice vermicelli and continue simmering for a few minutes more, until heated through.",
+    "Finish with the fish sauce and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇭"
+}

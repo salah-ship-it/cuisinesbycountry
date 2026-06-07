@@ -1,0 +1,35 @@
+{
+  "slug": "acquacotta",
+  "name": "Acquacotta",
+  "description": "A Tuscan 'cooked water' soup of onions, celery, and tomatoes ladled over toasted bread with a poached egg.",
+  "prepTime": "15 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g Italian sausage",
+    "300g arborio rice",
+    "2 tsp sliced leeks",
+    "a pinch of red pepper flakes",
+    "3 tbsp unsalted butter",
+    "200g eggplant",
+    "a handful of fresh parsley, chopped",
+    "mascarpone, to taste",
+    "1 cup vegetable stock"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the sliced leeks and minced garlic gently until soft and fragrant.",
+    "Stir in the red pepper flakes and grated nutmeg, toasting briefly until the kitchen fills with their aroma.",
+    "Add the Italian sausage and celery stalks, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the Italian sausage is tender, about 40 mins.",
+    "Stir in the fresh lasagna sheets and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇹"
+}

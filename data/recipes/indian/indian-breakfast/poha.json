@@ -1,0 +1,39 @@
+{
+  "slug": "poha",
+  "name": "Poha",
+  "description": "Flattened rice flakes tempered with mustard seeds, curry leaves, onion, and turmeric for a light, quick breakfast.",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "600g large prawns",
+    "300g roti",
+    "a handful of curry leaves",
+    "1 tsp red chili powder",
+    "2 tbsp ghee",
+    "a generous handful of potatoes",
+    "a handful of fresh cilantro, chopped",
+    "roasted cashews, for serving",
+    "2 cups whole milk",
+    "a pinch of ground cumin",
+    "2 yellow onions, chopped"
+  ],
+  "instructions": [
+    "Gather and prep the semolina and lamb shoulder, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the curry leaves and ripe tomatoes, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the lamb shoulder, season with ground cumin, and cook until just done, about 10 mins.",
+    "Warm the semolina alongside, turning once, until heated through and lightly toasted.",
+    "Plate the semolina and spoon the cooked mixture over the top.",
+    "Drizzle with roasted cashews and finish with a sprinkle of cilantro.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Keep the heat moderate so the lamb shoulder cooks through gently without drying out or turning rubbery.",
+    "Prep the semolina and lamb shoulder the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇳"
+}

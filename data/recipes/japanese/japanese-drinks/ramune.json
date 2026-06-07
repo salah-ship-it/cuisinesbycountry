@@ -1,0 +1,41 @@
+{
+  "slug": "ramune",
+  "name": "Ramune",
+  "description": "A beloved Japanese marble-bottle soda with a sweet, fizzy flavor in original or lychee and melon varieties.",
+  "prepTime": "2 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "700g sushi-grade tuna",
+    "2 cups short-grain rice",
+    "2 tsp sliced scallion whites",
+    "1 1/2 tsp white sesame seeds",
+    "2 tbsp neutral vegetable oil",
+    "a generous handful of carrots",
+    "a handful of fresh shiso leaves, chopped",
+    "a drizzle of sake",
+    "400ml chicken stock",
+    "2 tsp shichimi togarashi",
+    "200g bean sprouts",
+    "toasted sesame oil, for serving"
+  ],
+  "instructions": [
+    "Combine the nori sheets and dashi stock in a saucepan, blender, or pitcher, stirring well.",
+    "Add the cracked black pepper and soy sauce, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 0 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with mirin, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with mitsuba just before serving.",
+    "Pour into your favorite glass or cup and enjoy."
+  ],
+  "tips": [
+    "Serve in a chilled glass for the most refreshing result on a hot day.",
+    "Adjust the sweetness gradually, tasting as you go — you can always add more mirin, but you cannot take it away.",
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇯🇵"
+}

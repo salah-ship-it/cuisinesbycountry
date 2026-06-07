@@ -1,0 +1,38 @@
+{
+  "slug": "bastilla",
+  "name": "Bastilla",
+  "description": "A flaky warqa pastry pie filled with spiced pigeon or chicken, toasted almonds, eggs, and cinnamon sugar.",
+  "prepTime": "45 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Hard",
+  "servings": 8,
+  "ingredients": [
+    "500g ground beef",
+    "400g vermicelli noodles",
+    "2 tbsp finely chopped red onion",
+    "1/2 tsp ground ginger",
+    "2 tbsp smen (preserved butter)",
+    "a generous handful of red bell peppers",
+    "a handful of fresh mint, chopped",
+    "a generous spoonful of dried apricots",
+    "400ml water"
+  ],
+  "instructions": [
+    "Pat the merguez sausage dry, season generously with salt, pepper, and ground turmeric, and let it sit for a few minutes to absorb the flavors.",
+    "Heat smen (preserved butter) in a wide pan or heavy pot over medium-high heat and sear the merguez sausage until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the sliced shallots and minced garlic over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the ground ginger and butternut squash, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the merguez sausage to the pan, pour in the vegetable stock, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the merguez sausage is tender and cooked through, roughly 45 mins.",
+    "Stir in the preserved lemon, taste, and adjust the seasoning with salt and pepper as needed.",
+    "Scatter over the parsley and serve hot alongside crusty bread."
+  ],
+  "tips": [
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat.",
+    "Avoid crowding the pan when searing the merguez sausage; work in batches so it browns instead of steaming.",
+    "A squeeze of lemon or a final scattering of parsley just before serving brightens up all the deep, slow-cooked flavors."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇲🇦"
+}

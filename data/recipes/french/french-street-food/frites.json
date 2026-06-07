@@ -1,0 +1,37 @@
+{
+  "slug": "frites",
+  "name": "Frites",
+  "description": "Double-fried Belgian-style thin chips sold in paper cones from street stands, served with mayonnaise.",
+  "prepTime": "10 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g beef chuck",
+    "1 cup egg noodles",
+    "2 tsp sliced leeks",
+    "1 1/2 tsp fresh thyme",
+    "1/4 cup unsalted butter",
+    "1 cup carrots, sliced",
+    "a handful of fresh tarragon, chopped",
+    "crème fraîche, to taste"
+  ],
+  "instructions": [
+    "Prepare the egg noodles base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the pork lardons, carrots, sliced shallots, and grated nutmeg, mixing well so everything is evenly seasoned.",
+    "Heat unsalted butter in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the egg noodles until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the pork lardons mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the egg noodles with the filling, a spoonful of lemon zest, and a scattering of parsley.",
+    "Add a final touch of Dijon mustard for extra flavor and texture.",
+    "Serve immediately while hot, with extra lemon zest on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Double the lemon zest so you have plenty for dipping — it tends to disappear fast.",
+    "Keep the unsalted butter hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇫🇷"
+}

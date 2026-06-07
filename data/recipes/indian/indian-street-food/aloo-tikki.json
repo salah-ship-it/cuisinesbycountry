@@ -1,0 +1,38 @@
+{
+  "slug": "aloo-tikki",
+  "name": "Aloo Tikki",
+  "description": "Pan-fried potato and pea patties seasoned with chaat masala, served with yogurt and sweet-sour chutney.",
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g lamb shoulder",
+    "300g naan bread",
+    "2 tbsp curry leaves",
+    "1 1/2 tsp garam masala",
+    "2 tbsp neutral vegetable oil",
+    "200g green chilies",
+    "a handful of fresh cilantro, chopped",
+    "tamarind paste, to taste",
+    "1 cup coconut milk",
+    "1 tsp mustard seeds",
+    "2 fresh spinach, chopped"
+  ],
+  "instructions": [
+    "Prepare the idli batter base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the chickpeas, fresh spinach, grated fresh ginger, and mustard seeds, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the idli batter until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the chickpeas mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the idli batter with the filling, a spoonful of plain yogurt, and a scattering of mint."
+  ],
+  "tips": [
+    "Double the plain yogurt so you have plenty for dipping — it tends to disappear fast.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇳"
+}

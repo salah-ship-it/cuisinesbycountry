@@ -1,0 +1,38 @@
+{
+  "slug": "sayur-lodeh",
+  "name": "Sayur Lodeh",
+  "description": "A Javanese mixed vegetable and tofu soup cooked in thin coconut milk with galangal and dried shrimp.",
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g large prawns",
+    "400g compressed rice cakes (lontong)",
+    "a handful of grated fresh ginger",
+    "1 1/2 tsp tamarind paste",
+    "1/4 cup coconut oil",
+    "a generous handful of long beans",
+    "a handful of fresh cilantro, chopped",
+    "a drizzle of crispy fried shallots",
+    "2 cups chicken stock",
+    "1/2 tsp crushed candlenuts"
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat and cook the sliced shallots and sliced lemongrass gently until soft and fragrant.",
+    "Stir in the coriander seeds and ground cumin, toasting briefly until the kitchen fills with their aroma.",
+    "Add the beef shin and cabbage, stirring well to coat everything in the spiced base.",
+    "Pour in the coconut milk, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the beef shin is tender, about 25 mins.",
+    "Stir in the jasmine rice and continue simmering for a few minutes more, until heated through.",
+    "Finish with the coconut cream and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Taste and adjust the seasoning right at the end — the coconut milk reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇩"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "tonkotsu-ramen",
+  "name": "Tonkotsu Ramen",
+  "description": "Rich, milky pork bone broth ladled over springy noodles topped with chashu pork, soft-boiled egg, and nori.",
+  "prepTime": "30 mins",
+  "cookTime": "4 hrs",
+  "difficulty": "Hard",
+  "servings": 4,
+  "ingredients": [
+    "700g chicken thighs",
+    "300g soba noodles",
+    "a handful of minced garlic",
+    "a pinch of wasabi paste",
+    "2 tbsp toasted sesame oil",
+    "2 shiitake mushrooms, chopped",
+    "a handful of fresh shiso leaves, chopped",
+    "a generous spoonful of pickled ginger",
+    "400ml water",
+    "a pinch of shichimi togarashi"
+  ],
+  "instructions": [
+    "Heat toasted sesame oil in a large pot over medium heat and cook the sliced scallion whites and minced garlic gently until soft and fragrant.",
+    "Stir in the shichimi togarashi and white sesame seeds, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chicken thighs and napa cabbage, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chicken thighs is tender, about 4 hrs.",
+    "Stir in the short-grain rice and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Taste and adjust the seasoning right at the end — the chicken stock reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇯🇵"
+}

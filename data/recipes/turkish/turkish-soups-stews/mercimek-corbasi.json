@@ -1,0 +1,37 @@
+{
+  "slug": "mercimek-corbasi",
+  "name": "Mercimek Çorbası",
+  "description": "Velvety red lentil soup seasoned with cumin and paprika, finished with a drizzle of butter and dried mint.",
+  "prepTime": "10 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g ground lamb",
+    "2 cups pide bread",
+    "1 tbsp minced garlic",
+    "1/2 tsp ground cumin",
+    "1/4 cup olive oil",
+    "2 cucumber, chopped",
+    "a handful of fresh dill, chopped",
+    "pomegranate molasses, for serving",
+    "400ml chicken stock"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the sliced scallions and finely chopped red onion gently until soft and fragrant.",
+    "Stir in the ground sumac and dried mint, toasting briefly until the kitchen fills with their aroma.",
+    "Add the red lentils and ripe tomatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the beef stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the red lentils is tender, about 30 mins.",
+    "Stir in the rice pilaf and continue simmering for a few minutes more, until heated through.",
+    "Finish with the butter-fried pita and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Taste and adjust the seasoning right at the end — the beef stock reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇷"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "takoyaki",
+  "name": "Takoyaki",
+  "description": "Round Osaka-style balls of savory batter filled with diced octopus, drizzled with mayo and bonito flakes.",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "600g thinly sliced beef",
+    "300g nori sheets",
+    "2 tsp minced garlic",
+    "1 1/2 tsp white sesame seeds",
+    "3 tbsp toasted sesame oil",
+    "a generous handful of daikon radish",
+    "a handful of fresh shiso leaves, chopped",
+    "a drizzle of bonito flakes",
+    "500ml water",
+    "1 1/2 tsp wasabi paste",
+    "200g carrots",
+    "a drizzle of pickled ginger"
+  ],
+  "instructions": [
+    "Prepare the ramen noodles base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the sushi-grade tuna, napa cabbage, sliced scallion whites, and cracked black pepper, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the ramen noodles until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the sushi-grade tuna mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the ramen noodles with the filling, a spoonful of soy sauce, and a scattering of chives.",
+    "Add a final touch of toasted sesame oil for extra flavor and texture.",
+    "Serve immediately while hot, with extra soy sauce on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇯🇵"
+}

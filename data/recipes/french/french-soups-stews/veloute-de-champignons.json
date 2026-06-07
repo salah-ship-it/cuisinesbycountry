@@ -1,0 +1,36 @@
+{
+  "slug": "veloute-de-champignons",
+  "name": "Velouté de Champignons",
+  "description": "A silky wild mushroom cream soup made from a classic velouté base, garnished with truffle oil and chervil.",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g chicken thighs",
+    "1 cup arborio rice",
+    "1 tbsp minced garlic",
+    "a pinch of herbes de Provence",
+    "2 tbsp unsalted butter",
+    "a generous handful of shallots",
+    "a handful of fresh parsley, chopped",
+    "a generous spoonful of cognac",
+    "2 cups whole milk"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the sliced leeks and minced garlic gently until soft and fragrant.",
+    "Stir in the cracked black peppercorns and bay leaves, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chicken thighs and button mushrooms, stirring well to coat everything in the spiced base.",
+    "Pour in the dry red wine, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chicken thighs is tender, about 30 mins.",
+    "Stir in the baguette and continue simmering for a few minutes more, until heated through.",
+    "Finish with the Dijon mustard and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇫🇷"
+}

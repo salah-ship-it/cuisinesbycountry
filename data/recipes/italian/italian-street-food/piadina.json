@@ -1,0 +1,38 @@
+{
+  "slug": "piadina",
+  "name": "Piadina Romagnola",
+  "description": "A thin flatbread from Romagna cooked on a griddle and filled with prosciutto, soft cheese, and arugula.",
+  "prepTime": "15 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g chicken thighs",
+    "300g pizza dough",
+    "a handful of minced garlic",
+    "2 tsp cracked black pepper",
+    "3 tbsp unsalted butter",
+    "200g celery stalks",
+    "a handful of fresh sage, chopped",
+    "Parmesan cheese, for serving",
+    "1 cup vegetable stock"
+  ],
+  "instructions": [
+    "Prepare the fresh lasagna sheets base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the fresh mozzarella, carrots, sliced leeks, and grated nutmeg, mixing well so everything is evenly seasoned.",
+    "Heat extra-virgin olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the fresh lasagna sheets until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the fresh mozzarella mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the fresh lasagna sheets with the filling, a spoonful of balsamic vinegar, and a scattering of basil.",
+    "Add a final touch of pine nuts for extra flavor and texture.",
+    "Serve immediately while hot, with extra balsamic vinegar on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Keep the extra-virgin olive oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Double the balsamic vinegar so you have plenty for dipping — it tends to disappear fast.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇹"
+}

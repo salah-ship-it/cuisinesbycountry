@@ -1,0 +1,38 @@
+{
+  "slug": "karaage-sandwich",
+  "name": "Karaage Sandwich",
+  "description": "Crispy Japanese fried chicken nestled in a pillowy milk bread bun with shredded cabbage and Japanese mayo.",
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 2,
+  "ingredients": [
+    "500g thinly sliced beef",
+    "400g soba noodles",
+    "2 tsp sliced scallion whites",
+    "a pinch of cracked black pepper",
+    "2 tbsp neutral vegetable oil",
+    "200g bean sprouts",
+    "a handful of fresh chives, chopped",
+    "mirin, for serving",
+    "400ml chicken stock",
+    "1 1/2 tsp white sesame seeds",
+    "200g carrots"
+  ],
+  "instructions": [
+    "Prepare the soba noodles base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the chicken thighs, bean sprouts, sliced scallion whites, and wasabi paste, mixing well so everything is evenly seasoned.",
+    "Heat toasted sesame oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the soba noodles until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the chicken thighs mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the soba noodles with the filling, a spoonful of sake, and a scattering of shiso leaves.",
+    "Add a final touch of pickled ginger for extra flavor and texture."
+  ],
+  "tips": [
+    "Double the sake so you have plenty for dipping — it tends to disappear fast.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇯🇵"
+}

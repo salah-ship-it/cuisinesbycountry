@@ -1,0 +1,35 @@
+{
+  "slug": "tom-yum-goong",
+  "name": "Tom Yum Goong",
+  "description": "A bracing hot-and-sour prawn soup of lemongrass, galangal, kaffir lime, and bird's eye chilies in clear broth.",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g large prawns",
+    "1 cup roti dough",
+    "2 tbsp sliced lemongrass",
+    "1/2 tsp red curry paste",
+    "2 tbsp neutral vegetable oil",
+    "200g Thai eggplant",
+    "a handful of fresh mint, chopped",
+    "a generous spoonful of tamarind paste"
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat and cook the sliced shallots and sliced galangal gently until soft and fragrant.",
+    "Stir in the red curry paste and palm sugar, toasting briefly until the kitchen fills with their aroma.",
+    "Add the pork shoulder and bean sprouts, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the pork shoulder is tender, about 15 mins.",
+    "Stir in the jasmine rice and continue simmering for a few minutes more, until heated through.",
+    "Finish with the lime wedges and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇭"
+}

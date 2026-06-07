@@ -1,0 +1,39 @@
+{
+  "slug": "toast-al-prosciutto",
+  "name": "Toast al Prosciutto e Formaggio",
+  "description": "A golden toasted sandwich of prosciutto cotto and melted cheese, a quick and satisfying Italian bar breakfast.",
+  "prepTime": "5 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "600g sea bass fillets",
+    "400g fresh lasagna sheets",
+    "a handful of minced garlic",
+    "1/2 tsp dried oregano",
+    "1/4 cup unsalted butter",
+    "a generous handful of zucchini",
+    "a handful of fresh parsley, chopped",
+    "a drizzle of balsamic vinegar",
+    "500ml dry white wine",
+    "1 tsp fennel seeds",
+    "200g San Marzano tomatoes"
+  ],
+  "instructions": [
+    "Gather and prep the pizza dough and ground beef, measuring everything out so it is ready to go.",
+    "Heat unsalted butter in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced leeks and San Marzano tomatoes, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the ground beef, season with fennel seeds, and cook until just done, about 5 mins.",
+    "Warm the pizza dough alongside, turning once, until heated through and lightly toasted.",
+    "Plate the pizza dough and spoon the cooked mixture over the top.",
+    "Drizzle with balsamic vinegar and finish with a sprinkle of sage.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of sage just before serving brightens up the whole plate.",
+    "Keep the heat moderate so the ground beef cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇹"
+}

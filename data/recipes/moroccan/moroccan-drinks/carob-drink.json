@@ -1,0 +1,38 @@
+{
+  "slug": "carob-drink",
+  "name": "Carob Drink",
+  "description": "A warming, mildly sweet drink brewed from dried carob pods, traditionally consumed for its nutritional properties.",
+  "prepTime": "5 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g lamb shanks",
+    "2 cups vermicelli noodles",
+    "1 tbsp sliced shallots",
+    "1 1/2 tsp saffron threads",
+    "2 tbsp smen (preserved butter)",
+    "a generous handful of red bell peppers",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of preserved lemon",
+    "400ml chicken stock",
+    "1/2 tsp ras el hanout"
+  ],
+  "instructions": [
+    "Combine the couscous and vegetable stock in a saucepan, blender, or pitcher, stirring well.",
+    "Add the ras el hanout and preserved lemon, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 15 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with dried apricots, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with parsley just before serving.",
+    "Pour into your favorite glass or cup and enjoy."
+  ],
+  "tips": [
+    "Adjust the sweetness gradually, tasting as you go — you can always add more dried apricots, but you cannot take it away.",
+    "Serve in a chilled glass for the most refreshing result on a hot day."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇲🇦"
+}

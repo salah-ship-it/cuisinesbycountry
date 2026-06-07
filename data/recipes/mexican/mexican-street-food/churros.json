@@ -1,0 +1,40 @@
+{
+  "slug": "churros",
+  "name": "Churros con Chocolate",
+  "description": "Ridged fried choux pastry dusted in cinnamon sugar, served with a thick dark Mexican chocolate dipping sauce.",
+  "prepTime": "15 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "1 kg white fish fillets",
+    "300g bolillo rolls",
+    "1 tbsp minced garlic",
+    "1 tsp chili powder",
+    "2 tbsp neutral vegetable oil",
+    "2 red bell peppers, chopped",
+    "a handful of fresh epazote, chopped",
+    "a drizzle of salsa verde",
+    "1 cup chicken stock",
+    "1/2 tsp dried oregano",
+    "a generous handful of jalapeños",
+    "a generous spoonful of lime wedges"
+  ],
+  "instructions": [
+    "Prepare the white rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the ground beef, ripe tomatoes, rehydrated dried chilies, and ground cumin, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the white rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the ground beef mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the white rice with the filling, a spoonful of crumbled cotija cheese, and a scattering of cilantro.",
+    "Add a final touch of Mexican crema for extra flavor and texture."
+  ],
+  "tips": [
+    "Keep the neutral vegetable oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇽"
+}

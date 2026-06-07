@@ -1,0 +1,35 @@
+{
+  "slug": "ciambella",
+  "name": "Ciambella",
+  "description": "A classic Italian ring cake flavored with lemon zest and vanilla, simple and light for the morning table.",
+  "prepTime": "20 mins",
+  "cookTime": "35 mins",
+  "difficulty": "Easy",
+  "servings": 8,
+  "ingredients": [
+    "500g Italian sausage",
+    "300g arborio rice",
+    "1 tbsp sliced shallots",
+    "2 tsp fennel seeds",
+    "3 tbsp unsalted butter",
+    "a generous handful of baby spinach",
+    "a handful of fresh basil, chopped",
+    "a drizzle of balsamic vinegar"
+  ],
+  "instructions": [
+    "Gather and prep the fresh lasagna sheets and fresh mozzarella, measuring everything out so it is ready to go.",
+    "Heat unsalted butter in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and carrots, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the fresh mozzarella, season with cracked black pepper, and cook until just done, about 35 mins.",
+    "Warm the fresh lasagna sheets alongside, turning once, until heated through and lightly toasted.",
+    "Plate the fresh lasagna sheets and spoon the cooked mixture over the top.",
+    "Drizzle with mascarpone and finish with a sprinkle of parsley."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "A squeeze of citrus or a sprinkle of parsley just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇹"
+}

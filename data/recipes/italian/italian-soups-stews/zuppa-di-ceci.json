@@ -1,0 +1,37 @@
+{
+  "slug": "zuppa-di-ceci",
+  "name": "Zuppa di Ceci",
+  "description": "A warming Sicilian chickpea soup with garlic, rosemary, and a finishing drizzle of fruity olive oil.",
+  "prepTime": "10 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g ground pork",
+    "400g fresh lasagna sheets",
+    "1 tbsp sliced shallots",
+    "1 1/2 tsp grated nutmeg",
+    "3 tbsp extra-virgin olive oil",
+    "1 cup eggplant, sliced",
+    "a handful of fresh basil, chopped",
+    "Parmesan cheese, for serving",
+    "1 cup vegetable stock",
+    "1 1/2 tsp dried oregano"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the sliced shallots and minced garlic gently until soft and fragrant.",
+    "Stir in the red pepper flakes and cracked black pepper, toasting briefly until the kitchen fills with their aroma.",
+    "Add the sea bass fillets and eggplant, stirring well to coat everything in the spiced base.",
+    "Pour in the dry white wine, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the sea bass fillets is tender, about 40 mins.",
+    "Stir in the fresh lasagna sheets and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Taste and adjust the seasoning right at the end — the dry white wine reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇹"
+}

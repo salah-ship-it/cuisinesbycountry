@@ -1,0 +1,38 @@
+{
+  "slug": "mongolian-hot-pot",
+  "name": "Mongolian Hot Pot",
+  "description": "A divided simmering broth of clear chicken and spicy Sichuan at the table for dipping paper-thin lamb and vegetables.",
+  "prepTime": "30 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "700g large prawns",
+    "1 cup wonton wrappers",
+    "1 tbsp grated fresh ginger",
+    "1/2 tsp five-spice powder",
+    "1/4 cup neutral vegetable oil",
+    "2 shiitake mushrooms, chopped",
+    "a handful of fresh chives, chopped",
+    "a drizzle of oyster sauce",
+    "500ml chicken stock",
+    "a pinch of star anise"
+  ],
+  "instructions": [
+    "Heat toasted sesame oil in a large pot over medium heat and cook the crushed Sichuan peppercorns and grated fresh ginger gently until soft and fragrant.",
+    "Stir in the five-spice powder and star anise, toasting briefly until the kitchen fills with their aroma.",
+    "Add the large prawns and bamboo shoots, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the large prawns is tender, about 20 mins.",
+    "Stir in the wonton wrappers and continue simmering for a few minutes more, until heated through.",
+    "Finish with the soy sauce and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the water reduces as it simmers, concentrating the flavor.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇨🇳"
+}

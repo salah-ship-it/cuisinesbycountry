@@ -1,0 +1,37 @@
+{
+  "slug": "crepe",
+  "name": "Crêpe",
+  "description": "A paper-thin Breton buckwheat or sweet flour crêpe cooked on a billig griddle and filled to order on the street.",
+  "prepTime": "10 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g beef chuck",
+    "1 cup baguette",
+    "2 tsp sliced shallots",
+    "2 tsp bay leaves",
+    "3 tbsp extra-virgin olive oil",
+    "1 cup pearl onions, sliced",
+    "a handful of fresh chives, chopped",
+    "lemon zest, for serving"
+  ],
+  "instructions": [
+    "Prepare the baguette base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the sea bass fillets, ripe tomatoes, sliced shallots, and cracked black peppercorns, mixing well so everything is evenly seasoned.",
+    "Heat extra-virgin olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the baguette until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the sea bass fillets mixture until cooked through and lightly charred at the edges, about 5 mins.",
+    "Assemble by layering the baguette with the filling, a spoonful of Dijon mustard, and a scattering of chives.",
+    "Add a final touch of crème fraîche for extra flavor and texture.",
+    "Serve immediately while hot, with extra Dijon mustard on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Double the Dijon mustard so you have plenty for dipping — it tends to disappear fast."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇫🇷"
+}

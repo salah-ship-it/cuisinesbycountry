@@ -1,0 +1,37 @@
+{
+  "slug": "onigiri",
+  "name": "Onigiri",
+  "description": "Triangular or round seasoned rice balls wrapped in nori and filled with tuna mayo, salmon, or pickled plum.",
+  "prepTime": "15 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg thinly sliced beef",
+    "2 cups panko breadcrumbs",
+    "2 tsp grated fresh ginger",
+    "2 tsp white sesame seeds",
+    "1/4 cup toasted sesame oil",
+    "a generous handful of bean sprouts",
+    "a handful of fresh mitsuba, chopped",
+    "a generous spoonful of mirin",
+    "400ml dashi stock",
+    "1/2 tsp wasabi paste"
+  ],
+  "instructions": [
+    "Prepare the soba noodles base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the large prawns, shiitake mushrooms, minced garlic, and cracked black pepper, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the soba noodles until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the large prawns mixture until cooked through and lightly charred at the edges, about 0 mins.",
+    "Assemble by layering the soba noodles with the filling, a spoonful of bonito flakes, and a scattering of chives.",
+    "Add a final touch of sake for extra flavor and texture."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Keep the neutral vegetable oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇯🇵"
+}

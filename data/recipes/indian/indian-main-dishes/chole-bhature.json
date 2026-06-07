@@ -1,0 +1,38 @@
+{
+  "slug": "chole-bhature",
+  "name": "Chole Bhature",
+  "description": "Spiced chickpea curry served with pillowy deep-fried leavened bread, a beloved Punjabi street meal.",
+  "prepTime": "20 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "600g chickpeas",
+    "1 cup semolina",
+    "1 tbsp curry leaves",
+    "a pinch of red chili powder",
+    "3 tbsp ghee",
+    "200g yellow onions",
+    "a handful of fresh mint, chopped",
+    "plain yogurt, to taste",
+    "1 cup chicken stock",
+    "2 tsp ground turmeric"
+  ],
+  "instructions": [
+    "Pat the chickpeas dry, season generously with salt, pepper, and ground coriander, and let it sit for a few minutes to absorb the flavors.",
+    "Heat ghee in a wide pan or heavy pot over medium-high heat and sear the chickpeas until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the crushed green cardamom pods and grated fresh ginger over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the ground turmeric and yellow onions, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the chickpeas to the pan, pour in the chicken stock, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the chickpeas is tender and cooked through, roughly 45 mins.",
+    "Stir in the tamarind paste, taste, and adjust the seasoning with salt and pepper as needed.",
+    "Scatter over the mint and serve hot alongside naan bread."
+  ],
+  "tips": [
+    "Avoid crowding the pan when searing the chickpeas; work in batches so it browns instead of steaming.",
+    "For deeper flavor, marinate the chickpeas for at least an hour — or overnight — before cooking."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇮🇳"
+}

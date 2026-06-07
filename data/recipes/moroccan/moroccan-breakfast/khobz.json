@@ -1,0 +1,35 @@
+{
+  "slug": "khobz",
+  "name": "Khobz",
+  "description": "Round Moroccan hearth bread with a golden crust and chewy crumb, the cornerstone of every Moroccan breakfast.",
+  "prepTime": "20 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Easy",
+  "servings": 6,
+  "ingredients": [
+    "600g chicken thighs",
+    "400g flatbread",
+    "1 tbsp minced garlic",
+    "a pinch of ras el hanout",
+    "3 tbsp olive oil",
+    "2 ripe tomatoes, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of toasted almonds"
+  ],
+  "instructions": [
+    "Gather and prep the flatbread and ground beef, measuring everything out so it is ready to go.",
+    "Heat smen (preserved butter) in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the grated fresh ginger and red bell peppers, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the ground beef, season with ground turmeric, and cook until just done, about 25 mins.",
+    "Warm the flatbread alongside, turning once, until heated through and lightly toasted.",
+    "Plate the flatbread and spoon the cooked mixture over the top.",
+    "Drizzle with preserved lemon and finish with a sprinkle of cilantro."
+  ],
+  "tips": [
+    "Prep the flatbread and ground beef the night before to make busy mornings much easier.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇲🇦"
+}

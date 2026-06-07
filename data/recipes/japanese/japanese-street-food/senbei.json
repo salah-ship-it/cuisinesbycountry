@@ -1,0 +1,39 @@
+{
+  "slug": "senbei",
+  "name": "Senbei",
+  "description": "Traditional Japanese rice crackers baked and brushed with soy sauce, sesame, or nori for a savory crunch.",
+  "prepTime": "10 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 10,
+  "ingredients": [
+    "700g pork loin",
+    "2 cups short-grain rice",
+    "2 tbsp minced garlic",
+    "1 tsp cracked black pepper",
+    "2 tbsp toasted sesame oil",
+    "200g bean sprouts",
+    "a handful of fresh chives, chopped",
+    "bonito flakes, to taste",
+    "400ml chicken stock",
+    "2 tsp wasabi paste",
+    "1 cup carrots, sliced",
+    "a drizzle of sake"
+  ],
+  "instructions": [
+    "Prepare the panko breadcrumbs base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the thinly sliced beef, napa cabbage, grated fresh ginger, and wasabi paste, mixing well so everything is evenly seasoned.",
+    "Heat toasted sesame oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the panko breadcrumbs until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the thinly sliced beef mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the panko breadcrumbs with the filling, a spoonful of sake, and a scattering of shiso leaves."
+  ],
+  "tips": [
+    "Keep the toasted sesame oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇯🇵"
+}

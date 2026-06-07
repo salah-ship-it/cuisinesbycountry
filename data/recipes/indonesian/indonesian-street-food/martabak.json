@@ -1,0 +1,36 @@
+{
+  "slug": "martabak",
+  "name": "Martabak",
+  "description": "A thick folded pancake sold in savory versions with spiced minced beef and egg, or sweet with chocolate and cheese.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "700g large prawns",
+    "2 cups fried shallot crackers (krupuk)",
+    "2 tsp sliced galangal",
+    "a pinch of tamarind paste",
+    "3 tbsp coconut oil",
+    "200g chayote",
+    "a handful of fresh Thai basil, chopped",
+    "roasted peanuts, for serving",
+    "400ml tamarind water"
+  ],
+  "instructions": [
+    "Prepare the jasmine rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the tempeh, shallots, sliced galangal, and coriander seeds, mixing well so everything is evenly seasoned.",
+    "Heat coconut oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the jasmine rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the tempeh mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the jasmine rice with the filling, a spoonful of crispy fried shallots, and a scattering of Thai basil.",
+    "Add a final touch of roasted peanuts for extra flavor and texture."
+  ],
+  "tips": [
+    "Keep the coconut oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇩"
+}

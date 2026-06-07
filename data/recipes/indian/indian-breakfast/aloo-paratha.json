@@ -1,0 +1,37 @@
+{
+  "slug": "aloo-paratha",
+  "name": "Aloo Paratha",
+  "description": "Whole wheat flatbreads stuffed with spiced mashed potato, pan-fried in butter and served with yogurt and pickle.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "400g paneer cubes",
+    "400g naan bread",
+    "a handful of crushed green cardamom pods",
+    "2 tsp ground coriander",
+    "2 tbsp neutral vegetable oil",
+    "a generous handful of fresh spinach",
+    "a handful of fresh mint, chopped",
+    "a generous spoonful of plain yogurt"
+  ],
+  "instructions": [
+    "Gather and prep the basmati rice and chickpeas, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the curry leaves and ripe tomatoes, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the chickpeas, season with garam masala, and cook until just done, about 20 mins.",
+    "Warm the basmati rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the basmati rice and spoon the cooked mixture over the top.",
+    "Drizzle with tamarind paste and finish with a sprinkle of mint.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of mint just before serving brightens up the whole plate.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Prep the basmati rice and chickpeas the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇳"
+}

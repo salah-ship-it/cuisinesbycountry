@@ -1,0 +1,39 @@
+{
+  "slug": "umeshu",
+  "name": "Umeshu",
+  "description": "Japanese plum wine made from unripe ume steeped in shochu and sugar, sweet, tart, and deeply fragrant.",
+  "prepTime": "10 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g pork loin",
+    "1 cup nori sheets",
+    "2 tsp grated fresh ginger",
+    "a pinch of white sesame seeds",
+    "3 tbsp toasted sesame oil",
+    "2 napa cabbage, chopped",
+    "a handful of fresh shiso leaves, chopped",
+    "soy sauce, to taste",
+    "2 cups water",
+    "2 tsp cracked black pepper",
+    "200g bean sprouts"
+  ],
+  "instructions": [
+    "Combine the short-grain rice and water in a saucepan, blender, or pitcher, stirring well.",
+    "Add the cracked black pepper and soy sauce, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 0 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with sake, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with shiso leaves just before serving.",
+    "Pour into your favorite glass or cup and enjoy."
+  ],
+  "tips": [
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil.",
+    "Adjust the sweetness gradually, tasting as you go — you can always add more sake, but you cannot take it away."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇯🇵"
+}

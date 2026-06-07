@@ -1,0 +1,38 @@
+{
+  "slug": "cheese-borek-breakfast",
+  "name": "Peynirli Börek",
+  "description": "Flaky yufka pastry stuffed with feta and parsley, pan-fried in butter until golden and eaten warm at the morning table.",
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "700g beef sirloin",
+    "1 cup pide bread",
+    "2 tbsp finely chopped red onion",
+    "a pinch of ground cumin",
+    "2 tbsp olive oil",
+    "a generous handful of eggplant",
+    "a handful of fresh mint, chopped",
+    "lemon wedges, for serving",
+    "1 cup beef stock",
+    "1 1/2 tsp cracked black pepper"
+  ],
+  "instructions": [
+    "Gather and prep the simit rings and chicken thighs, measuring everything out so it is ready to go.",
+    "Heat olive oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the finely chopped red onion and eggplant, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the chicken thighs, season with sweet paprika, and cook until just done, about 15 mins.",
+    "Warm the simit rings alongside, turning once, until heated through and lightly toasted.",
+    "Plate the simit rings and spoon the cooked mixture over the top.",
+    "Drizzle with toasted pine nuts and finish with a sprinkle of mint."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of mint just before serving brightens up the whole plate.",
+    "Prep the simit rings and chicken thighs the night before to make busy mornings much easier.",
+    "Keep the heat moderate so the chicken thighs cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇷"
+}

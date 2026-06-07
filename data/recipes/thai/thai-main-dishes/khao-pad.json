@@ -1,0 +1,36 @@
+{
+  "slug": "khao-pad",
+  "name": "Khao Pad",
+  "description": "Thai fried rice stir-fried in a scorching wok with egg, jasmine rice, spring onion, and fish sauce.",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg pork shoulder",
+    "300g jasmine rice",
+    "2 tsp sliced shallots",
+    "1 1/2 tsp white pepper",
+    "3 tbsp coconut oil",
+    "1 cup Thai bird's eye chilies, sliced",
+    "a handful of fresh Thai basil, chopped",
+    "a generous spoonful of tamarind paste",
+    "400ml tamarind water"
+  ],
+  "instructions": [
+    "Pat the firm tofu dry, season generously with salt, pepper, and palm sugar, and let it sit for a few minutes to absorb the flavors.",
+    "Heat coconut oil in a wide pan or heavy pot over medium-high heat and sear the firm tofu until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the minced garlic and torn kaffir lime leaves over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the dried shrimp and Thai bird's eye chilies, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the firm tofu to the pan, pour in the coconut milk, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the firm tofu is tender and cooked through, roughly 10 mins.",
+    "Stir in the fish sauce, taste, and adjust the seasoning with salt and pepper as needed."
+  ],
+  "tips": [
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat.",
+    "For deeper flavor, marinate the firm tofu for at least an hour — or overnight — before cooking."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇹🇭"
+}

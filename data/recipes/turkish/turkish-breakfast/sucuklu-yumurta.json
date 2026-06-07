@@ -1,0 +1,36 @@
+{
+  "slug": "sucuklu-yumurta",
+  "name": "Sucuklu Yumurta",
+  "description": "Spiced Turkish sausage slices pan-fried until the fat renders, then eggs cracked in to cook in the spiced fat.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg ground lamb",
+    "1 cup pide bread",
+    "2 tsp finely chopped red onion",
+    "2 tsp Aleppo pepper",
+    "1/4 cup unsalted butter",
+    "a generous handful of red onions",
+    "a handful of fresh mint, chopped",
+    "plain yogurt, for serving"
+  ],
+  "instructions": [
+    "Gather and prep the rice pilaf and lamb shoulder, measuring everything out so it is ready to go.",
+    "Heat unsalted butter in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and cucumber, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the lamb shoulder, season with ground cumin, and cook until just done, about 10 mins.",
+    "Warm the rice pilaf alongside, turning once, until heated through and lightly toasted.",
+    "Plate the rice pilaf and spoon the cooked mixture over the top.",
+    "Drizzle with lemon wedges and finish with a sprinkle of parsley.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Prep the rice pilaf and lamb shoulder the night before to make busy mornings much easier.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇷"
+}

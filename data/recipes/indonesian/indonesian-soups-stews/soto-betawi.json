@@ -1,0 +1,38 @@
+{
+  "slug": "soto-betawi",
+  "name": "Soto Betawi",
+  "description": "A rich Jakarta-style beef and offal soup simmered in coconut milk broth with tomato and fried shallots.",
+  "prepTime": "20 mins",
+  "cookTime": "1 hr 30 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "400g beef shin",
+    "400g rice noodles",
+    "a handful of sliced galangal",
+    "1 tsp tamarind paste",
+    "3 tbsp coconut oil",
+    "a generous handful of cabbage",
+    "a handful of fresh kaffir lime leaves, chopped",
+    "a generous spoonful of lime wedges",
+    "2 cups tamarind water",
+    "1/2 tsp ground cumin",
+    "a generous handful of bean sprouts"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the minced garlic and sliced lemongrass gently until soft and fragrant.",
+    "Stir in the palm sugar and coriander seeds, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chicken thighs and cabbage, stirring well to coat everything in the spiced base.",
+    "Pour in the coconut milk, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chicken thighs is tender, about 1 hr 30 mins.",
+    "Stir in the compressed rice cakes (lontong) and continue simmering for a few minutes more, until heated through.",
+    "Finish with the sambal and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Taste and adjust the seasoning right at the end — the coconut milk reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇩"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "patlican-corbasi",
+  "name": "Patlıcan Çorbası",
+  "description": "Smoky roasted aubergine blended into a velvety soup with yogurt, garlic, and a drizzle of olive oil.",
+  "prepTime": "15 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg ground lamb",
+    "1 cup yufka pastry",
+    "2 tsp sliced scallions",
+    "1 1/2 tsp cracked black pepper",
+    "2 tbsp olive oil",
+    "200g cucumber",
+    "a handful of fresh dill, chopped",
+    "butter-fried pita, for serving",
+    "2 cups beef stock",
+    "1 1/2 tsp dried mint",
+    "1 cup ripe tomatoes, sliced",
+    "a drizzle of pomegranate molasses"
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and cook the minced garlic and finely chopped red onion gently until soft and fragrant.",
+    "Stir in the sweet paprika and dried mint, toasting briefly until the kitchen fills with their aroma.",
+    "Add the beef sirloin and green peppers, stirring well to coat everything in the spiced base.",
+    "Pour in the beef stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the beef sirloin is tender, about 40 mins.",
+    "Stir in the simit rings and continue simmering for a few minutes more, until heated through.",
+    "Finish with the pomegranate molasses and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the dill, and serve piping hot."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Taste and adjust the seasoning right at the end — the beef stock reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇷"
+}

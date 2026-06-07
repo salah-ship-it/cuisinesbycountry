@@ -1,0 +1,35 @@
+{
+  "slug": "japanese-green-tea",
+  "name": "Japanese Green Tea",
+  "description": "Loose-leaf sencha or gyokuro steeped at precise temperatures to bring out a grassy, umami-rich sweetness.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "400g chicken thighs",
+    "2 cups ramen noodles",
+    "2 tsp minced garlic",
+    "a pinch of wasabi paste",
+    "3 tbsp neutral vegetable oil",
+    "200g daikon radish",
+    "a handful of fresh mitsuba, chopped",
+    "bonito flakes, for serving",
+    "500ml water"
+  ],
+  "instructions": [
+    "Combine the short-grain rice and water in a saucepan, blender, or pitcher, stirring well.",
+    "Add the shichimi togarashi and mirin, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 0 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with sake, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot."
+  ],
+  "tips": [
+    "Adjust the sweetness gradually, tasting as you go — you can always add more sake, but you cannot take it away.",
+    "Serve in a chilled glass for the most refreshing result on a hot day."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇯🇵"
+}

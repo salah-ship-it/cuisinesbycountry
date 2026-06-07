@@ -1,0 +1,34 @@
+{
+  "slug": "grilled-salmon-breakfast",
+  "name": "Grilled Salmon",
+  "description": "Salted salmon fillet grilled until the skin crisps, the cornerstone of a traditional Japanese breakfast set.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg fresh salmon fillets",
+    "1 cup ramen noodles",
+    "a handful of sliced scallion whites",
+    "1 tsp white sesame seeds",
+    "3 tbsp neutral vegetable oil",
+    "1 cup scallions, sliced",
+    "a handful of fresh mitsuba, chopped",
+    "bonito flakes, to taste"
+  ],
+  "instructions": [
+    "Gather and prep the short-grain rice and pork loin, measuring everything out so it is ready to go.",
+    "Heat toasted sesame oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and bean sprouts, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the pork loin, season with wasabi paste, and cook until just done, about 10 mins.",
+    "Warm the short-grain rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the short-grain rice and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of chives just before serving brightens up the whole plate.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇯🇵"
+}

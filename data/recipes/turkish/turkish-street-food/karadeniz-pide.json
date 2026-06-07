@@ -1,0 +1,36 @@
+{
+  "slug": "karadeniz-pide",
+  "name": "Karadeniz Pidesi",
+  "description": "Black Sea pide filled with minced beef, butter, and a cracked egg baked until the dough puffs and blisters.",
+  "prepTime": "25 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "500g beef sirloin",
+    "2 cups rice pilaf",
+    "2 tsp finely chopped red onion",
+    "2 tsp ground sumac",
+    "1/4 cup olive oil",
+    "1 cup eggplant, sliced",
+    "a handful of fresh dill, chopped",
+    "a generous spoonful of crumbled feta",
+    "500ml beef stock"
+  ],
+  "instructions": [
+    "Prepare the rice pilaf base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the ground lamb, green peppers, sliced scallions, and ground cumin, mixing well so everything is evenly seasoned.",
+    "Heat olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the rice pilaf until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the ground lamb mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the rice pilaf with the filling, a spoonful of butter-fried pita, and a scattering of dill.",
+    "Add a final touch of pomegranate molasses for extra flavor and texture."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Keep the olive oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇹🇷"
+}

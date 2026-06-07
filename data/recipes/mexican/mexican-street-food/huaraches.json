@@ -1,0 +1,40 @@
+{
+  "slug": "huaraches",
+  "name": "Huaraches",
+  "description": "Sandal-shaped thick masa flatbreads topped with refried beans, salsa, avocado, and your choice of protein.",
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "600g pork shoulder",
+    "1 cup masa dough",
+    "2 tbsp finely chopped white onion",
+    "1/2 tsp smoked paprika",
+    "3 tbsp lard",
+    "a generous handful of red bell peppers",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of lime wedges",
+    "2 cups beef stock",
+    "2 tsp ground cinnamon",
+    "a generous handful of ripe tomatoes",
+    "a drizzle of pickled red onions"
+  ],
+  "instructions": [
+    "Prepare the corn tortillas base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the cured chorizo, tomatillos, rehydrated dried chilies, and ground cumin, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the corn tortillas until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the cured chorizo mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the corn tortillas with the filling, a spoonful of toasted pumpkin seeds, and a scattering of oregano.",
+    "Add a final touch of Mexican crema for extra flavor and texture.",
+    "Serve immediately while hot, with extra toasted pumpkin seeds on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Keep the neutral vegetable oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇽"
+}

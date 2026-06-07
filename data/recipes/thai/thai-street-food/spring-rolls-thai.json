@@ -1,0 +1,37 @@
+{
+  "slug": "spring-rolls-thai",
+  "name": "Poh Pia Thot",
+  "description": "Crispy deep-fried Thai spring rolls stuffed with glass noodles, carrots, and pork, dipped in sweet chili sauce.",
+  "prepTime": "25 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "700g firm tofu",
+    "1 cup jasmine rice",
+    "2 tsp sliced lemongrass",
+    "1 1/2 tsp palm sugar",
+    "2 tbsp coconut oil",
+    "200g Thai eggplant",
+    "a handful of fresh Thai basil, chopped",
+    "roasted peanuts, for serving",
+    "1 cup water",
+    "1 tsp dried shrimp"
+  ],
+  "instructions": [
+    "Prepare the roti dough base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the chicken thighs, Thai bird's eye chilies, minced garlic, and white pepper, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the roti dough until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the chicken thighs mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the roti dough with the filling, a spoonful of fish sauce, and a scattering of mint."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Double the fish sauce so you have plenty for dipping — it tends to disappear fast.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇹🇭"
+}

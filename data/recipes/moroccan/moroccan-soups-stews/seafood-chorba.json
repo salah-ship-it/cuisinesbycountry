@@ -1,0 +1,35 @@
+{
+  "slug": "seafood-chorba",
+  "name": "Seafood Chorba",
+  "description": "A rustic Moroccan-style seafood soup with shrimp, fish, and squid in a saffron-spiced tomato broth.",
+  "prepTime": "20 mins",
+  "cookTime": "35 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "1 kg chicken thighs",
+    "400g vermicelli noodles",
+    "a handful of grated fresh ginger",
+    "2 tsp sweet paprika",
+    "2 tbsp smen (preserved butter)",
+    "2 butternut squash, chopped",
+    "a handful of fresh parsley, chopped",
+    "pitted dates, to taste"
+  ],
+  "instructions": [
+    "Heat smen (preserved butter) in a large pot over medium heat and cook the grated fresh ginger and minced garlic gently until soft and fragrant.",
+    "Stir in the ground turmeric and sweet paprika, toasting briefly until the kitchen fills with their aroma.",
+    "Add the white fish fillets and potatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the white fish fillets is tender, about 35 mins.",
+    "Stir in the flatbread and continue simmering for a few minutes more, until heated through.",
+    "Finish with the pitted dates and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Taste and adjust the seasoning right at the end — the water reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇦"
+}

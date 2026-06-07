@@ -1,0 +1,37 @@
+{
+  "slug": "minestrone",
+  "name": "Minestrone",
+  "description": "A hearty vegetable soup with seasonal produce, cannellini beans, and pasta in a rich tomato broth.",
+  "prepTime": "20 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Easy",
+  "servings": 6,
+  "ingredients": [
+    "600g ground beef",
+    "2 cups fresh lasagna sheets",
+    "2 tsp sliced leeks",
+    "1/2 tsp grated nutmeg",
+    "1/4 cup unsalted butter",
+    "200g celery stalks",
+    "a handful of fresh rosemary, chopped",
+    "pine nuts, to taste",
+    "2 cups chicken stock"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the sliced shallots and sliced leeks gently until soft and fragrant.",
+    "Stir in the dried oregano and fennel seeds, toasting briefly until the kitchen fills with their aroma.",
+    "Add the ground pork and zucchini, stirring well to coat everything in the spiced base.",
+    "Pour in the whole milk, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the ground pork is tender, about 45 mins.",
+    "Stir in the ciabatta bread and continue simmering for a few minutes more, until heated through.",
+    "Finish with the balsamic vinegar and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Taste and adjust the seasoning right at the end — the whole milk reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇹"
+}

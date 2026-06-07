@@ -1,0 +1,36 @@
+{
+  "slug": "briouats",
+  "name": "Briouats",
+  "description": "Crispy triangular filo pastry parcels filled with spiced minced meat or almonds and honey.",
+  "prepTime": "30 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "600g white fish fillets",
+    "2 cups flatbread",
+    "2 tbsp finely chopped red onion",
+    "1 tsp ground cumin",
+    "3 tbsp butter",
+    "200g ripe tomatoes",
+    "a handful of fresh mint, chopped",
+    "honey, for serving"
+  ],
+  "instructions": [
+    "Prepare the flatbread base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the merguez sausage, red bell peppers, sliced shallots, and saffron threads, mixing well so everything is evenly seasoned.",
+    "Heat butter in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the flatbread until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the merguez sausage mixture until cooked through and lightly charred at the edges, about 25 mins.",
+    "Assemble by layering the flatbread with the filling, a spoonful of pitted dates, and a scattering of cilantro.",
+    "Add a final touch of honey for extra flavor and texture.",
+    "Serve immediately while hot, with extra pitted dates on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Keep the butter hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Double the pitted dates so you have plenty for dipping — it tends to disappear fast."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇦"
+}

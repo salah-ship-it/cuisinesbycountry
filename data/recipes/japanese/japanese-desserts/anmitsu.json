@@ -1,0 +1,39 @@
+{
+  "slug": "anmitsu",
+  "name": "Anmitsu",
+  "description": "A classic Japanese dessert bowl of agar jelly cubes, red bean paste, mochi, and fruit drizzled with kuromitsu syrup.",
+  "prepTime": "20 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g pork loin",
+    "400g ramen noodles",
+    "2 tbsp sliced scallion whites",
+    "a pinch of white sesame seeds",
+    "2 tbsp toasted sesame oil",
+    "200g daikon radish",
+    "a handful of fresh shiso leaves, chopped",
+    "pickled ginger, to taste",
+    "2 cups chicken stock",
+    "a pinch of wasabi paste",
+    "200g napa cabbage"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with neutral vegetable oil.",
+    "In a large bowl, whisk together the soba noodles and shichimi togarashi until evenly combined.",
+    "In a separate bowl, blend the toasted sesame oil with the water until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 10 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with mitsuba or a dusting of mirin.",
+    "Slice or portion into servings and serve."
+  ],
+  "tips": [
+    "This keeps well for a couple of days in an airtight container, and the flavor often improves overnight.",
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇯🇵"
+}

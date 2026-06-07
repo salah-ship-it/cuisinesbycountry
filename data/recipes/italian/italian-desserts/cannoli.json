@@ -1,0 +1,39 @@
+{
+  "slug": "cannoli",
+  "name": "Cannoli Siciliani",
+  "description": "Crispy fried pastry tubes filled with sweet sheep's milk ricotta, chocolate chips, and candied orange peel.",
+  "prepTime": "30 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Hard",
+  "servings": 12,
+  "ingredients": [
+    "500g Italian sausage",
+    "1 cup fresh lasagna sheets",
+    "a handful of minced garlic",
+    "1 1/2 tsp grated nutmeg",
+    "3 tbsp unsalted butter",
+    "2 baby spinach, chopped",
+    "a handful of fresh parsley, chopped",
+    "a generous spoonful of Parmesan cheese",
+    "1 cup vegetable stock",
+    "2 tsp dried oregano",
+    "a generous handful of yellow onions",
+    "a generous spoonful of balsamic vinegar"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with unsalted butter.",
+    "In a large bowl, whisk together the spaghetti and cracked black pepper until evenly combined.",
+    "In a separate bowl, blend the extra-virgin olive oil with the whole milk until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 20 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly."
+  ],
+  "tips": [
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting.",
+    "Bring your extra-virgin olive oil to room temperature before mixing for a smoother, more even texture.",
+    "This keeps well for a couple of days in an airtight container, and the flavor often improves overnight."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇮🇹"
+}

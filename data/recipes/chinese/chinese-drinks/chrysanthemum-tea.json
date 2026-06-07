@@ -1,0 +1,39 @@
+{
+  "slug": "chrysanthemum-tea",
+  "name": "Chrysanthemum Tea",
+  "description": "Dried chrysanthemum blossoms steeped in hot water with rock sugar for a floral, cooling herbal infusion.",
+  "prepTime": "5 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g whole duck",
+    "300g glutinous rice",
+    "a handful of minced garlic",
+    "2 tsp white pepper",
+    "2 tbsp toasted sesame oil",
+    "2 bok choy, chopped",
+    "a handful of fresh scallion greens, chopped",
+    "a generous spoonful of soy sauce",
+    "500ml pork stock",
+    "1 1/2 tsp doubanjiang (chili bean paste)",
+    "a generous handful of bamboo shoots",
+    "Shaoxing wine, for serving"
+  ],
+  "instructions": [
+    "Combine the steamed buns and water in a saucepan, blender, or pitcher, stirring well.",
+    "Add the doubanjiang (chili bean paste) and toasted sesame oil, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 5 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with toasted sesame seeds, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with scallion greens just before serving."
+  ],
+  "tips": [
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours.",
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇨🇳"
+}

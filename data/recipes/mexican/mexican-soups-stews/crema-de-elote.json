@@ -1,0 +1,35 @@
+{
+  "slug": "crema-de-elote",
+  "name": "Crema de Elote",
+  "description": "A velvety sweet corn cream soup blended with butter, epazote, and a swirl of crema for a rich autumn bowl.",
+  "prepTime": "10 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg chicken thighs",
+    "1 cup bolillo rolls",
+    "1 tbsp rehydrated dried chilies",
+    "1/2 tsp smoked paprika",
+    "2 tbsp lard",
+    "200g red bell peppers",
+    "a handful of fresh cilantro, chopped",
+    "toasted pumpkin seeds, for serving",
+    "1 cup beef stock"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the rehydrated dried chilies and finely chopped white onion gently until soft and fragrant.",
+    "Stir in the chili powder and ground cumin, toasting briefly until the kitchen fills with their aroma.",
+    "Add the ground beef and ripe tomatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the ground beef is tender, about 25 mins.",
+    "Stir in the bolillo rolls and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇽"
+}

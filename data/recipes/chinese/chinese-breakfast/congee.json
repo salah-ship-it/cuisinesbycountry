@@ -1,0 +1,35 @@
+{
+  "slug": "congee",
+  "name": "Congee",
+  "description": "Smooth Cantonese rice porridge slowly cooked until silky, served with century egg, pork slices, and fried dough.",
+  "prepTime": "5 mins",
+  "cookTime": "1 hr",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g large prawns",
+    "2 cups wonton wrappers",
+    "2 tsp crushed Sichuan peppercorns",
+    "2 tsp chili oil",
+    "2 tbsp neutral vegetable oil",
+    "a generous handful of bean sprouts",
+    "a handful of fresh chives, chopped",
+    "a generous spoonful of toasted sesame oil",
+    "2 cups water"
+  ],
+  "instructions": [
+    "Gather and prep the jasmine rice and pork belly, measuring everything out so it is ready to go.",
+    "Heat toasted sesame oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the crushed Sichuan peppercorns and carrots, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the pork belly, season with star anise, and cook until just done, about 1 hr.",
+    "Warm the jasmine rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the jasmine rice and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "A squeeze of citrus or a sprinkle of cilantro just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇨🇳"
+}

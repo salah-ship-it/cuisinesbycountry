@@ -1,0 +1,41 @@
+{
+  "slug": "bubble-tea",
+  "name": "Bubble Tea",
+  "description": "Taiwanese milk tea shaken over ice with chewy tapioca pearls, sipped through a fat straw—a global phenomenon.",
+  "prepTime": "10 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "400g chicken thighs",
+    "300g glutinous rice",
+    "2 tsp grated fresh ginger",
+    "2 tsp doubanjiang (chili bean paste)",
+    "2 tbsp neutral vegetable oil",
+    "a generous handful of bean sprouts",
+    "a handful of fresh scallion greens, chopped",
+    "Shaoxing wine, to taste",
+    "1 cup pork stock",
+    "2 tsp chili oil",
+    "1 cup scallions, sliced",
+    "a drizzle of oyster sauce"
+  ],
+  "instructions": [
+    "Combine the jasmine rice and chicken stock in a saucepan, blender, or pitcher, stirring well.",
+    "Add the star anise and black vinegar, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 30 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with toasted sesame oil, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with cilantro just before serving.",
+    "Pour into your favorite glass or cup and enjoy."
+  ],
+  "tips": [
+    "Serve in a chilled glass for the most refreshing result on a hot day.",
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil.",
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇨🇳"
+}

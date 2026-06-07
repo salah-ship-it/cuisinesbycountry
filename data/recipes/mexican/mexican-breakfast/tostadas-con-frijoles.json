@@ -1,0 +1,38 @@
+{
+  "slug": "tostadas-con-frijoles",
+  "name": "Tostadas con Frijoles",
+  "description": "Crispy corn tostadas piled with warm refried beans, sliced avocado, and a drizzle of salsa for a quick breakfast.",
+  "prepTime": "10 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "400g cured chorizo",
+    "400g pinto beans",
+    "1 tbsp rehydrated dried chilies",
+    "1 tsp dried oregano",
+    "3 tbsp olive oil",
+    "200g tomatillos",
+    "a handful of fresh oregano, chopped",
+    "a generous spoonful of Mexican crema",
+    "500ml orange juice",
+    "2 tsp ground cinnamon"
+  ],
+  "instructions": [
+    "Gather and prep the masa dough and cured chorizo, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the rehydrated dried chilies and avocado, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the cured chorizo, season with chili powder, and cook until just done, about 5 mins.",
+    "Warm the masa dough alongside, turning once, until heated through and lightly toasted.",
+    "Plate the masa dough and spoon the cooked mixture over the top.",
+    "Drizzle with pickled red onions and finish with a sprinkle of epazote."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of epazote just before serving brightens up the whole plate.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Prep the masa dough and cured chorizo the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇲🇽"
+}

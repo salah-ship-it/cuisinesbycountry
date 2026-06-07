@@ -1,0 +1,35 @@
+{
+  "slug": "machaca-con-huevo",
+  "name": "Machaca con Huevo",
+  "description": "Shredded dried beef scrambled with eggs, tomato, chili, and onion, a hearty Norteño ranch breakfast.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg black beans",
+    "2 cups white rice",
+    "2 tbsp rehydrated dried chilies",
+    "a pinch of ground cinnamon",
+    "3 tbsp lard",
+    "a generous handful of ripe tomatoes",
+    "a handful of fresh epazote, chopped",
+    "pickled red onions, to taste"
+  ],
+  "instructions": [
+    "Gather and prep the white rice and cured chorizo, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and avocado, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the cured chorizo, season with ground cumin, and cook until just done, about 15 mins.",
+    "Warm the white rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the white rice and spoon the cooked mixture over the top.",
+    "Drizzle with salsa verde and finish with a sprinkle of epazote."
+  ],
+  "tips": [
+    "Prep the white rice and cured chorizo the night before to make busy mornings much easier.",
+    "A squeeze of citrus or a sprinkle of epazote just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇲🇽"
+}

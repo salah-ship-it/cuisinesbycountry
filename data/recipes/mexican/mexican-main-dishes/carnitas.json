@@ -1,0 +1,36 @@
+{
+  "slug": "carnitas",
+  "name": "Carnitas",
+  "description": "Pork shoulder slow-braised in lard until tender, then crisped and pulled for tacos or served with fresh tortillas.",
+  "prepTime": "15 mins",
+  "cookTime": "3 hrs",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "1 kg ground beef",
+    "300g bolillo rolls",
+    "1 tbsp rehydrated dried chilies",
+    "a pinch of dried oregano",
+    "3 tbsp neutral vegetable oil",
+    "2 white onions, chopped",
+    "a handful of fresh oregano, chopped",
+    "toasted pumpkin seeds, to taste",
+    "500ml orange juice",
+    "1 1/2 tsp smoked paprika"
+  ],
+  "instructions": [
+    "Pat the chicken thighs dry, season generously with salt, pepper, and chili powder, and let it sit for a few minutes to absorb the flavors.",
+    "Heat lard in a wide pan or heavy pot over medium-high heat and sear the chicken thighs until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the rehydrated dried chilies and finely chopped white onion over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the ground cinnamon and red bell peppers, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the chicken thighs to the pan, pour in the orange juice, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the chicken thighs is tender and cooked through, roughly 3 hrs."
+  ],
+  "tips": [
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat.",
+    "Avoid crowding the pan when searing the chicken thighs; work in batches so it browns instead of steaming."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇲🇽"
+}

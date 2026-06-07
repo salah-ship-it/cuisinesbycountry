@@ -1,0 +1,35 @@
+{
+  "slug": "chicken-sweetcorn-soup",
+  "name": "Chicken and Sweetcorn Soup",
+  "description": "Creamed corn and shredded chicken bound in a silky egg-thickened broth, a Cantonese takeaway staple worldwide.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g pork belly",
+    "1 cup jasmine rice",
+    "2 tsp sliced scallion whites",
+    "2 tsp star anise",
+    "3 tbsp toasted sesame oil",
+    "200g scallions",
+    "a handful of fresh scallion greens, chopped",
+    "oyster sauce, to taste"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the sliced scallion whites and grated fresh ginger gently until soft and fragrant.",
+    "Stir in the five-spice powder and white pepper, toasting briefly until the kitchen fills with their aroma.",
+    "Add the whole duck and bok choy, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the whole duck is tender, about 15 mins.",
+    "Stir in the egg noodles and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the water reduces as it simmers, concentrating the flavor.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇨🇳"
+}

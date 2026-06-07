@@ -1,0 +1,37 @@
+{
+  "slug": "galette-bretonne",
+  "name": "Galette Bretonne",
+  "description": "A buckwheat crêpe from Brittany filled with ham, Emmental, and a runny egg cooked directly on the galette.",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "700g beef chuck",
+    "2 cups brioche",
+    "a handful of sliced shallots",
+    "1 tsp fresh thyme",
+    "2 tbsp extra-virgin olive oil",
+    "a generous handful of button mushrooms",
+    "a handful of fresh parsley, chopped",
+    "unsalted butter, for serving",
+    "1 cup whole milk"
+  ],
+  "instructions": [
+    "Prepare the brioche base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the fresh mussels, celery stalks, minced garlic, and cracked black peppercorns, mixing well so everything is evenly seasoned.",
+    "Heat unsalted butter in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the brioche until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the fresh mussels mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the brioche with the filling, a spoonful of Gruyère cheese, and a scattering of parsley.",
+    "Add a final touch of crème fraîche for extra flavor and texture.",
+    "Serve immediately while hot, with extra Gruyère cheese on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Double the Gruyère cheese so you have plenty for dipping — it tends to disappear fast.",
+    "Keep the unsalted butter hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇫🇷"
+}

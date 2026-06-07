@@ -1,0 +1,38 @@
+{
+  "slug": "tonjiru",
+  "name": "Tonjiru",
+  "description": "A hearty miso soup loaded with pork belly, root vegetables, and burdock for a deeply warming Japanese meal.",
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g firm tofu",
+    "1 cup panko breadcrumbs",
+    "1 tbsp sliced scallion whites",
+    "1/2 tsp white sesame seeds",
+    "1/4 cup neutral vegetable oil",
+    "a generous handful of scallions",
+    "a handful of fresh mitsuba, chopped",
+    "a drizzle of soy sauce",
+    "1 cup chicken stock"
+  ],
+  "instructions": [
+    "Heat toasted sesame oil in a large pot over medium heat and cook the minced garlic and sliced scallion whites gently until soft and fragrant.",
+    "Stir in the white sesame seeds and cracked black pepper, toasting briefly until the kitchen fills with their aroma.",
+    "Add the large prawns and daikon radish, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the large prawns is tender, about 25 mins.",
+    "Stir in the ramen noodles and continue simmering for a few minutes more, until heated through.",
+    "Finish with the pickled ginger and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the chives, and serve piping hot."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Taste and adjust the seasoning right at the end — the chicken stock reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇯🇵"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "yogurt-con-miele",
+  "name": "Yogurt con Miele e Noci",
+  "description": "Creamy Italian yogurt topped with chestnut honey, toasted walnuts, and seasonal fresh fruit.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "400g fresh mozzarella",
+    "2 cups arborio rice",
+    "2 tsp minced garlic",
+    "2 tsp red pepper flakes",
+    "2 tbsp extra-virgin olive oil",
+    "1 cup yellow onions, sliced",
+    "a handful of fresh sage, chopped",
+    "Parmesan cheese, to taste"
+  ],
+  "instructions": [
+    "Gather and prep the ciabatta bread and guanciale, measuring everything out so it is ready to go.",
+    "Heat unsalted butter in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced shallots and yellow onions, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the guanciale, season with dried oregano, and cook until just done, about 0 mins.",
+    "Warm the ciabatta bread alongside, turning once, until heated through and lightly toasted.",
+    "Plate the ciabatta bread and spoon the cooked mixture over the top.",
+    "Drizzle with lemon zest and finish with a sprinkle of basil."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "A squeeze of citrus or a sprinkle of basil just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇹"
+}

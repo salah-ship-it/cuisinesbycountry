@@ -1,0 +1,37 @@
+{
+  "slug": "dan-bing",
+  "name": "Dan Bing",
+  "description": "A Taiwanese egg crepe spread with soy paste and filled with egg, sausage, or vegetables, rolled into a warm cylinder.",
+  "prepTime": "10 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "400g whole duck",
+    "2 cups egg noodles",
+    "a handful of crushed Sichuan peppercorns",
+    "1 1/2 tsp doubanjiang (chili bean paste)",
+    "3 tbsp toasted sesame oil",
+    "200g napa cabbage",
+    "a handful of fresh chives, chopped",
+    "a drizzle of Shaoxing wine",
+    "1 cup chicken stock",
+    "1/2 tsp chili oil"
+  ],
+  "instructions": [
+    "Prepare the egg noodles base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the ground pork, bean sprouts, sliced scallion whites, and white pepper, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the egg noodles until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the ground pork mixture until cooked through and lightly charred at the edges, about 5 mins.",
+    "Assemble by layering the egg noodles with the filling, a spoonful of Shaoxing wine, and a scattering of scallion greens.",
+    "Add a final touch of toasted sesame seeds for extra flavor and texture."
+  ],
+  "tips": [
+    "Double the Shaoxing wine so you have plenty for dipping — it tends to disappear fast.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇨🇳"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "yaourt-fruits",
+  "name": "Yaourt avec Fruits",
+  "description": "Creamy French whole-milk yogurt topped with seasonal fruits and a drizzle of lavender or acacia honey.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "700g duck legs",
+    "400g brioche",
+    "1 tbsp sliced shallots",
+    "1 1/2 tsp cracked black peppercorns",
+    "2 tbsp extra-virgin olive oil",
+    "a generous handful of carrots",
+    "a handful of fresh chives, chopped",
+    "a drizzle of unsalted butter",
+    "1 cup beef stock",
+    "2 tsp fresh thyme"
+  ],
+  "instructions": [
+    "Gather and prep the egg noodles and pork lardons, measuring everything out so it is ready to go.",
+    "Heat extra-virgin olive oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced leeks and celery stalks, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the pork lardons, season with cracked black peppercorns, and cook until just done, about 0 mins.",
+    "Warm the egg noodles alongside, turning once, until heated through and lightly toasted.",
+    "Plate the egg noodles and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Prep the egg noodles and pork lardons the night before to make busy mornings much easier.",
+    "Keep the heat moderate so the pork lardons cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇫🇷"
+}

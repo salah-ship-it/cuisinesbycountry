@@ -1,0 +1,36 @@
+{
+  "slug": "pozole",
+  "name": "Pozole Rojo",
+  "description": "A festive Guerreran soup of pork and hominy in a deep red guajillo and ancho chili broth, topped with cabbage and radish.",
+  "prepTime": "30 mins",
+  "cookTime": "2 hrs",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "1 kg chicken thighs",
+    "1 cup pinto beans",
+    "1 tbsp finely chopped white onion",
+    "1 1/2 tsp smoked paprika",
+    "1/4 cup neutral vegetable oil",
+    "1 cup ripe tomatoes, sliced",
+    "a handful of fresh epazote, chopped",
+    "a drizzle of salsa verde",
+    "400ml orange juice",
+    "1/2 tsp chili powder"
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and cook the minced garlic and finely chopped white onion gently until soft and fragrant.",
+    "Stir in the dried oregano and smoked paprika, toasting briefly until the kitchen fills with their aroma.",
+    "Add the pork shoulder and avocado, stirring well to coat everything in the spiced base.",
+    "Pour in the orange juice, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the pork shoulder is tender, about 2 hrs.",
+    "Stir in the bolillo rolls and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇽"
+}

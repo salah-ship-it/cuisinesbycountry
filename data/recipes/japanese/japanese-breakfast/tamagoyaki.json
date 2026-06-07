@@ -1,0 +1,34 @@
+{
+  "slug": "tamagoyaki",
+  "name": "Tamagoyaki",
+  "description": "A rolled Japanese omelette seasoned with dashi, mirin, and soy, cooked layer by layer into a sweet, custardy log.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Medium",
+  "servings": 2,
+  "ingredients": [
+    "600g sushi-grade tuna",
+    "1 cup ramen noodles",
+    "2 tsp minced garlic",
+    "1 1/2 tsp cracked black pepper",
+    "2 tbsp toasted sesame oil",
+    "200g carrots",
+    "a handful of fresh chives, chopped",
+    "a drizzle of soy sauce"
+  ],
+  "instructions": [
+    "Gather and prep the ramen noodles and firm tofu, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the grated fresh ginger and shiitake mushrooms, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the firm tofu, season with wasabi paste, and cook until just done, about 10 mins.",
+    "Warm the ramen noodles alongside, turning once, until heated through and lightly toasted.",
+    "Plate the ramen noodles and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Prep the ramen noodles and firm tofu the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇯🇵"
+}

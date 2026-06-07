@@ -1,0 +1,39 @@
+{
+  "slug": "xifan",
+  "name": "Xifan",
+  "description": "Shanghai-style thin rice porridge topped with pickled mustard greens, pork floss, and a drizzle of chili oil.",
+  "prepTime": "5 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "600g large prawns",
+    "2 cups jasmine rice",
+    "2 tsp grated fresh ginger",
+    "a pinch of star anise",
+    "1/4 cup neutral vegetable oil",
+    "a generous handful of carrots",
+    "a handful of fresh chives, chopped",
+    "oyster sauce, to taste",
+    "1 cup pork stock",
+    "1/2 tsp doubanjiang (chili bean paste)",
+    "2 scallions, chopped"
+  ],
+  "instructions": [
+    "Gather and prep the wonton wrappers and ground pork, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and scallions, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the ground pork, season with five-spice powder, and cook until just done, about 30 mins.",
+    "Warm the wonton wrappers alongside, turning once, until heated through and lightly toasted.",
+    "Plate the wonton wrappers and spoon the cooked mixture over the top.",
+    "Drizzle with toasted sesame seeds and finish with a sprinkle of chives.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Keep the heat moderate so the ground pork cooks through gently without drying out or turning rubbery.",
+    "A squeeze of citrus or a sprinkle of chives just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇨🇳"
+}

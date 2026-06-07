@@ -1,0 +1,35 @@
+{
+  "slug": "fish-tacos",
+  "name": "Fish Tacos Baja-Style",
+  "description": "Beer-battered white fish in warm corn tortillas topped with cabbage slaw, crema, and a squeeze of lime.",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "400g chicken thighs",
+    "2 cups white rice",
+    "1 tbsp rehydrated dried chilies",
+    "1 1/2 tsp chili powder",
+    "2 tbsp neutral vegetable oil",
+    "1 cup jalapeños, sliced",
+    "a handful of fresh epazote, chopped",
+    "lime wedges, for serving"
+  ],
+  "instructions": [
+    "Pat the black beans dry, season generously with salt, pepper, and ground cumin, and let it sit for a few minutes to absorb the flavors.",
+    "Heat lard in a wide pan or heavy pot over medium-high heat and sear the black beans until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the rehydrated dried chilies and finely chopped white onion over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the chili powder and avocado, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the black beans to the pan, pour in the beef stock, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the black beans is tender and cooked through, roughly 15 mins."
+  ],
+  "tips": [
+    "A squeeze of lemon or a final scattering of oregano just before serving brightens up all the deep, slow-cooked flavors.",
+    "For deeper flavor, marinate the black beans for at least an hour — or overnight — before cooking.",
+    "Avoid crowding the pan when searing the black beans; work in batches so it browns instead of steaming."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇲🇽"
+}

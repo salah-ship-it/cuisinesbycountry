@@ -1,0 +1,34 @@
+{
+  "slug": "tlayudas",
+  "name": "Tlayuda",
+  "description": "A large, crispy Oaxacan tortilla smeared with black bean paste, Oaxacan cheese, and a choice of toppings.",
+  "prepTime": "15 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "500g black beans",
+    "1 cup white rice",
+    "2 tbsp minced garlic",
+    "1 tsp smoked paprika",
+    "3 tbsp olive oil",
+    "1 cup tomatillos, sliced",
+    "a handful of fresh oregano, chopped",
+    "salsa verde, for serving"
+  ],
+  "instructions": [
+    "Prepare the corn tortillas base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the black beans, avocado, minced garlic, and dried oregano, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the corn tortillas until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the black beans mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the corn tortillas with the filling, a spoonful of pickled red onions, and a scattering of cilantro."
+  ],
+  "tips": [
+    "Double the pickled red onions so you have plenty for dipping — it tends to disappear fast.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇽"
+}

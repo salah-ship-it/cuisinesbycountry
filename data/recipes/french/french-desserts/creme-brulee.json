@@ -1,0 +1,39 @@
+{
+  "slug": "creme-brulee",
+  "name": "Crème Brûlée",
+  "description": "A silky vanilla baked custard chilled until set, then torched with sugar into a crackling caramel crust.",
+  "prepTime": "15 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "500g beef chuck",
+    "400g egg noodles",
+    "a handful of minced garlic",
+    "a pinch of cracked black peppercorns",
+    "3 tbsp unsalted butter",
+    "200g celery stalks",
+    "a handful of fresh parsley, chopped",
+    "Dijon mustard, for serving",
+    "1 cup whole milk",
+    "2 tsp fresh thyme",
+    "2 ripe tomatoes, chopped",
+    "Gruyère cheese, for serving"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with extra-virgin olive oil.",
+    "In a large bowl, whisk together the baguette and fresh thyme until evenly combined.",
+    "In a separate bowl, blend the Dijon mustard with the chicken stock until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 45 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly."
+  ],
+  "tips": [
+    "Bring your Dijon mustard to room temperature before mixing for a smoother, more even texture.",
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting.",
+    "Resist opening the oven door too early — a sudden change in temperature can cause the dessert to sink or crack."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇫🇷"
+}

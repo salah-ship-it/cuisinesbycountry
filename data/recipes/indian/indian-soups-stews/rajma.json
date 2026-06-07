@@ -1,0 +1,38 @@
+{
+  "slug": "rajma",
+  "name": "Rajma",
+  "description": "Tender red kidney beans cooked in a thick onion-tomato masala, a North Indian staple served over rice.",
+  "prepTime": "10 mins",
+  "cookTime": "1 hr",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg red lentils",
+    "1 cup naan bread",
+    "2 tbsp minced garlic",
+    "2 tsp ground turmeric",
+    "2 tbsp neutral vegetable oil",
+    "a generous handful of cauliflower florets",
+    "a handful of fresh curry leaves, chopped",
+    "a drizzle of ghee",
+    "400ml water",
+    "1 1/2 tsp garam masala",
+    "2 yellow onions, chopped",
+    "a generous spoonful of roasted cashews"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the grated fresh ginger and crushed green cardamom pods gently until soft and fragrant.",
+    "Stir in the ground coriander and garam masala, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chickpeas and potatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the coconut milk, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chickpeas is tender, about 1 hr.",
+    "Stir in the roti and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇳"
+}

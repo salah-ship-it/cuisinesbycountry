@@ -1,0 +1,36 @@
+{
+  "slug": "tahu-tek",
+  "name": "Tahu Tek",
+  "description": "A Surabayan dish of fried tofu, tempeh, and potato cut tableside and smothered in shrimp paste peanut sauce.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "600g beef shin",
+    "300g compressed rice cakes (lontong)",
+    "2 tbsp grated fresh ginger",
+    "2 tsp ground turmeric",
+    "3 tbsp neutral vegetable oil",
+    "a generous handful of long beans",
+    "a handful of fresh kaffir lime leaves, chopped",
+    "a generous spoonful of lime wedges"
+  ],
+  "instructions": [
+    "Prepare the rice noodles base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the beef shin, shallots, sliced lemongrass, and coriander seeds, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the rice noodles until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the beef shin mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the rice noodles with the filling, a spoonful of sambal, and a scattering of kaffir lime leaves.",
+    "Add a final touch of coconut cream for extra flavor and texture.",
+    "Serve immediately while hot, with extra sambal on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Keep the neutral vegetable oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇩"
+}

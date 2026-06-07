@@ -1,0 +1,40 @@
+{
+  "slug": "chuanr",
+  "name": "Chuanr",
+  "description": "Cumin and chili-dusted lamb skewers grilled over charcoal, the definitive street snack of Beijing night markets.",
+  "prepTime": "15 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg beef sirloin",
+    "300g glutinous rice",
+    "1 tbsp minced garlic",
+    "2 tsp star anise",
+    "2 tbsp neutral vegetable oil",
+    "1 cup bean sprouts, sliced",
+    "a handful of fresh scallion greens, chopped",
+    "black vinegar, to taste",
+    "1 cup pork stock",
+    "1/2 tsp white pepper",
+    "1 cup scallions, sliced",
+    "toasted sesame seeds, to taste"
+  ],
+  "instructions": [
+    "Prepare the wonton wrappers base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the beef sirloin, scallions, minced garlic, and doubanjiang (chili bean paste), mixing well so everything is evenly seasoned.",
+    "Heat toasted sesame oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the wonton wrappers until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the beef sirloin mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the wonton wrappers with the filling, a spoonful of toasted sesame oil, and a scattering of cilantro.",
+    "Add a final touch of Shaoxing wine for extra flavor and texture."
+  ],
+  "tips": [
+    "Double the toasted sesame oil so you have plenty for dipping — it tends to disappear fast.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇨🇳"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "chicken-vermicelli-soup",
+  "name": "Chicken Vermicelli Soup",
+  "description": "A light golden chicken broth loaded with thin vermicelli noodles, saffron, and fragrant coriander.",
+  "prepTime": "15 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg white fish fillets",
+    "400g couscous",
+    "2 tsp sliced shallots",
+    "a pinch of ground cumin",
+    "1/4 cup smen (preserved butter)",
+    "1 cup red onions, sliced",
+    "a handful of fresh cilantro, chopped",
+    "green olives, for serving",
+    "2 cups vegetable stock",
+    "1/2 tsp ground cinnamon"
+  ],
+  "instructions": [
+    "Heat smen (preserved butter) in a large pot over medium heat and cook the grated fresh ginger and finely chopped red onion gently until soft and fragrant.",
+    "Stir in the ground cumin and saffron threads, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chickpeas and red onions, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chickpeas is tender, about 40 mins.",
+    "Stir in the vermicelli noodles and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇦"
+}

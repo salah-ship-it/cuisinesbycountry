@@ -1,0 +1,36 @@
+{
+  "slug": "ikayaki",
+  "name": "Ikayaki",
+  "description": "Whole grilled squid basted with soy sauce on a skewer, a quintessential Japanese festival street snack.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "400g firm tofu",
+    "300g ramen noodles",
+    "a handful of grated fresh ginger",
+    "1 1/2 tsp wasabi paste",
+    "2 tbsp toasted sesame oil",
+    "2 shiitake mushrooms, chopped",
+    "a handful of fresh chives, chopped",
+    "soy sauce, to taste",
+    "400ml chicken stock"
+  ],
+  "instructions": [
+    "Prepare the soba noodles base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the firm tofu, shiitake mushrooms, minced garlic, and shichimi togarashi, mixing well so everything is evenly seasoned.",
+    "Heat toasted sesame oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the soba noodles until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the firm tofu mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the soba noodles with the filling, a spoonful of pickled ginger, and a scattering of chives.",
+    "Add a final touch of bonito flakes for extra flavor and texture."
+  ],
+  "tips": [
+    "Keep the toasted sesame oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Double the pickled ginger so you have plenty for dipping — it tends to disappear fast."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇯🇵"
+}

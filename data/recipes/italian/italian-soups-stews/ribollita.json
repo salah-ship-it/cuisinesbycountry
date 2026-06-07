@@ -1,0 +1,37 @@
+{
+  "slug": "ribollita",
+  "name": "Ribollita",
+  "description": "A thick Tuscan peasant soup of twice-boiled cannellini beans, cavolo nero, and stale bread for body.",
+  "prepTime": "20 mins",
+  "cookTime": "1 hr",
+  "difficulty": "Easy",
+  "servings": 6,
+  "ingredients": [
+    "500g ground beef",
+    "1 cup ciabatta bread",
+    "2 tsp sliced shallots",
+    "1/2 tsp red pepper flakes",
+    "1/4 cup unsalted butter",
+    "200g zucchini",
+    "a handful of fresh sage, chopped",
+    "a generous spoonful of lemon zest",
+    "500ml dry white wine"
+  ],
+  "instructions": [
+    "Heat extra-virgin olive oil in a large pot over medium heat and cook the minced garlic and sliced leeks gently until soft and fragrant.",
+    "Stir in the cracked black pepper and dried oregano, toasting briefly until the kitchen fills with their aroma.",
+    "Add the Italian sausage and San Marzano tomatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the vegetable stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the Italian sausage is tender, about 1 hr.",
+    "Stir in the fresh lasagna sheets and continue simmering for a few minutes more, until heated through.",
+    "Finish with the balsamic vinegar and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the parsley, and serve piping hot."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇹"
+}

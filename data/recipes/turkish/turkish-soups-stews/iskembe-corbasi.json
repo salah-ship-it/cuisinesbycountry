@@ -1,0 +1,39 @@
+{
+  "slug": "iskembe-corbasi",
+  "name": "İşkembe Çorbası",
+  "description": "A restorative tripe soup thickened with egg yolk and vinegar, traditionally eaten late at night in Istanbul.",
+  "prepTime": "20 mins",
+  "cookTime": "2 hrs",
+  "difficulty": "Hard",
+  "servings": 4,
+  "ingredients": [
+    "500g red lentils",
+    "1 cup rice pilaf",
+    "2 tsp sliced scallions",
+    "1 tsp cracked black pepper",
+    "2 tbsp olive oil",
+    "1 cup baby potatoes, sliced",
+    "a handful of fresh dill, chopped",
+    "toasted pine nuts, to taste",
+    "2 cups chicken stock",
+    "a pinch of dried mint",
+    "a generous handful of eggplant"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the sliced scallions and finely chopped red onion gently until soft and fragrant.",
+    "Stir in the dried mint and ground sumac, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chicken thighs and red onions, stirring well to coat everything in the spiced base.",
+    "Pour in the beef stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chicken thighs is tender, about 2 hrs.",
+    "Stir in the pide bread and continue simmering for a few minutes more, until heated through.",
+    "Finish with the butter-fried pita and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Taste and adjust the seasoning right at the end — the beef stock reduces as it simmers, concentrating the flavor.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇷"
+}

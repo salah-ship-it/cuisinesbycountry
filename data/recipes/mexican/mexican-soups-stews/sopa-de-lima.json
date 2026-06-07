@@ -1,0 +1,38 @@
+{
+  "slug": "sopa-de-lima",
+  "name": "Sopa de Lima",
+  "description": "A Yucatecan chicken broth brightened with charred sweet limes and garnished with crispy tortilla strips.",
+  "prepTime": "15 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g chicken thighs",
+    "300g bolillo rolls",
+    "2 tbsp rehydrated dried chilies",
+    "1/2 tsp ground cumin",
+    "2 tbsp lard",
+    "200g ripe tomatoes",
+    "a handful of fresh oregano, chopped",
+    "a drizzle of Mexican crema",
+    "400ml orange juice",
+    "2 tsp dried oregano",
+    "1 cup white onions, sliced"
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and cook the minced garlic and finely chopped white onion gently until soft and fragrant.",
+    "Stir in the dried oregano and ground cumin, toasting briefly until the kitchen fills with their aroma.",
+    "Add the pork shoulder and red bell peppers, stirring well to coat everything in the spiced base.",
+    "Pour in the orange juice, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the pork shoulder is tender, about 40 mins.",
+    "Stir in the pinto beans and continue simmering for a few minutes more, until heated through.",
+    "Finish with the Mexican crema and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇽"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "chinese-herbal-tea",
+  "name": "Chinese Herbal Tea",
+  "description": "A cooling tong sui brewed from a blend of chrysanthemum, honeysuckle, and dried fruit to clear heat and toxins.",
+  "prepTime": "10 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g whole duck",
+    "400g egg noodles",
+    "2 tbsp minced garlic",
+    "1/2 tsp star anise",
+    "3 tbsp neutral vegetable oil",
+    "1 cup bok choy, sliced",
+    "a handful of fresh scallion greens, chopped",
+    "a drizzle of soy sauce",
+    "500ml chicken stock",
+    "1 1/2 tsp white pepper",
+    "2 napa cabbage, chopped"
+  ],
+  "instructions": [
+    "Combine the steamed buns and chicken stock in a saucepan, blender, or pitcher, stirring well.",
+    "Add the chili oil and Shaoxing wine, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 20 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with oyster sauce, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with cilantro just before serving.",
+    "Pour into your favorite glass or cup and enjoy."
+  ],
+  "tips": [
+    "Adjust the sweetness gradually, tasting as you go — you can always add more oyster sauce, but you cannot take it away.",
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇨🇳"
+}

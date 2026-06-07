@@ -1,0 +1,38 @@
+{
+  "slug": "tofu-breakfast-bowl",
+  "name": "Tofu Breakfast Bowl",
+  "description": "Silken tofu served cold with katsuobushi, grated ginger, and a drizzle of soy sauce for a light morning meal.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "500g large prawns",
+    "400g ramen noodles",
+    "2 tsp grated fresh ginger",
+    "1/2 tsp wasabi paste",
+    "2 tbsp neutral vegetable oil",
+    "2 shiitake mushrooms, chopped",
+    "a handful of fresh shiso leaves, chopped",
+    "mirin, for serving",
+    "2 cups dashi stock",
+    "1/2 tsp cracked black pepper"
+  ],
+  "instructions": [
+    "Gather and prep the panko breadcrumbs and sushi-grade tuna, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and shiitake mushrooms, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the sushi-grade tuna, season with white sesame seeds, and cook until just done, about 0 mins.",
+    "Warm the panko breadcrumbs alongside, turning once, until heated through and lightly toasted.",
+    "Plate the panko breadcrumbs and spoon the cooked mixture over the top.",
+    "Drizzle with bonito flakes and finish with a sprinkle of chives."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Prep the panko breadcrumbs and sushi-grade tuna the night before to make busy mornings much easier.",
+    "A squeeze of citrus or a sprinkle of chives just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇯🇵"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "tantuni",
+  "name": "Tantuni",
+  "description": "Mersin-style sautéed beef with tomato, peppers, and cumin rolled into a thin tortilla-like bread.",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg beef sirloin",
+    "1 cup yufka pastry",
+    "1 tbsp sliced scallions",
+    "2 tsp ground sumac",
+    "1/4 cup unsalted butter",
+    "a generous handful of ripe tomatoes",
+    "a handful of fresh mint, chopped",
+    "a drizzle of butter-fried pita",
+    "500ml water",
+    "a pinch of Aleppo pepper",
+    "2 baby potatoes, chopped"
+  ],
+  "instructions": [
+    "Prepare the rice pilaf base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the beef sirloin, cucumber, sliced scallions, and dried mint, mixing well so everything is evenly seasoned.",
+    "Heat olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the rice pilaf until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the beef sirloin mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the rice pilaf with the filling, a spoonful of toasted pine nuts, and a scattering of mint.",
+    "Add a final touch of lemon wedges for extra flavor and texture.",
+    "Serve immediately while hot, with extra toasted pine nuts on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Keep the olive oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇹🇷"
+}

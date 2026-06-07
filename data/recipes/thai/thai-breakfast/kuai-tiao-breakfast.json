@@ -1,0 +1,39 @@
+{
+  "slug": "kuai-tiao-breakfast",
+  "name": "Kuai Tiao",
+  "description": "Thai noodle soup of rice noodles in clear pork broth with sliced meat, fish balls, and bean sprouts.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "400g white fish fillets",
+    "400g glutinous rice",
+    "2 tsp sliced galangal",
+    "2 tsp white pepper",
+    "3 tbsp coconut oil",
+    "200g snake beans",
+    "a handful of fresh Thai basil, chopped",
+    "a generous spoonful of coconut cream",
+    "500ml chicken stock",
+    "a pinch of red curry paste",
+    "a generous handful of baby corn",
+    "crispy fried shallots, to taste"
+  ],
+  "instructions": [
+    "Gather and prep the rice noodles and pork shoulder, measuring everything out so it is ready to go.",
+    "Heat coconut oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced lemongrass and cherry tomatoes, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the pork shoulder, season with palm sugar, and cook until just done, about 15 mins.",
+    "Warm the rice noodles alongside, turning once, until heated through and lightly toasted.",
+    "Plate the rice noodles and spoon the cooked mixture over the top.",
+    "Drizzle with coconut cream and finish with a sprinkle of Thai basil."
+  ],
+  "tips": [
+    "Keep the heat moderate so the pork shoulder cooks through gently without drying out or turning rubbery.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇭"
+}

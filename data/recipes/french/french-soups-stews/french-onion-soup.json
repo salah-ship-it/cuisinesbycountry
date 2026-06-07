@@ -1,0 +1,38 @@
+{
+  "slug": "french-onion-soup",
+  "name": "French Onion Soup",
+  "description": "Caramelized onions slow-cooked in beef broth, ladled into crocks and blanketed under gratinéed Gruyère.",
+  "prepTime": "15 mins",
+  "cookTime": "1 hr 15 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "500g fresh mussels",
+    "1 cup brioche",
+    "2 tsp sliced leeks",
+    "1 1/2 tsp fresh thyme",
+    "2 tbsp extra-virgin olive oil",
+    "2 button mushrooms, chopped",
+    "a handful of fresh chervil, chopped",
+    "a drizzle of crème fraîche",
+    "1 cup chicken stock",
+    "1 tsp cracked black peppercorns",
+    "1 cup shallots, sliced"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the sliced leeks and minced garlic gently until soft and fragrant.",
+    "Stir in the bay leaves and grated nutmeg, toasting briefly until the kitchen fills with their aroma.",
+    "Add the sea bass fillets and shallots, stirring well to coat everything in the spiced base.",
+    "Pour in the beef stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the sea bass fillets is tender, about 1 hr 15 mins.",
+    "Stir in the egg noodles and continue simmering for a few minutes more, until heated through.",
+    "Finish with the Gruyère cheese and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the beef stock reduces as it simmers, concentrating the flavor.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇫🇷"
+}

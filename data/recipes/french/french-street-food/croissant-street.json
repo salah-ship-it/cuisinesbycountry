@@ -1,0 +1,37 @@
+{
+  "slug": "croissant-street",
+  "name": "Croissant",
+  "description": "The icon of French viennoiserie—hundreds of laminated butter layers rolled into a crescent and baked to a shatter.",
+  "prepTime": "60 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Hard",
+  "servings": 8,
+  "ingredients": [
+    "400g beef chuck",
+    "400g brioche",
+    "a handful of sliced leeks",
+    "a pinch of herbes de Provence",
+    "3 tbsp extra-virgin olive oil",
+    "2 pearl onions, chopped",
+    "a handful of fresh chervil, chopped",
+    "unsalted butter, for serving",
+    "500ml dry red wine"
+  ],
+  "instructions": [
+    "Prepare the egg noodles base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the pork lardons, leeks, minced garlic, and herbes de Provence, mixing well so everything is evenly seasoned.",
+    "Heat unsalted butter in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the egg noodles until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the pork lardons mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the egg noodles with the filling, a spoonful of Dijon mustard, and a scattering of chervil.",
+    "Add a final touch of lemon zest for extra flavor and texture."
+  ],
+  "tips": [
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Keep the unsalted butter hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Double the Dijon mustard so you have plenty for dipping — it tends to disappear fast."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇫🇷"
+}

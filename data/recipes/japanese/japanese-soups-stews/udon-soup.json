@@ -1,0 +1,35 @@
+{
+  "slug": "udon-soup",
+  "name": "Udon Noodle Soup",
+  "description": "Thick, chewy wheat udon noodles in a golden dashi, soy, and mirin broth topped with tempura or fish cake.",
+  "prepTime": "10 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg firm tofu",
+    "400g nori sheets",
+    "2 tbsp grated fresh ginger",
+    "1 tsp white sesame seeds",
+    "2 tbsp toasted sesame oil",
+    "a generous handful of carrots",
+    "a handful of fresh shiso leaves, chopped",
+    "a generous spoonful of soy sauce"
+  ],
+  "instructions": [
+    "Heat toasted sesame oil in a large pot over medium heat and cook the grated fresh ginger and sliced scallion whites gently until soft and fragrant.",
+    "Stir in the wasabi paste and shichimi togarashi, toasting briefly until the kitchen fills with their aroma.",
+    "Add the thinly sliced beef and napa cabbage, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the thinly sliced beef is tender, about 20 mins.",
+    "Stir in the soba noodles and continue simmering for a few minutes more, until heated through.",
+    "Finish with the toasted sesame oil and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇯🇵"
+}

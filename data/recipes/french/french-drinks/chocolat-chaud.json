@@ -1,0 +1,36 @@
+{
+  "slug": "chocolat-chaud",
+  "name": "Chocolat Chaud",
+  "description": "Rich Parisian-style hot chocolate made with melted dark chocolate and whole milk, thick, intense, and served in a pot.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg chicken thighs",
+    "400g brioche",
+    "1 tbsp sliced shallots",
+    "1 1/2 tsp cracked black peppercorns",
+    "2 tbsp extra-virgin olive oil",
+    "1 cup carrots, sliced",
+    "a handful of fresh chervil, chopped",
+    "a drizzle of crème fraîche",
+    "400ml dry white wine"
+  ],
+  "instructions": [
+    "Combine the puff pastry and dry red wine in a saucepan, blender, or pitcher, stirring well.",
+    "Add the cracked black peppercorns and cognac, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 10 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with crème fraîche, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot."
+  ],
+  "tips": [
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours.",
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil.",
+    "Serve in a chilled glass for the most refreshing result on a hot day."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇫🇷"
+}

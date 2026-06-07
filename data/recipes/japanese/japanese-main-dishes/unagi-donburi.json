@@ -1,0 +1,37 @@
+{
+  "slug": "unagi-donburi",
+  "name": "Unagi Donburi",
+  "description": "Grilled eel lacquered in a rich sweet soy glaze served over a bowl of fluffy steamed rice.",
+  "prepTime": "10 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 2,
+  "ingredients": [
+    "1 kg firm tofu",
+    "300g nori sheets",
+    "a handful of grated fresh ginger",
+    "1/2 tsp shichimi togarashi",
+    "1/4 cup neutral vegetable oil",
+    "200g shiitake mushrooms",
+    "a handful of fresh chives, chopped",
+    "sake, to taste",
+    "1 cup water"
+  ],
+  "instructions": [
+    "Pat the large prawns dry, season generously with salt, pepper, and cracked black pepper, and let it sit for a few minutes to absorb the flavors.",
+    "Heat neutral vegetable oil in a wide pan or heavy pot over medium-high heat and sear the large prawns until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the sliced scallion whites and minced garlic over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the shichimi togarashi and shiitake mushrooms, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the large prawns to the pan, pour in the water, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the large prawns is tender and cooked through, roughly 20 mins.",
+    "Stir in the pickled ginger, taste, and adjust the seasoning with salt and pepper as needed."
+  ],
+  "tips": [
+    "For deeper flavor, marinate the large prawns for at least an hour — or overnight — before cooking.",
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat.",
+    "A squeeze of lemon or a final scattering of chives just before serving brightens up all the deep, slow-cooked flavors."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇯🇵"
+}

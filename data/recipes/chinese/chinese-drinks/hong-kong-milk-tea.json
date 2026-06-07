@@ -1,0 +1,39 @@
+{
+  "slug": "hong-kong-milk-tea",
+  "name": "Hong Kong Milk Tea",
+  "description": "Coarse Ceylon tea blended through a silk stocking filter and combined with evaporated milk for a rich, smooth cup.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Medium",
+  "servings": 2,
+  "ingredients": [
+    "700g whole duck",
+    "1 cup wonton wrappers",
+    "2 tsp grated fresh ginger",
+    "a pinch of five-spice powder",
+    "1/4 cup neutral vegetable oil",
+    "a generous handful of bean sprouts",
+    "a handful of fresh chives, chopped",
+    "oyster sauce, for serving",
+    "500ml chicken stock",
+    "1/2 tsp doubanjiang (chili bean paste)",
+    "2 bok choy, chopped",
+    "a drizzle of black vinegar"
+  ],
+  "instructions": [
+    "Combine the steamed buns and chicken stock in a saucepan, blender, or pitcher, stirring well.",
+    "Add the white pepper and toasted sesame oil, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 10 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with Shaoxing wine, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with scallion greens just before serving."
+  ],
+  "tips": [
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours.",
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇨🇳"
+}

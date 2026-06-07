@@ -1,0 +1,37 @@
+{
+  "slug": "cassoulet",
+  "name": "Cassoulet",
+  "description": "A slow-baked Languedoc casserole of white beans, duck confit, Toulouse sausages, and pork under a golden crust.",
+  "prepTime": "30 mins",
+  "cookTime": "3 hrs",
+  "difficulty": "Hard",
+  "servings": 8,
+  "ingredients": [
+    "700g chicken thighs",
+    "2 cups brioche",
+    "2 tsp sliced leeks",
+    "1 tsp bay leaves",
+    "2 tbsp unsalted butter",
+    "1 cup pearl onions, sliced",
+    "a handful of fresh parsley, chopped",
+    "a generous spoonful of Gruyère cheese",
+    "2 cups dry red wine"
+  ],
+  "instructions": [
+    "Pat the chicken thighs dry, season generously with salt, pepper, and herbes de Provence, and let it sit for a few minutes to absorb the flavors.",
+    "Heat unsalted butter in a wide pan or heavy pot over medium-high heat and sear the chicken thighs until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the sliced leeks and sliced shallots over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the cracked black peppercorns and celery stalks, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the chicken thighs to the pan, pour in the beef stock, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the chicken thighs is tender and cooked through, roughly 3 hrs.",
+    "Stir in the unsalted butter, taste, and adjust the seasoning with salt and pepper as needed."
+  ],
+  "tips": [
+    "Avoid crowding the pan when searing the chicken thighs; work in batches so it browns instead of steaming.",
+    "A squeeze of lemon or a final scattering of chervil just before serving brightens up all the deep, slow-cooked flavors.",
+    "For deeper flavor, marinate the chicken thighs for at least an hour — or overnight — before cooking."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇫🇷"
+}

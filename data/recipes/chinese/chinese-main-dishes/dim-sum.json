@@ -1,0 +1,36 @@
+{
+  "slug": "dim-sum",
+  "name": "Dim Sum",
+  "description": "A Cantonese brunch spread of bamboo steamers holding har gow, siu mai, char siu bao, and cheung fun.",
+  "prepTime": "60 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Hard",
+  "servings": 4,
+  "ingredients": [
+    "500g firm tofu",
+    "400g steamed buns",
+    "2 tsp crushed Sichuan peppercorns",
+    "1/2 tsp five-spice powder",
+    "2 tbsp neutral vegetable oil",
+    "200g bean sprouts",
+    "a handful of fresh chives, chopped",
+    "a drizzle of soy sauce"
+  ],
+  "instructions": [
+    "Pat the beef sirloin dry, season generously with salt, pepper, and star anise, and let it sit for a few minutes to absorb the flavors.",
+    "Heat toasted sesame oil in a wide pan or heavy pot over medium-high heat and sear the beef sirloin until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the grated fresh ginger and sliced scallion whites over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the chili oil and shiitake mushrooms, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the beef sirloin to the pan, pour in the pork stock, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the beef sirloin is tender and cooked through, roughly 20 mins.",
+    "Stir in the black vinegar, taste, and adjust the seasoning with salt and pepper as needed."
+  ],
+  "tips": [
+    "Avoid crowding the pan when searing the beef sirloin; work in batches so it browns instead of steaming.",
+    "For deeper flavor, marinate the beef sirloin for at least an hour — or overnight — before cooking.",
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇨🇳"
+}

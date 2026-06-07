@@ -1,0 +1,40 @@
+{
+  "slug": "bissara",
+  "name": "Bissara",
+  "description": "A thick, velvety soup of dried split fava beans blended with olive oil, cumin, and paprika.",
+  "prepTime": "10 mins",
+  "cookTime": "1 hr 30 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg white fish fillets",
+    "300g flatbread",
+    "a handful of sliced shallots",
+    "2 tsp sweet paprika",
+    "1/4 cup olive oil",
+    "2 zucchini, chopped",
+    "a handful of fresh parsley, chopped",
+    "a drizzle of honey",
+    "500ml vegetable stock",
+    "1 1/2 tsp ras el hanout",
+    "200g carrots",
+    "dried apricots, for serving"
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and cook the grated fresh ginger and sliced shallots gently until soft and fragrant.",
+    "Stir in the saffron threads and ras el hanout, toasting briefly until the kitchen fills with their aroma.",
+    "Add the white fish fillets and red onions, stirring well to coat everything in the spiced base.",
+    "Pour in the vegetable stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the white fish fillets is tender, about 1 hr 30 mins.",
+    "Stir in the couscous and continue simmering for a few minutes more, until heated through.",
+    "Finish with the pitted dates and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the mint, and serve piping hot."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇦"
+}

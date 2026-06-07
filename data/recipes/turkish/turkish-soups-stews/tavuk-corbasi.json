@@ -1,0 +1,41 @@
+{
+  "slug": "tavuk-corbasi",
+  "name": "Tavuk Çorbası",
+  "description": "A nourishing chicken and vermicelli soup made from a golden homemade broth with vegetables and lemon.",
+  "prepTime": "15 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g fresh mussels",
+    "300g bulgur wheat",
+    "2 tbsp minced garlic",
+    "1 tsp cracked black pepper",
+    "2 tbsp unsalted butter",
+    "a generous handful of green peppers",
+    "a handful of fresh mint, chopped",
+    "butter-fried pita, for serving",
+    "1 cup beef stock",
+    "1 1/2 tsp Aleppo pepper",
+    "2 red onions, chopped",
+    "a generous spoonful of plain yogurt"
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and cook the sliced scallions and finely chopped red onion gently until soft and fragrant.",
+    "Stir in the cracked black pepper and sweet paprika, toasting briefly until the kitchen fills with their aroma.",
+    "Add the lamb shoulder and baby potatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the beef stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the lamb shoulder is tender, about 45 mins.",
+    "Stir in the bulgur wheat and continue simmering for a few minutes more, until heated through.",
+    "Finish with the lemon wedges and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the parsley, and serve piping hot."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the beef stock reduces as it simmers, concentrating the flavor.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇷"
+}

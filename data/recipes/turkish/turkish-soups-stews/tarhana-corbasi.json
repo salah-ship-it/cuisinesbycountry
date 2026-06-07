@@ -1,0 +1,37 @@
+{
+  "slug": "tarhana-corbasi",
+  "name": "Tarhana Çorbası",
+  "description": "A thick, tangy soup made from fermented dried tarhana powder dissolved in broth—Turkey's oldest instant soup.",
+  "prepTime": "5 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g beef sirloin",
+    "300g pide bread",
+    "2 tbsp sliced scallions",
+    "1/2 tsp Aleppo pepper",
+    "2 tbsp unsalted butter",
+    "2 green peppers, chopped",
+    "a handful of fresh dill, chopped",
+    "a generous spoonful of butter-fried pita",
+    "2 cups beef stock"
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and cook the finely chopped red onion and sliced scallions gently until soft and fragrant.",
+    "Stir in the dried mint and ground cumin, toasting briefly until the kitchen fills with their aroma.",
+    "Add the fresh mussels and green peppers, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the fresh mussels is tender, about 20 mins.",
+    "Stir in the pide bread and continue simmering for a few minutes more, until heated through.",
+    "Finish with the lemon wedges and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the mint, and serve piping hot."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Taste and adjust the seasoning right at the end — the chicken stock reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇷"
+}

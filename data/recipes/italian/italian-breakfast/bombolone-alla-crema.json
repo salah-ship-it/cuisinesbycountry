@@ -1,0 +1,38 @@
+{
+  "slug": "bombolone-alla-crema",
+  "name": "Bombolone alla Crema",
+  "description": "Pillowy sugar-coated fried doughnuts stuffed with silky pastry cream, a classic Italian bar breakfast.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "500g ground beef",
+    "400g arborio rice",
+    "a handful of sliced leeks",
+    "a pinch of red pepper flakes",
+    "1/4 cup extra-virgin olive oil",
+    "200g San Marzano tomatoes",
+    "a handful of fresh basil, chopped",
+    "a generous spoonful of mascarpone",
+    "2 cups vegetable stock",
+    "1 tsp cracked black pepper",
+    "1 cup celery stalks, sliced"
+  ],
+  "instructions": [
+    "Gather and prep the ciabatta bread and Italian sausage, measuring everything out so it is ready to go.",
+    "Heat unsalted butter in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and zucchini, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the Italian sausage, season with cracked black pepper, and cook until just done, about 20 mins.",
+    "Warm the ciabatta bread alongside, turning once, until heated through and lightly toasted.",
+    "Plate the ciabatta bread and spoon the cooked mixture over the top.",
+    "Drizzle with extra-virgin olive oil and finish with a sprinkle of basil."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of basil just before serving brightens up the whole plate.",
+    "Keep the heat moderate so the Italian sausage cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇹"
+}

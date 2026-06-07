@@ -1,0 +1,38 @@
+{
+  "slug": "potage-saint-germain",
+  "name": "Potage Saint-Germain",
+  "description": "A vibrant green split pea and leek soup finished with butter and served with croûtons and crème fraîche.",
+  "prepTime": "10 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g sea bass fillets",
+    "300g baguette",
+    "2 tbsp sliced leeks",
+    "1/2 tsp cracked black peppercorns",
+    "2 tbsp unsalted butter",
+    "2 shallots, chopped",
+    "a handful of fresh chervil, chopped",
+    "lemon zest, to taste",
+    "400ml dry white wine",
+    "1 1/2 tsp bay leaves",
+    "200g leeks"
+  ],
+  "instructions": [
+    "Heat extra-virgin olive oil in a large pot over medium heat and cook the minced garlic and sliced leeks gently until soft and fragrant.",
+    "Stir in the cracked black peppercorns and bay leaves, toasting briefly until the kitchen fills with their aroma.",
+    "Add the fresh mussels and carrots, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the fresh mussels is tender, about 40 mins.",
+    "Stir in the puff pastry and continue simmering for a few minutes more, until heated through.",
+    "Finish with the lemon zest and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the chicken stock reduces as it simmers, concentrating the flavor.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇫🇷"
+}

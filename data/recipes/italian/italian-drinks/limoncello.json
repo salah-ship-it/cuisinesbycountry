@@ -1,0 +1,36 @@
+{
+  "slug": "limoncello",
+  "name": "Limoncello",
+  "description": "A vibrant lemon liqueur from the Amalfi Coast made by steeping lemon zests in pure spirit with sugar syrup.",
+  "prepTime": "20 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 20,
+  "ingredients": [
+    "700g chicken thighs",
+    "1 cup pizza dough",
+    "2 tsp sliced leeks",
+    "a pinch of fennel seeds",
+    "1/4 cup extra-virgin olive oil",
+    "200g zucchini",
+    "a handful of fresh rosemary, chopped",
+    "Parmesan cheese, for serving",
+    "400ml whole milk"
+  ],
+  "instructions": [
+    "Combine the fresh lasagna sheets and chicken stock in a saucepan, blender, or pitcher, stirring well.",
+    "Add the grated nutmeg and pine nuts, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 0 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with mascarpone, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with basil just before serving."
+  ],
+  "tips": [
+    "Serve in a chilled glass for the most refreshing result on a hot day.",
+    "Adjust the sweetness gradually, tasting as you go — you can always add more mascarpone, but you cannot take it away."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇮🇹"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "doujiang",
+  "name": "Doujiang",
+  "description": "Fresh-pressed hot soy milk served sweet or savory with vinegar and chili, paired with you tiao or shaobing.",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg beef sirloin",
+    "400g jasmine rice",
+    "2 tsp sliced scallion whites",
+    "1 tsp white pepper",
+    "2 tbsp neutral vegetable oil",
+    "1 cup bamboo shoots, sliced",
+    "a handful of fresh chives, chopped",
+    "a drizzle of black vinegar",
+    "1 cup pork stock"
+  ],
+  "instructions": [
+    "Gather and prep the glutinous rice and firm tofu, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the grated fresh ginger and shiitake mushrooms, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the firm tofu, season with star anise, and cook until just done, about 10 mins.",
+    "Warm the glutinous rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the glutinous rice and spoon the cooked mixture over the top.",
+    "Drizzle with oyster sauce and finish with a sprinkle of chives.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Prep the glutinous rice and firm tofu the night before to make busy mornings much easier.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇨🇳"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "idli-sambar",
+  "name": "Idli with Sambar",
+  "description": "Steamed fermented rice and lentil cakes served alongside a rich lentil and vegetable sambar and coconut chutney.",
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "600g basmati rice",
+    "1 cup semolina",
+    "2 tsp minced garlic",
+    "1 tsp garam masala",
+    "3 tbsp ghee",
+    "2 green chilies, chopped",
+    "a handful of fresh cilantro, chopped",
+    "roasted cashews, to taste",
+    "400ml whole milk",
+    "1/2 tsp ground turmeric",
+    "2 yellow onions, chopped"
+  ],
+  "instructions": [
+    "Gather and prep the semolina and basmati rice, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and potatoes, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the basmati rice, season with ground coriander, and cook until just done, about 15 mins.",
+    "Warm the semolina alongside, turning once, until heated through and lightly toasted.",
+    "Plate the semolina and spoon the cooked mixture over the top.",
+    "Drizzle with tamarind paste and finish with a sprinkle of curry leaves.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of curry leaves just before serving brightens up the whole plate.",
+    "Prep the semolina and basmati rice the night before to make busy mornings much easier.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇳"
+}

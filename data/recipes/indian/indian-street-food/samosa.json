@@ -1,0 +1,39 @@
+{
+  "slug": "samosa",
+  "name": "Samosa",
+  "description": "Crispy fried pastry triangles stuffed with spiced potatoes and peas, served hot with tamarind and mint chutney.",
+  "prepTime": "30 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "700g large prawns",
+    "400g idli batter",
+    "2 tsp crushed green cardamom pods",
+    "1 tsp ground cumin",
+    "1/4 cup ghee",
+    "1 cup ripe tomatoes, sliced",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of tamarind paste",
+    "1 cup coconut milk",
+    "1/2 tsp mustard seeds",
+    "200g green chilies",
+    "roasted cashews, to taste"
+  ],
+  "instructions": [
+    "Prepare the roti base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the basmati rice, ripe tomatoes, minced garlic, and ground turmeric, mixing well so everything is evenly seasoned.",
+    "Heat ghee in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the roti until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the basmati rice mixture until cooked through and lightly charred at the edges, about 25 mins.",
+    "Assemble by layering the roti with the filling, a spoonful of plain yogurt, and a scattering of mint.",
+    "Add a final touch of heavy cream for extra flavor and texture."
+  ],
+  "tips": [
+    "Double the plain yogurt so you have plenty for dipping — it tends to disappear fast.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇳"
+}

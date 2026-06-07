@@ -1,0 +1,39 @@
+{
+  "slug": "paratha",
+  "name": "Paratha with Pickle",
+  "description": "Flaky layered whole wheat flatbreads cooked with ghee until golden, served with tangy mango pickle and lassi.",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g basmati rice",
+    "300g roti",
+    "2 tsp grated fresh ginger",
+    "1 tsp ground cumin",
+    "1/4 cup ghee",
+    "a generous handful of fresh spinach",
+    "a handful of fresh curry leaves, chopped",
+    "a generous spoonful of plain yogurt",
+    "400ml coconut milk",
+    "1 tsp red chili powder",
+    "a generous handful of potatoes",
+    "a drizzle of heavy cream"
+  ],
+  "instructions": [
+    "Gather and prep the idli batter and chickpeas, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the grated fresh ginger and cauliflower florets, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the chickpeas, season with ground turmeric, and cook until just done, about 15 mins.",
+    "Warm the idli batter alongside, turning once, until heated through and lightly toasted.",
+    "Plate the idli batter and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of mint just before serving brightens up the whole plate.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Keep the heat moderate so the chickpeas cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇳"
+}

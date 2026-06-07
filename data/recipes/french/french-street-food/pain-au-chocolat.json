@@ -1,0 +1,39 @@
+{
+  "slug": "pain-au-chocolat",
+  "name": "Pain au Chocolat",
+  "description": "A rectangular flaky puff pastry encasing two dark chocolate batons, buttery and warm from the boulangerie oven.",
+  "prepTime": "30 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Hard",
+  "servings": 8,
+  "ingredients": [
+    "500g beef chuck",
+    "1 cup puff pastry",
+    "a handful of sliced shallots",
+    "a pinch of grated nutmeg",
+    "3 tbsp unsalted butter",
+    "a generous handful of ripe tomatoes",
+    "a handful of fresh tarragon, chopped",
+    "a generous spoonful of cognac",
+    "500ml whole milk",
+    "a pinch of herbes de Provence",
+    "2 button mushrooms, chopped"
+  ],
+  "instructions": [
+    "Prepare the baguette base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the fresh mussels, button mushrooms, sliced shallots, and herbes de Provence, mixing well so everything is evenly seasoned.",
+    "Heat unsalted butter in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the baguette until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the fresh mussels mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the baguette with the filling, a spoonful of crème fraîche, and a scattering of tarragon.",
+    "Add a final touch of lemon zest for extra flavor and texture."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Double the crème fraîche so you have plenty for dipping — it tends to disappear fast.",
+    "Keep the unsalted butter hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇫🇷"
+}

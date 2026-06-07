@@ -1,0 +1,36 @@
+{
+  "slug": "calzone",
+  "name": "Calzone",
+  "description": "A folded pizza pocket stuffed with ricotta, salami, and mozzarella, baked or fried until golden and puffed.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "700g fresh mozzarella",
+    "400g arborio rice",
+    "a handful of sliced leeks",
+    "1/2 tsp fennel seeds",
+    "1/4 cup unsalted butter",
+    "1 cup carrots, sliced",
+    "a handful of fresh rosemary, chopped",
+    "balsamic vinegar, for serving",
+    "1 cup chicken stock"
+  ],
+  "instructions": [
+    "Prepare the fresh lasagna sheets base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the sea bass fillets, eggplant, minced garlic, and cracked black pepper, mixing well so everything is evenly seasoned.",
+    "Heat extra-virgin olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the fresh lasagna sheets until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the sea bass fillets mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the fresh lasagna sheets with the filling, a spoonful of pine nuts, and a scattering of rosemary.",
+    "Add a final touch of balsamic vinegar for extra flavor and texture."
+  ],
+  "tips": [
+    "Keep the extra-virgin olive oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Double the pine nuts so you have plenty for dipping — it tends to disappear fast."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇹"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "domates-corbasi",
+  "name": "Domates Çorbası",
+  "description": "A smooth Turkish tomato soup enriched with butter and finished with cream, simple and deeply satisfying.",
+  "prepTime": "10 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg chicken thighs",
+    "1 cup yufka pastry",
+    "2 tsp finely chopped red onion",
+    "1/2 tsp Aleppo pepper",
+    "1/4 cup olive oil",
+    "1 cup baby potatoes, sliced",
+    "a handful of fresh mint, chopped",
+    "a drizzle of toasted pine nuts",
+    "1 cup beef stock"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the minced garlic and finely chopped red onion gently until soft and fragrant.",
+    "Stir in the sweet paprika and ground sumac, toasting briefly until the kitchen fills with their aroma.",
+    "Add the red lentils and ripe tomatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the beef stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the red lentils is tender, about 25 mins.",
+    "Stir in the simit rings and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇷"
+}

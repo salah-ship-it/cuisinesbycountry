@@ -1,0 +1,40 @@
+{
+  "slug": "fish-head-tofu-soup",
+  "name": "Fish Head Tofu Soup",
+  "description": "A milky, gelatinous broth from a pan-fried fish head braised with soft tofu, ginger, and spring onion.",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "700g chicken thighs",
+    "1 cup wonton wrappers",
+    "1 tbsp minced garlic",
+    "2 tsp five-spice powder",
+    "1/4 cup neutral vegetable oil",
+    "200g bok choy",
+    "a handful of fresh scallion greens, chopped",
+    "a generous spoonful of soy sauce",
+    "400ml pork stock",
+    "1/2 tsp white pepper",
+    "2 napa cabbage, chopped",
+    "a generous spoonful of black vinegar"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the grated fresh ginger and sliced scallion whites gently until soft and fragrant.",
+    "Stir in the white pepper and doubanjiang (chili bean paste), toasting briefly until the kitchen fills with their aroma.",
+    "Add the ground pork and bean sprouts, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the ground pork is tender, about 30 mins.",
+    "Stir in the glutinous rice and continue simmering for a few minutes more, until heated through.",
+    "Finish with the toasted sesame seeds and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the water reduces as it simmers, concentrating the flavor.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇨🇳"
+}

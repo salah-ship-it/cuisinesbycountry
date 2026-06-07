@@ -1,0 +1,38 @@
+{
+  "slug": "onsen-tamago",
+  "name": "Onsen Tamago",
+  "description": "Eggs slow-cooked in hot spring-temperature water until the white is barely set and the yolk remains silken.",
+  "prepTime": "5 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg fresh salmon fillets",
+    "300g ramen noodles",
+    "2 tsp minced garlic",
+    "2 tsp cracked black pepper",
+    "1/4 cup neutral vegetable oil",
+    "a generous handful of napa cabbage",
+    "a handful of fresh chives, chopped",
+    "a drizzle of bonito flakes",
+    "500ml chicken stock",
+    "1 tsp white sesame seeds"
+  ],
+  "instructions": [
+    "Gather and prep the nori sheets and fresh salmon fillets, measuring everything out so it is ready to go.",
+    "Heat toasted sesame oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the grated fresh ginger and shiitake mushrooms, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the fresh salmon fillets, season with cracked black pepper, and cook until just done, about 15 mins.",
+    "Warm the nori sheets alongside, turning once, until heated through and lightly toasted.",
+    "Plate the nori sheets and spoon the cooked mixture over the top.",
+    "Drizzle with toasted sesame oil and finish with a sprinkle of shiso leaves.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Keep the heat moderate so the fresh salmon fillets cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇯🇵"
+}

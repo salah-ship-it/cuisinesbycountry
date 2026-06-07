@@ -1,0 +1,35 @@
+{
+  "slug": "beef-kefta",
+  "name": "Beef Kefta",
+  "description": "Spiced ground beef blended with onion, parsley, and cumin, shaped and grilled on skewers or cooked in a tagine.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g lamb shanks",
+    "400g couscous",
+    "2 tsp grated fresh ginger",
+    "a pinch of harissa paste",
+    "3 tbsp smen (preserved butter)",
+    "200g butternut squash",
+    "a handful of fresh cilantro, chopped",
+    "orange blossom water, for serving",
+    "1 cup chicken stock"
+  ],
+  "instructions": [
+    "Pat the lamb shoulder dry, season generously with salt, pepper, and saffron threads, and let it sit for a few minutes to absorb the flavors.",
+    "Heat butter in a wide pan or heavy pot over medium-high heat and sear the lamb shoulder until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the sliced shallots and minced garlic over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the ground cinnamon and zucchini, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the lamb shoulder to the pan, pour in the water, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the lamb shoulder is tender and cooked through, roughly 20 mins."
+  ],
+  "tips": [
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat.",
+    "Avoid crowding the pan when searing the lamb shoulder; work in batches so it browns instead of steaming."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇲🇦"
+}

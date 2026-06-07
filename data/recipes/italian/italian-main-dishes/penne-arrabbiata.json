@@ -1,0 +1,37 @@
+{
+  "slug": "penne-arrabbiata",
+  "name": "Penne all'Arrabbiata",
+  "description": "Penne pasta in a fiery tomato sauce with garlic and dried chili peppers, garnished with fresh parsley.",
+  "prepTime": "5 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g fresh mozzarella",
+    "300g ladyfingers",
+    "1 tbsp sliced leeks",
+    "1 tsp fennel seeds",
+    "3 tbsp extra-virgin olive oil",
+    "1 cup celery stalks, sliced",
+    "a handful of fresh parsley, chopped",
+    "a generous spoonful of mascarpone",
+    "1 cup dry white wine",
+    "1 tsp grated nutmeg"
+  ],
+  "instructions": [
+    "Pat the sea bass fillets dry, season generously with salt, pepper, and red pepper flakes, and let it sit for a few minutes to absorb the flavors.",
+    "Heat extra-virgin olive oil in a wide pan or heavy pot over medium-high heat and sear the sea bass fillets until browned on all sides, then remove and set aside.",
+    "In the same pan, gently cook the sliced shallots and minced garlic over medium heat until softened and fragrant, about 4-5 minutes.",
+    "Stir in the cracked black pepper and San Marzano tomatoes, cooking for a few more minutes so the spices bloom and coat the vegetables.",
+    "Return the sea bass fillets to the pan, pour in the vegetable stock, and bring everything to a gentle simmer.",
+    "Cover and cook over low heat until the sea bass fillets is tender and cooked through, roughly 20 mins."
+  ],
+  "tips": [
+    "Avoid crowding the pan when searing the sea bass fillets; work in batches so it browns instead of steaming.",
+    "Leftovers taste even better the next day once the spices have had time to mingle — reheat gently over low heat.",
+    "A squeeze of lemon or a final scattering of basil just before serving brightens up all the deep, slow-cooked flavors."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Main Dishes",
+  "countryFlag": "🇮🇹"
+}

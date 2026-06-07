@@ -1,0 +1,37 @@
+{
+  "slug": "tostadas",
+  "name": "Tostadas de Ceviche",
+  "description": "Crispy fried corn tostadas topped with fresh lime-cured fish, avocado, red onion, and a drizzle of hot sauce.",
+  "prepTime": "20 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g black beans",
+    "2 cups pinto beans",
+    "2 tbsp rehydrated dried chilies",
+    "1 tsp dried oregano",
+    "1/4 cup olive oil",
+    "2 red bell peppers, chopped",
+    "a handful of fresh epazote, chopped",
+    "Mexican crema, to taste",
+    "400ml chicken stock",
+    "1/2 tsp ground cinnamon",
+    "200g ripe tomatoes"
+  ],
+  "instructions": [
+    "Prepare the white rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the cured chorizo, tomatillos, rehydrated dried chilies, and dried oregano, mixing well so everything is evenly seasoned.",
+    "Heat olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the white rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the cured chorizo mixture until cooked through and lightly charred at the edges, about 0 mins.",
+    "Assemble by layering the white rice with the filling, a spoonful of crumbled cotija cheese, and a scattering of oregano."
+  ],
+  "tips": [
+    "Keep the olive oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇽"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "lamb-chickpea-stew",
+  "name": "Lamb and Chickpea Stew",
+  "description": "Braised lamb shoulder simmered with chickpeas, tomatoes, and a blend of warming Moroccan spices.",
+  "prepTime": "20 mins",
+  "cookTime": "1 hr 30 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "600g lamb shoulder",
+    "300g flatbread",
+    "2 tbsp grated fresh ginger",
+    "2 tsp ground cinnamon",
+    "2 tbsp butter",
+    "2 zucchini, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of green olives",
+    "500ml vegetable stock",
+    "2 tsp ground turmeric"
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat and cook the grated fresh ginger and minced garlic gently until soft and fragrant.",
+    "Stir in the saffron threads and harissa paste, toasting briefly until the kitchen fills with their aroma.",
+    "Add the merguez sausage and carrots, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the merguez sausage is tender, about 1 hr 30 mins.",
+    "Stir in the vermicelli noodles and continue simmering for a few minutes more, until heated through.",
+    "Finish with the orange blossom water and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the parsley, and serve piping hot."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Taste and adjust the seasoning right at the end — the water reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇦"
+}

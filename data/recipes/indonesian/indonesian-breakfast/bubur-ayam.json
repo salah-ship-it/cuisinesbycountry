@@ -1,0 +1,36 @@
+{
+  "slug": "bubur-ayam",
+  "name": "Bubur Ayam",
+  "description": "Indonesian chicken congee topped with shredded chicken, fried shallots, celery, and ginger soy sauce.",
+  "prepTime": "10 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g beef shin",
+    "1 cup jasmine rice",
+    "2 tsp sliced lemongrass",
+    "2 tsp tamarind paste",
+    "2 tbsp coconut oil",
+    "a generous handful of shallots",
+    "a handful of fresh kaffir lime leaves, chopped",
+    "sambal, to taste"
+  ],
+  "instructions": [
+    "Gather and prep the compressed rice cakes (lontong) and tempeh, measuring everything out so it is ready to go.",
+    "Heat coconut oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced lemongrass and long beans, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the tempeh, season with ground turmeric, and cook until just done, about 45 mins.",
+    "Warm the compressed rice cakes (lontong) alongside, turning once, until heated through and lightly toasted.",
+    "Plate the compressed rice cakes (lontong) and spoon the cooked mixture over the top.",
+    "Drizzle with lime wedges and finish with a sprinkle of Thai basil.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Keep the heat moderate so the tempeh cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇩"
+}

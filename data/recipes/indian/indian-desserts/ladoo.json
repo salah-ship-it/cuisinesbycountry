@@ -1,0 +1,36 @@
+{
+  "slug": "ladoo",
+  "name": "Besan Ladoo",
+  "description": "Round gram flour sweets roasted in ghee with sugar and cardamom, rolled into golden balls for festive occasions.",
+  "prepTime": "10 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Easy",
+  "servings": 20,
+  "ingredients": [
+    "1 kg lamb shoulder",
+    "2 cups roti",
+    "2 tsp curry leaves",
+    "a pinch of ground turmeric",
+    "2 tbsp ghee",
+    "1 cup fresh spinach, sliced",
+    "a handful of fresh mint, chopped",
+    "lemon wedges, for serving"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with ghee.",
+    "In a large bowl, whisk together the naan bread and garam masala until evenly combined.",
+    "In a separate bowl, blend the plain yogurt with the water until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 25 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with mint or a dusting of lemon wedges.",
+    "Slice or portion into servings and serve."
+  ],
+  "tips": [
+    "This keeps well for a couple of days in an airtight container, and the flavor often improves overnight.",
+    "Bring your plain yogurt to room temperature before mixing for a smoother, more even texture."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇮🇳"
+}

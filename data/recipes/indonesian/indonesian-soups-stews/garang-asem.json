@@ -1,0 +1,36 @@
+{
+  "slug": "garang-asem",
+  "name": "Garang Asem",
+  "description": "A Central Javanese sour chicken stew cooked in banana leaf with bilimbi fruit, chili, and galangal.",
+  "prepTime": "20 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "500g chicken thighs",
+    "400g rice noodles",
+    "2 tbsp sliced shallots",
+    "1/2 tsp ground turmeric",
+    "1/4 cup coconut oil",
+    "2 long beans, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of roasted peanuts",
+    "500ml coconut milk",
+    "1 tsp coriander seeds"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the grated fresh ginger and minced garlic gently until soft and fragrant.",
+    "Stir in the coriander seeds and palm sugar, toasting briefly until the kitchen fills with their aroma.",
+    "Add the tempeh and chayote, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the tempeh is tender, about 45 mins.",
+    "Stir in the jasmine rice and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇩"
+}

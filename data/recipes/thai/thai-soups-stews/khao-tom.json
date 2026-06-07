@@ -1,0 +1,40 @@
+{
+  "slug": "khao-tom",
+  "name": "Khao Tom",
+  "description": "Thai rice congee simmered until silky in a light chicken broth, topped with ginger, spring onion, and fried garlic.",
+  "prepTime": "5 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g firm tofu",
+    "300g jasmine rice",
+    "a handful of torn kaffir lime leaves",
+    "1 tsp red curry paste",
+    "1/4 cup neutral vegetable oil",
+    "2 snake beans, chopped",
+    "a handful of fresh mint, chopped",
+    "coconut cream, for serving",
+    "400ml water",
+    "2 tsp ground turmeric",
+    "2 bean sprouts, chopped"
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat and cook the torn kaffir lime leaves and sliced lemongrass gently until soft and fragrant.",
+    "Stir in the ground turmeric and red curry paste, toasting briefly until the kitchen fills with their aroma.",
+    "Add the firm tofu and bean sprouts, stirring well to coat everything in the spiced base.",
+    "Pour in the coconut milk, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the firm tofu is tender, about 30 mins.",
+    "Stir in the jasmine rice and continue simmering for a few minutes more, until heated through.",
+    "Finish with the coconut cream and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the Thai basil, and serve piping hot."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the coconut milk reduces as it simmers, concentrating the flavor.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇭"
+}

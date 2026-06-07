@@ -1,0 +1,38 @@
+{
+  "slug": "medu-vada",
+  "name": "Medu Vada",
+  "description": "Crispy ring-shaped urad lentil fritters served with coconut chutney and sambar, a South Indian breakfast staple.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "1 kg lamb shoulder",
+    "2 cups roti",
+    "2 tsp minced garlic",
+    "2 tsp red chili powder",
+    "3 tbsp ghee",
+    "2 cauliflower florets, chopped",
+    "a handful of fresh mint, chopped",
+    "tamarind paste, to taste",
+    "500ml chicken stock",
+    "1 tsp ground coriander",
+    "a generous handful of yellow onions"
+  ],
+  "instructions": [
+    "Gather and prep the naan bread and red lentils, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the curry leaves and fresh spinach, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the red lentils, season with ground cumin, and cook until just done, about 20 mins.",
+    "Warm the naan bread alongside, turning once, until heated through and lightly toasted.",
+    "Plate the naan bread and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Prep the naan bread and red lentils the night before to make busy mornings much easier.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "A squeeze of citrus or a sprinkle of cilantro just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇳"
+}

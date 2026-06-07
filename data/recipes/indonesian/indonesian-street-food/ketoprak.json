@@ -1,0 +1,40 @@
+{
+  "slug": "ketoprak",
+  "name": "Ketoprak",
+  "description": "Rice vermicelli, tofu, and boiled egg served with cucumber and lontong, dressed in a sweet peanut and kecap sauce.",
+  "prepTime": "15 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "700g firm tofu",
+    "2 cups fried shallot crackers (krupuk)",
+    "a handful of grated fresh ginger",
+    "1/2 tsp palm sugar",
+    "1/4 cup neutral vegetable oil",
+    "2 cabbage, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of kecap manis (sweet soy sauce)",
+    "2 cups chicken stock",
+    "1/2 tsp coriander seeds",
+    "2 cherry tomatoes, chopped"
+  ],
+  "instructions": [
+    "Prepare the jasmine rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the beef shin, cherry tomatoes, sliced shallots, and ground turmeric, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the jasmine rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the beef shin mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the jasmine rice with the filling, a spoonful of sambal, and a scattering of Thai basil.",
+    "Add a final touch of lime wedges for extra flavor and texture.",
+    "Serve immediately while hot, with extra sambal on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Double the sambal so you have plenty for dipping — it tends to disappear fast.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇩"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "xiaolongbao",
+  "name": "Xiaolongbao",
+  "description": "Shanghai soup dumplings pleated around pork and gelatinized broth that liquefies into a scalding mouthful when steamed.",
+  "prepTime": "60 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Hard",
+  "servings": 4,
+  "ingredients": [
+    "500g whole duck",
+    "300g steamed buns",
+    "2 tbsp grated fresh ginger",
+    "1 tsp five-spice powder",
+    "1/4 cup neutral vegetable oil",
+    "1 cup carrots, sliced",
+    "a handful of fresh scallion greens, chopped",
+    "soy sauce, to taste",
+    "1 cup chicken stock",
+    "1/2 tsp doubanjiang (chili bean paste)"
+  ],
+  "instructions": [
+    "Prepare the glutinous rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the firm tofu, shiitake mushrooms, sliced scallion whites, and white pepper, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the glutinous rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the firm tofu mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the glutinous rice with the filling, a spoonful of black vinegar, and a scattering of scallion greens.",
+    "Add a final touch of toasted sesame seeds for extra flavor and texture."
+  ],
+  "tips": [
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Keep the neutral vegetable oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇨🇳"
+}

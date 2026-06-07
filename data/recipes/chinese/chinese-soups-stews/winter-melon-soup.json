@@ -1,0 +1,39 @@
+{
+  "slug": "winter-melon-soup",
+  "name": "Winter Melon Soup",
+  "description": "Transparent cubes of winter melon and pork ribs simmered in a light broth with dried scallops and ginger.",
+  "prepTime": "15 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg ground pork",
+    "2 cups wonton wrappers",
+    "a handful of grated fresh ginger",
+    "2 tsp doubanjiang (chili bean paste)",
+    "2 tbsp toasted sesame oil",
+    "a generous handful of bok choy",
+    "a handful of fresh chives, chopped",
+    "toasted sesame seeds, to taste",
+    "2 cups chicken stock",
+    "1 tsp white pepper"
+  ],
+  "instructions": [
+    "Heat toasted sesame oil in a large pot over medium heat and cook the grated fresh ginger and sliced scallion whites gently until soft and fragrant.",
+    "Stir in the star anise and five-spice powder, toasting briefly until the kitchen fills with their aroma.",
+    "Add the firm tofu and shiitake mushrooms, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the firm tofu is tender, about 45 mins.",
+    "Stir in the glutinous rice and continue simmering for a few minutes more, until heated through.",
+    "Finish with the soy sauce and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the cilantro, and serve piping hot."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Taste and adjust the seasoning right at the end — the water reduces as it simmers, concentrating the flavor.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇨🇳"
+}

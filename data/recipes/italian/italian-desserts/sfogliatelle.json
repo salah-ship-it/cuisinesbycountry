@@ -1,0 +1,36 @@
+{
+  "slug": "sfogliatelle",
+  "name": "Sfogliatelle",
+  "description": "Neapolitan shell-shaped pastries with hundreds of flaky layers filled with ricotta, semolina, and candied citrus.",
+  "prepTime": "60 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Hard",
+  "servings": 12,
+  "ingredients": [
+    "700g ground beef",
+    "1 cup fresh lasagna sheets",
+    "1 tbsp sliced shallots",
+    "2 tsp dried oregano",
+    "3 tbsp extra-virgin olive oil",
+    "200g yellow onions",
+    "a handful of fresh sage, chopped",
+    "a drizzle of pine nuts",
+    "400ml chicken stock"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with extra-virgin olive oil.",
+    "In a large bowl, whisk together the ciabatta bread and dried oregano until evenly combined.",
+    "In a separate bowl, blend the extra-virgin olive oil with the dry white wine until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 25 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with sage or a dusting of pine nuts."
+  ],
+  "tips": [
+    "Resist opening the oven door too early — a sudden change in temperature can cause the dessert to sink or crack.",
+    "Bring your extra-virgin olive oil to room temperature before mixing for a smoother, more even texture."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇮🇹"
+}

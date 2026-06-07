@@ -1,0 +1,37 @@
+{
+  "slug": "cafe-de-olla",
+  "name": "Café de Olla",
+  "description": "Rustic Mexican coffee brewed in an earthenware pot with piloncillo, cinnamon, and a touch of clove.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g ground beef",
+    "400g bolillo rolls",
+    "a handful of minced garlic",
+    "1 1/2 tsp smoked paprika",
+    "3 tbsp olive oil",
+    "1 cup jalapeños, sliced",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of salsa verde",
+    "400ml beef stock",
+    "2 tsp dried oregano"
+  ],
+  "instructions": [
+    "Gather and prep the white rice and chicken thighs, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the rehydrated dried chilies and white onions, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the chicken thighs, season with smoked paprika, and cook until just done, about 10 mins.",
+    "Warm the white rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the white rice and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Keep the heat moderate so the chicken thighs cooks through gently without drying out or turning rubbery.",
+    "A squeeze of citrus or a sprinkle of cilantro just before serving brightens up the whole plate.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇲🇽"
+}

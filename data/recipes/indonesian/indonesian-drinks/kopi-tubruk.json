@@ -1,0 +1,39 @@
+{
+  "slug": "kopi-tubruk",
+  "name": "Kopi Tubruk",
+  "description": "Indonesian-style coffee brewed by pouring boiling water directly over coarsely ground beans in the cup.",
+  "prepTime": "5 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "500g tempeh",
+    "2 cups compressed rice cakes (lontong)",
+    "a handful of minced garlic",
+    "1 1/2 tsp tamarind paste",
+    "3 tbsp neutral vegetable oil",
+    "200g long beans",
+    "a handful of fresh kaffir lime leaves, chopped",
+    "a generous spoonful of crispy fried shallots",
+    "500ml chicken stock",
+    "a pinch of ground cumin"
+  ],
+  "instructions": [
+    "Combine the compressed rice cakes (lontong) and tamarind water in a saucepan, blender, or pitcher, stirring well.",
+    "Add the ground cumin and coconut cream, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 5 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with sambal, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with cilantro just before serving.",
+    "Pour into your favorite glass or cup and enjoy."
+  ],
+  "tips": [
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours.",
+    "Serve in a chilled glass for the most refreshing result on a hot day.",
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇮🇩"
+}

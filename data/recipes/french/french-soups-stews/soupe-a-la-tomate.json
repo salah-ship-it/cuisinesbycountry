@@ -1,0 +1,39 @@
+{
+  "slug": "soupe-a-la-tomate",
+  "name": "Soupe à la Tomate",
+  "description": "Slow-roasted French tomatoes blended with shallots, tarragon, and a touch of cream into a velvety red soup.",
+  "prepTime": "10 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g beef chuck",
+    "300g puff pastry",
+    "2 tsp sliced leeks",
+    "1 tsp cracked black peppercorns",
+    "2 tbsp extra-virgin olive oil",
+    "200g carrots",
+    "a handful of fresh chives, chopped",
+    "unsalted butter, to taste",
+    "1 cup beef stock",
+    "1 tsp herbes de Provence",
+    "1 cup leeks, sliced",
+    "crème fraîche, to taste"
+  ],
+  "instructions": [
+    "Heat extra-virgin olive oil in a large pot over medium heat and cook the minced garlic and sliced leeks gently until soft and fragrant.",
+    "Stir in the herbes de Provence and bay leaves, toasting briefly until the kitchen fills with their aroma.",
+    "Add the sea bass fillets and pearl onions, stirring well to coat everything in the spiced base.",
+    "Pour in the whole milk, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the sea bass fillets is tender, about 40 mins.",
+    "Stir in the puff pastry and continue simmering for a few minutes more, until heated through.",
+    "Finish with the crème fraîche and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the whole milk reduces as it simmers, concentrating the flavor.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇫🇷"
+}

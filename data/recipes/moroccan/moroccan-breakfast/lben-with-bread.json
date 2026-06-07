@@ -1,0 +1,35 @@
+{
+  "slug": "lben-with-bread",
+  "name": "Lben with Bread",
+  "description": "Tangy Moroccan buttermilk served chilled alongside warm khobz for a simple and refreshing breakfast.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "700g lamb shoulder",
+    "2 cups vermicelli noodles",
+    "2 tbsp minced garlic",
+    "2 tsp ground cinnamon",
+    "2 tbsp smen (preserved butter)",
+    "2 potatoes, chopped",
+    "a handful of fresh mint, chopped",
+    "dried apricots, to taste",
+    "1 cup chicken stock"
+  ],
+  "instructions": [
+    "Gather and prep the flatbread and lamb shoulder, measuring everything out so it is ready to go.",
+    "Heat smen (preserved butter) in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the finely chopped red onion and red onions, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the lamb shoulder, season with ground cumin, and cook until just done, about 0 mins.",
+    "Warm the flatbread alongside, turning once, until heated through and lightly toasted.",
+    "Plate the flatbread and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Prep the flatbread and lamb shoulder the night before to make busy mornings much easier.",
+    "A squeeze of citrus or a sprinkle of parsley just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇲🇦"
+}

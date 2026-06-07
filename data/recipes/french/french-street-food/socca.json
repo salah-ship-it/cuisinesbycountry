@@ -1,0 +1,36 @@
+{
+  "slug": "socca",
+  "name": "Socca",
+  "description": "A crispy Niçoise chickpea-flour pancake blistered under a wood fire, broken into rough pieces and seasoned with pepper.",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g pork lardons",
+    "300g puff pastry",
+    "2 tsp minced garlic",
+    "1 1/2 tsp herbes de Provence",
+    "3 tbsp unsalted butter",
+    "2 ripe tomatoes, chopped",
+    "a handful of fresh chives, chopped",
+    "a drizzle of Dijon mustard"
+  ],
+  "instructions": [
+    "Prepare the arborio rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the pork lardons, carrots, minced garlic, and bay leaves, mixing well so everything is evenly seasoned.",
+    "Heat extra-virgin olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the arborio rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the pork lardons mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the arborio rice with the filling, a spoonful of crème fraîche, and a scattering of chervil.",
+    "Add a final touch of unsalted butter for extra flavor and texture.",
+    "Serve immediately while hot, with extra crème fraîche on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Double the crème fraîche so you have plenty for dipping — it tends to disappear fast.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇫🇷"
+}

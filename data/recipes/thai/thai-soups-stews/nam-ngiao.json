@@ -1,0 +1,35 @@
+{
+  "slug": "nam-ngiao",
+  "name": "Nam Ngiao",
+  "description": "A rich northern Thai noodle soup with pork ribs, fermented soybean, and dried tomato in a spiced broth.",
+  "prepTime": "20 mins",
+  "cookTime": "1 hr",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "400g firm tofu",
+    "1 cup rice vermicelli",
+    "1 tbsp minced garlic",
+    "a pinch of red curry paste",
+    "3 tbsp neutral vegetable oil",
+    "a generous handful of snake beans",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of coconut cream"
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat and cook the sliced shallots and sliced lemongrass gently until soft and fragrant.",
+    "Stir in the white pepper and red curry paste, toasting briefly until the kitchen fills with their aroma.",
+    "Add the large prawns and Thai eggplant, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the large prawns is tender, about 1 hr.",
+    "Stir in the rice vermicelli and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the chicken stock reduces as it simmers, concentrating the flavor.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇭"
+}

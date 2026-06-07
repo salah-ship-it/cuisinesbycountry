@@ -1,0 +1,39 @@
+{
+  "slug": "tarte-flambee",
+  "name": "Tarte Flambée",
+  "description": "An Alsatian thin-crust flatbread spread with crème fraîche, smoked lardons, and onions, baked at furnace heat.",
+  "prepTime": "20 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg beef chuck",
+    "1 cup arborio rice",
+    "1 tbsp minced garlic",
+    "1/2 tsp grated nutmeg",
+    "2 tbsp extra-virgin olive oil",
+    "2 shallots, chopped",
+    "a handful of fresh chives, chopped",
+    "a generous spoonful of unsalted butter",
+    "400ml dry red wine",
+    "a pinch of herbes de Provence",
+    "200g leeks"
+  ],
+  "instructions": [
+    "Prepare the puff pastry base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the beef chuck, pearl onions, sliced leeks, and bay leaves, mixing well so everything is evenly seasoned.",
+    "Heat extra-virgin olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the puff pastry until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the beef chuck mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the puff pastry with the filling, a spoonful of crème fraîche, and a scattering of parsley.",
+    "Add a final touch of cognac for extra flavor and texture.",
+    "Serve immediately while hot, with extra crème fraîche on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇫🇷"
+}

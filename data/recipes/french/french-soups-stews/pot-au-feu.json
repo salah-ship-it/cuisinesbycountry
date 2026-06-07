@@ -1,0 +1,36 @@
+{
+  "slug": "pot-au-feu",
+  "name": "Pot-au-Feu",
+  "description": "France's emblematic one-pot of beef cuts and root vegetables simmered in broth, served in two distinct courses.",
+  "prepTime": "20 mins",
+  "cookTime": "3 hrs",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "400g sea bass fillets",
+    "300g puff pastry",
+    "2 tbsp sliced leeks",
+    "1 tsp cracked black peppercorns",
+    "1/4 cup unsalted butter",
+    "1 cup celery stalks, sliced",
+    "a handful of fresh chervil, chopped",
+    "a drizzle of lemon zest",
+    "500ml beef stock"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the sliced shallots and sliced leeks gently until soft and fragrant.",
+    "Stir in the grated nutmeg and fresh thyme, toasting briefly until the kitchen fills with their aroma.",
+    "Add the duck legs and ripe tomatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the dry red wine, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the duck legs is tender, about 3 hrs.",
+    "Stir in the baguette and continue simmering for a few minutes more, until heated through.",
+    "Finish with the cognac and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇫🇷"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "okayu",
+  "name": "Okayu",
+  "description": "Gentle Japanese rice porridge simmered until silky soft, topped with pickled plum, sesame, and spring onion.",
+  "prepTime": "5 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg pork loin",
+    "1 cup nori sheets",
+    "a handful of minced garlic",
+    "2 tsp wasabi paste",
+    "2 tbsp neutral vegetable oil",
+    "200g carrots",
+    "a handful of fresh shiso leaves, chopped",
+    "a drizzle of soy sauce",
+    "400ml chicken stock"
+  ],
+  "instructions": [
+    "Gather and prep the short-grain rice and sushi-grade tuna, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and shiitake mushrooms, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the sushi-grade tuna, season with wasabi paste, and cook until just done, about 30 mins.",
+    "Warm the short-grain rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the short-grain rice and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Prep the short-grain rice and sushi-grade tuna the night before to make busy mornings much easier.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇯🇵"
+}

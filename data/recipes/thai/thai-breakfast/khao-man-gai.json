@@ -1,0 +1,35 @@
+{
+  "slug": "khao-man-gai",
+  "name": "Khao Man Gai",
+  "description": "Poached chicken over rice cooked in the same broth with garlic, served with a fermented soybean dipping sauce.",
+  "prepTime": "15 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g large prawns",
+    "2 cups jasmine rice",
+    "2 tsp torn kaffir lime leaves",
+    "1/2 tsp ground turmeric",
+    "1/4 cup coconut oil",
+    "2 snake beans, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of lime wedges",
+    "500ml coconut milk"
+  ],
+  "instructions": [
+    "Gather and prep the rice vermicelli and large prawns, measuring everything out so it is ready to go.",
+    "Heat coconut oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced shallots and Thai bird's eye chilies, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the large prawns, season with red curry paste, and cook until just done, about 40 mins.",
+    "Warm the rice vermicelli alongside, turning once, until heated through and lightly toasted.",
+    "Plate the rice vermicelli and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of mint just before serving brightens up the whole plate.",
+    "Keep the heat moderate so the large prawns cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇭"
+}

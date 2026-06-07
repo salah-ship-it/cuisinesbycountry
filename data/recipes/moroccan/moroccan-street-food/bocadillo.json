@@ -1,0 +1,37 @@
+{
+  "slug": "bocadillo",
+  "name": "Bocadillo",
+  "description": "A popular Moroccan street sandwich of canned sardines, harissa, and fresh vegetables in a crusty baguette.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "400g ground beef",
+    "300g flatbread",
+    "2 tbsp grated fresh ginger",
+    "1 tsp ground cumin",
+    "3 tbsp smen (preserved butter)",
+    "a generous handful of butternut squash",
+    "a handful of fresh parsley, chopped",
+    "green olives, for serving",
+    "2 cups chicken stock",
+    "2 tsp ras el hanout",
+    "200g red bell peppers"
+  ],
+  "instructions": [
+    "Prepare the couscous base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the lamb shanks, butternut squash, grated fresh ginger, and ground cinnamon, mixing well so everything is evenly seasoned.",
+    "Heat smen (preserved butter) in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the couscous until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the lamb shanks mixture until cooked through and lightly charred at the edges, about 0 mins.",
+    "Assemble by layering the couscous with the filling, a spoonful of honey, and a scattering of mint."
+  ],
+  "tips": [
+    "Keep the smen (preserved butter) hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇦"
+}

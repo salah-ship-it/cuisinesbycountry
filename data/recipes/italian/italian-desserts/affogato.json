@@ -1,0 +1,38 @@
+{
+  "slug": "affogato",
+  "name": "Affogato al Caffè",
+  "description": "A scoop of vanilla gelato 'drowned' in a shot of hot espresso, the perfect intersection of dessert and coffee.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "500g Italian sausage",
+    "2 cups pizza dough",
+    "a handful of sliced shallots",
+    "a pinch of grated nutmeg",
+    "1/4 cup extra-virgin olive oil",
+    "a generous handful of zucchini",
+    "a handful of fresh sage, chopped",
+    "pine nuts, to taste",
+    "400ml whole milk"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with extra-virgin olive oil.",
+    "In a large bowl, whisk together the fresh lasagna sheets and cracked black pepper until evenly combined.",
+    "In a separate bowl, blend the balsamic vinegar with the whole milk until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 0 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with basil or a dusting of lemon zest.",
+    "Slice or portion into servings and serve."
+  ],
+  "tips": [
+    "Bring your balsamic vinegar to room temperature before mixing for a smoother, more even texture.",
+    "This keeps well for a couple of days in an airtight container, and the flavor often improves overnight.",
+    "Resist opening the oven door too early — a sudden change in temperature can cause the dessert to sink or crack."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇮🇹"
+}

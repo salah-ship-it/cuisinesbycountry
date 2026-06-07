@@ -1,0 +1,36 @@
+{
+  "slug": "balik-ekmek",
+  "name": "Balık Ekmek",
+  "description": "Grilled mackerel fillets tucked into a crusty white roll with onion, lettuce, and a squeeze of lemon.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg fresh mussels",
+    "300g rice pilaf",
+    "2 tsp minced garlic",
+    "1/2 tsp sweet paprika",
+    "1/4 cup olive oil",
+    "2 eggplant, chopped",
+    "a handful of fresh parsley, chopped",
+    "a drizzle of lemon wedges",
+    "500ml beef stock"
+  ],
+  "instructions": [
+    "Prepare the bulgur wheat base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the chicken thighs, eggplant, finely chopped red onion, and dried mint, mixing well so everything is evenly seasoned.",
+    "Heat olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the bulgur wheat until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the chicken thighs mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the bulgur wheat with the filling, a spoonful of toasted pine nuts, and a scattering of parsley.",
+    "Add a final touch of plain yogurt for extra flavor and texture."
+  ],
+  "tips": [
+    "Double the toasted pine nuts so you have plenty for dipping — it tends to disappear fast.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇹🇷"
+}

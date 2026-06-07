@@ -1,0 +1,39 @@
+{
+  "slug": "laksa",
+  "name": "Laksa",
+  "description": "A spicy coconut milk noodle soup of Peranakan origin with shrimp, tofu puffs, and laksa leaves.",
+  "prepTime": "20 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "400g whole mackerel",
+    "1 cup rice noodles",
+    "a handful of sliced shallots",
+    "2 tsp crushed candlenuts",
+    "2 tbsp coconut oil",
+    "200g bean sprouts",
+    "a handful of fresh cilantro, chopped",
+    "sambal, to taste",
+    "400ml coconut milk",
+    "1 1/2 tsp tamarind paste",
+    "a generous handful of cherry tomatoes",
+    "a generous spoonful of kecap manis (sweet soy sauce)"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the sliced shallots and grated fresh ginger gently until soft and fragrant.",
+    "Stir in the palm sugar and crushed candlenuts, toasting briefly until the kitchen fills with their aroma.",
+    "Add the beef shin and shallots, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the beef shin is tender, about 30 mins.",
+    "Stir in the jasmine rice and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇩"
+}

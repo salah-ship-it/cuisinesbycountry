@@ -1,0 +1,39 @@
+{
+  "slug": "chorba-frik",
+  "name": "Chorba Frik",
+  "description": "A warming broth of lamb or chicken with cracked freekeh wheat and a bouquet of fresh herbs.",
+  "prepTime": "15 mins",
+  "cookTime": "50 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g chickpeas",
+    "300g couscous",
+    "2 tbsp sliced shallots",
+    "a pinch of ground turmeric",
+    "1/4 cup butter",
+    "200g carrots",
+    "a handful of fresh parsley, chopped",
+    "green olives, to taste",
+    "400ml vegetable stock",
+    "1 tsp harissa paste",
+    "2 red bell peppers, chopped",
+    "a generous spoonful of preserved lemon"
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat and cook the grated fresh ginger and sliced shallots gently until soft and fragrant.",
+    "Stir in the sweet paprika and ground ginger, toasting briefly until the kitchen fills with their aroma.",
+    "Add the lamb shanks and zucchini, stirring well to coat everything in the spiced base.",
+    "Pour in the vegetable stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the lamb shanks is tender, about 50 mins.",
+    "Stir in the crusty bread and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇦"
+}

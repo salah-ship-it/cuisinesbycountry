@@ -1,0 +1,36 @@
+{
+  "slug": "jok",
+  "name": "Jok",
+  "description": "Thai rice porridge simmered until thick and smooth, topped with minced pork, ginger strips, and a poached egg.",
+  "prepTime": "5 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg white fish fillets",
+    "2 cups jasmine rice",
+    "2 tsp torn kaffir lime leaves",
+    "1/2 tsp dried shrimp",
+    "3 tbsp neutral vegetable oil",
+    "a generous handful of bean sprouts",
+    "a handful of fresh mint, chopped",
+    "fish sauce, for serving",
+    "1 cup coconut milk",
+    "1 tsp white pepper"
+  ],
+  "instructions": [
+    "Gather and prep the rice noodles and firm tofu, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced shallots and Thai eggplant, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the firm tofu, season with ground turmeric, and cook until just done, about 30 mins.",
+    "Warm the rice noodles alongside, turning once, until heated through and lightly toasted.",
+    "Plate the rice noodles and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Keep the heat moderate so the firm tofu cooks through gently without drying out or turning rubbery.",
+    "Prep the rice noodles and firm tofu the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇭"
+}

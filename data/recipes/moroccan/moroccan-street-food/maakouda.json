@@ -1,0 +1,38 @@
+{
+  "slug": "maakouda",
+  "name": "Maakouda",
+  "description": "Crispy fried potato fritters spiced with cumin and parsley, served in a sandwich or on their own.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g ground beef",
+    "400g crusty bread",
+    "a handful of minced garlic",
+    "2 tsp ras el hanout",
+    "3 tbsp olive oil",
+    "a generous handful of carrots",
+    "a handful of fresh parsley, chopped",
+    "a drizzle of toasted almonds",
+    "500ml vegetable stock"
+  ],
+  "instructions": [
+    "Prepare the crusty bread base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the lamb shoulder, carrots, sliced shallots, and saffron threads, mixing well so everything is evenly seasoned.",
+    "Heat butter in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the crusty bread until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the lamb shoulder mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the crusty bread with the filling, a spoonful of toasted almonds, and a scattering of mint.",
+    "Add a final touch of preserved lemon for extra flavor and texture.",
+    "Serve immediately while hot, with extra toasted almonds on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Keep the butter hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Double the toasted almonds so you have plenty for dipping — it tends to disappear fast."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇦"
+}

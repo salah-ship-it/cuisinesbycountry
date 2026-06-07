@@ -1,0 +1,40 @@
+{
+  "slug": "tigelle",
+  "name": "Tigelle",
+  "description": "Small round Emilian bread discs cooked in a tigelliera and split open to fill with cured meats and cheese.",
+  "prepTime": "25 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "600g Italian sausage",
+    "2 cups fresh lasagna sheets",
+    "a handful of sliced shallots",
+    "1/2 tsp dried oregano",
+    "3 tbsp unsalted butter",
+    "1 cup zucchini, sliced",
+    "a handful of fresh sage, chopped",
+    "a drizzle of balsamic vinegar",
+    "2 cups chicken stock",
+    "1/2 tsp cracked black pepper",
+    "1 cup eggplant, sliced",
+    "a generous spoonful of pine nuts"
+  ],
+  "instructions": [
+    "Prepare the spaghetti base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the sea bass fillets, carrots, sliced leeks, and cracked black pepper, mixing well so everything is evenly seasoned.",
+    "Heat extra-virgin olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the spaghetti until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the sea bass fillets mixture until cooked through and lightly charred at the edges, about 20 mins.",
+    "Assemble by layering the spaghetti with the filling, a spoonful of pine nuts, and a scattering of basil.",
+    "Add a final touch of extra-virgin olive oil for extra flavor and texture.",
+    "Serve immediately while hot, with extra pine nuts on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Keep the extra-virgin olive oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇮🇹"
+}

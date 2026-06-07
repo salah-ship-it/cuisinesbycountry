@@ -1,0 +1,38 @@
+{
+  "slug": "dugun-corbasi",
+  "name": "Düğün Çorbası",
+  "description": "A rich lamb and yogurt wedding soup finished with a paprika-butter tarka, served at Turkish celebrations.",
+  "prepTime": "15 mins",
+  "cookTime": "1 hr",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "500g beef sirloin",
+    "1 cup simit rings",
+    "a handful of sliced scallions",
+    "a pinch of ground cumin",
+    "3 tbsp unsalted butter",
+    "2 cucumber, chopped",
+    "a handful of fresh mint, chopped",
+    "a drizzle of lemon wedges",
+    "400ml chicken stock",
+    "1 1/2 tsp Aleppo pepper",
+    "2 red onions, chopped"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the finely chopped red onion and minced garlic gently until soft and fragrant.",
+    "Stir in the dried mint and Aleppo pepper, toasting briefly until the kitchen fills with their aroma.",
+    "Add the ground lamb and baby potatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the ground lamb is tender, about 1 hr.",
+    "Stir in the bulgur wheat and continue simmering for a few minutes more, until heated through.",
+    "Finish with the lemon wedges and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇷"
+}

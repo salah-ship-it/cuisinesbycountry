@@ -1,0 +1,38 @@
+{
+  "slug": "ochazuke",
+  "name": "Ochazuke",
+  "description": "Leftover rice revived by pouring hot green tea or dashi over it, topped with pickles, nori, and sesame.",
+  "prepTime": "5 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "1 kg chicken thighs",
+    "400g short-grain rice",
+    "2 tbsp grated fresh ginger",
+    "1 1/2 tsp cracked black pepper",
+    "3 tbsp neutral vegetable oil",
+    "a generous handful of scallions",
+    "a handful of fresh chives, chopped",
+    "toasted sesame oil, for serving",
+    "500ml dashi stock",
+    "1/2 tsp white sesame seeds",
+    "200g napa cabbage",
+    "a generous spoonful of pickled ginger"
+  ],
+  "instructions": [
+    "Gather and prep the panko breadcrumbs and thinly sliced beef, measuring everything out so it is ready to go.",
+    "Heat toasted sesame oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced scallion whites and napa cabbage, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the thinly sliced beef, season with shichimi togarashi, and cook until just done, about 5 mins.",
+    "Warm the panko breadcrumbs alongside, turning once, until heated through and lightly toasted.",
+    "Plate the panko breadcrumbs and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of chives just before serving brightens up the whole plate.",
+    "Prep the panko breadcrumbs and thinly sliced beef the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇯🇵"
+}

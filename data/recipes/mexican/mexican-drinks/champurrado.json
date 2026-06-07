@@ -1,0 +1,38 @@
+{
+  "slug": "champurrado",
+  "name": "Champurrado",
+  "description": "A thick, warming Mexican hot chocolate thickened with masa harina and spiced with cinnamon and piloncillo.",
+  "prepTime": "5 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g chicken thighs",
+    "400g pinto beans",
+    "2 tsp finely chopped white onion",
+    "a pinch of smoked paprika",
+    "1/4 cup olive oil",
+    "a generous handful of ripe tomatoes",
+    "a handful of fresh cilantro, chopped",
+    "a drizzle of lime wedges",
+    "400ml beef stock"
+  ],
+  "instructions": [
+    "Combine the white rice and water in a saucepan, blender, or pitcher, stirring well.",
+    "Add the chili powder and lime wedges, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 15 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with salsa verde, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with cilantro just before serving.",
+    "Pour into your favorite glass or cup and enjoy."
+  ],
+  "tips": [
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours.",
+    "Adjust the sweetness gradually, tasting as you go — you can always add more salsa verde, but you cannot take it away.",
+    "Serve in a chilled glass for the most refreshing result on a hot day."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇲🇽"
+}

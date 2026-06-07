@@ -1,0 +1,40 @@
+{
+  "slug": "soupe-de-poisson",
+  "name": "Soupe de Poisson",
+  "description": "A robust blended Provençal fish soup strained smooth, served with rouille, grated Gruyère, and grilled croutons.",
+  "prepTime": "20 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "700g duck legs",
+    "400g baguette",
+    "1 tbsp sliced shallots",
+    "1 1/2 tsp herbes de Provence",
+    "2 tbsp unsalted butter",
+    "2 shallots, chopped",
+    "a handful of fresh chives, chopped",
+    "Dijon mustard, for serving",
+    "500ml dry red wine",
+    "1 1/2 tsp cracked black peppercorns",
+    "200g ripe tomatoes",
+    "lemon zest, for serving"
+  ],
+  "instructions": [
+    "Heat extra-virgin olive oil in a large pot over medium heat and cook the sliced leeks and minced garlic gently until soft and fragrant.",
+    "Stir in the cracked black peppercorns and bay leaves, toasting briefly until the kitchen fills with their aroma.",
+    "Add the beef chuck and button mushrooms, stirring well to coat everything in the spiced base.",
+    "Pour in the dry white wine, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the beef chuck is tender, about 45 mins.",
+    "Stir in the brioche and continue simmering for a few minutes more, until heated through.",
+    "Finish with the Gruyère cheese and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇫🇷"
+}

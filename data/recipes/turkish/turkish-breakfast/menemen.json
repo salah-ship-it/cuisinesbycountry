@@ -1,0 +1,36 @@
+{
+  "slug": "menemen",
+  "name": "Menemen",
+  "description": "Eggs scrambled into a sizzling pan of tomatoes, green peppers, and olive oil for Turkey's ultimate brunch.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "700g ground lamb",
+    "400g rice pilaf",
+    "2 tsp finely chopped red onion",
+    "1 tsp Aleppo pepper",
+    "2 tbsp olive oil",
+    "2 green peppers, chopped",
+    "a handful of fresh parsley, chopped",
+    "crumbled feta, for serving",
+    "2 cups chicken stock",
+    "a pinch of sweet paprika"
+  ],
+  "instructions": [
+    "Gather and prep the bulgur wheat and red lentils, measuring everything out so it is ready to go.",
+    "Heat unsalted butter in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced scallions and red onions, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the red lentils, season with sweet paprika, and cook until just done, about 10 mins.",
+    "Warm the bulgur wheat alongside, turning once, until heated through and lightly toasted.",
+    "Plate the bulgur wheat and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of parsley just before serving brightens up the whole plate.",
+    "Prep the bulgur wheat and red lentils the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇷"
+}

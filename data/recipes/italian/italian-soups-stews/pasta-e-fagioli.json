@@ -1,0 +1,35 @@
+{
+  "slug": "pasta-e-fagioli",
+  "name": "Pasta e Fagioli",
+  "description": "A creamy, rustic Italian soup of borlotti beans and short pasta in a thick seasoned broth.",
+  "prepTime": "15 mins",
+  "cookTime": "50 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g guanciale",
+    "2 cups fresh lasagna sheets",
+    "1 tbsp sliced shallots",
+    "a pinch of red pepper flakes",
+    "3 tbsp unsalted butter",
+    "2 eggplant, chopped",
+    "a handful of fresh basil, chopped",
+    "extra-virgin olive oil, for serving"
+  ],
+  "instructions": [
+    "Heat extra-virgin olive oil in a large pot over medium heat and cook the sliced shallots and minced garlic gently until soft and fragrant.",
+    "Stir in the dried oregano and cracked black pepper, toasting briefly until the kitchen fills with their aroma.",
+    "Add the fresh mozzarella and San Marzano tomatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the vegetable stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the fresh mozzarella is tender, about 50 mins.",
+    "Stir in the pizza dough and continue simmering for a few minutes more, until heated through.",
+    "Finish with the mascarpone and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇹"
+}

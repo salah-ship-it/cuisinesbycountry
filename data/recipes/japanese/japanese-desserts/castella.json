@@ -1,0 +1,39 @@
+{
+  "slug": "castella",
+  "name": "Castella",
+  "description": "A moist, honey-flavored sponge cake with Portuguese origins perfected over centuries in Nagasaki, Japan.",
+  "prepTime": "20 mins",
+  "cookTime": "50 mins",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "500g firm tofu",
+    "2 cups short-grain rice",
+    "2 tsp grated fresh ginger",
+    "1/2 tsp wasabi paste",
+    "1/4 cup toasted sesame oil",
+    "2 daikon radish, chopped",
+    "a handful of fresh chives, chopped",
+    "a drizzle of sake",
+    "2 cups dashi stock",
+    "1 tsp shichimi togarashi",
+    "2 shiitake mushrooms, chopped",
+    "a drizzle of soy sauce"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with neutral vegetable oil.",
+    "In a large bowl, whisk together the soba noodles and shichimi togarashi until evenly combined.",
+    "In a separate bowl, blend the bonito flakes with the water until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 50 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly."
+  ],
+  "tips": [
+    "Resist opening the oven door too early — a sudden change in temperature can cause the dessert to sink or crack.",
+    "This keeps well for a couple of days in an airtight container, and the flavor often improves overnight.",
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇯🇵"
+}

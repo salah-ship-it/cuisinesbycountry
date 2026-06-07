@@ -1,0 +1,39 @@
+{
+  "slug": "tamago-kake-gohan",
+  "name": "Tamago Kake Gohan",
+  "description": "Hot steamed rice topped with a raw egg and a dash of soy sauce stirred together for Japan's simplest comfort breakfast.",
+  "prepTime": "2 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "400g pork loin",
+    "1 cup nori sheets",
+    "1 tbsp sliced scallion whites",
+    "1 tsp white sesame seeds",
+    "2 tbsp neutral vegetable oil",
+    "200g shiitake mushrooms",
+    "a handful of fresh mitsuba, chopped",
+    "mirin, for serving",
+    "400ml chicken stock",
+    "2 tsp shichimi togarashi"
+  ],
+  "instructions": [
+    "Gather and prep the soba noodles and pork loin, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced scallion whites and bean sprouts, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the pork loin, season with white sesame seeds, and cook until just done, about 0 mins.",
+    "Warm the soba noodles alongside, turning once, until heated through and lightly toasted.",
+    "Plate the soba noodles and spoon the cooked mixture over the top.",
+    "Drizzle with bonito flakes and finish with a sprinkle of shiso leaves.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "A squeeze of citrus or a sprinkle of shiso leaves just before serving brightens up the whole plate.",
+    "Prep the soba noodles and pork loin the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇯🇵"
+}

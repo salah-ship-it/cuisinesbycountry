@@ -1,0 +1,35 @@
+{
+  "slug": "baklava",
+  "name": "Baklava",
+  "description": "Dozens of butter-brushed filo layers packed with pistachios or walnuts and soaked in a fragrant sugar syrup.",
+  "prepTime": "45 mins",
+  "cookTime": "45 mins",
+  "difficulty": "Hard",
+  "servings": 24,
+  "ingredients": [
+    "1 kg lamb shoulder",
+    "1 cup bulgur wheat",
+    "2 tsp sliced scallions",
+    "a pinch of sweet paprika",
+    "1/4 cup unsalted butter",
+    "2 baby potatoes, chopped",
+    "a handful of fresh parsley, chopped",
+    "a drizzle of crumbled feta",
+    "1 cup beef stock"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with olive oil.",
+    "In a large bowl, whisk together the rice pilaf and Aleppo pepper until evenly combined.",
+    "In a separate bowl, blend the lemon wedges with the chicken stock until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 45 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly."
+  ],
+  "tips": [
+    "Resist opening the oven door too early — a sudden change in temperature can cause the dessert to sink or crack.",
+    "This keeps well for a couple of days in an airtight container, and the flavor often improves overnight."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇹🇷"
+}

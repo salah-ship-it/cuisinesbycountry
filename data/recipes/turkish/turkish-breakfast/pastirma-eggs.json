@@ -1,0 +1,39 @@
+{
+  "slug": "pastirma-eggs",
+  "name": "Pastırmalı Yumurta",
+  "description": "Spiced air-dried beef pastırma slices fried and served with runny eggs, a rich and aromatic Turkish breakfast.",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "400g ground lamb",
+    "300g yufka pastry",
+    "1 tbsp sliced scallions",
+    "1/2 tsp Aleppo pepper",
+    "1/4 cup unsalted butter",
+    "1 cup red onions, sliced",
+    "a handful of fresh parsley, chopped",
+    "pomegranate molasses, for serving",
+    "400ml water",
+    "1/2 tsp sweet paprika",
+    "a generous handful of cucumber"
+  ],
+  "instructions": [
+    "Gather and prep the simit rings and chicken thighs, measuring everything out so it is ready to go.",
+    "Heat olive oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced scallions and ripe tomatoes, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the chicken thighs, season with ground sumac, and cook until just done, about 10 mins.",
+    "Warm the simit rings alongside, turning once, until heated through and lightly toasted.",
+    "Plate the simit rings and spoon the cooked mixture over the top.",
+    "Drizzle with crumbled feta and finish with a sprinkle of mint."
+  ],
+  "tips": [
+    "Prep the simit rings and chicken thighs the night before to make busy mornings much easier.",
+    "A squeeze of citrus or a sprinkle of mint just before serving brightens up the whole plate.",
+    "Keep the heat moderate so the chicken thighs cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇷"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "tartine",
+  "name": "Tartine",
+  "description": "A thick slice of sourdough or baguette toasted and spread with salted butter and fruit confiture.",
+  "prepTime": "5 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "400g sea bass fillets",
+    "1 cup arborio rice",
+    "a handful of sliced leeks",
+    "1/2 tsp herbes de Provence",
+    "3 tbsp unsalted butter",
+    "2 pearl onions, chopped",
+    "a handful of fresh chervil, chopped",
+    "Dijon mustard, to taste",
+    "1 cup dry red wine",
+    "1 tsp bay leaves",
+    "200g ripe tomatoes",
+    "cognac, for serving"
+  ],
+  "instructions": [
+    "Gather and prep the puff pastry and duck legs, measuring everything out so it is ready to go.",
+    "Heat extra-virgin olive oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and button mushrooms, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the duck legs, season with grated nutmeg, and cook until just done, about 5 mins.",
+    "Warm the puff pastry alongside, turning once, until heated through and lightly toasted.",
+    "Plate the puff pastry and spoon the cooked mixture over the top.",
+    "Drizzle with crème fraîche and finish with a sprinkle of chives."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "A squeeze of citrus or a sprinkle of chives just before serving brightens up the whole plate.",
+    "Keep the heat moderate so the duck legs cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇫🇷"
+}

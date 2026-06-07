@@ -1,0 +1,37 @@
+{
+  "slug": "noodle-soup-breakfast",
+  "name": "Wonton Noodle Soup",
+  "description": "Springy egg noodles in a clear shrimp-roe broth topped with plump shrimp wontons—a Hong Kong breakfast institution.",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Medium",
+  "servings": 2,
+  "ingredients": [
+    "500g chicken thighs",
+    "2 cups jasmine rice",
+    "2 tsp minced garlic",
+    "1 1/2 tsp white pepper",
+    "1/4 cup toasted sesame oil",
+    "1 cup bean sprouts, sliced",
+    "a handful of fresh cilantro, chopped",
+    "toasted sesame seeds, to taste"
+  ],
+  "instructions": [
+    "Gather and prep the steamed buns and firm tofu, measuring everything out so it is ready to go.",
+    "Heat toasted sesame oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the minced garlic and scallions, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the firm tofu, season with doubanjiang (chili bean paste), and cook until just done, about 20 mins.",
+    "Warm the steamed buns alongside, turning once, until heated through and lightly toasted.",
+    "Plate the steamed buns and spoon the cooked mixture over the top.",
+    "Drizzle with black vinegar and finish with a sprinkle of cilantro.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "A squeeze of citrus or a sprinkle of cilantro just before serving brightens up the whole plate.",
+    "Prep the steamed buns and firm tofu the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇨🇳"
+}

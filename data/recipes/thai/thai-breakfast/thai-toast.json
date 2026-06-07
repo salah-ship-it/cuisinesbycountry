@@ -1,0 +1,35 @@
+{
+  "slug": "thai-toast",
+  "name": "Khanom Pang Khai",
+  "description": "Thick-cut toast spread with kaya coconut jam and salted butter, a Bangkok café breakfast staple.",
+  "prepTime": "5 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "600g chicken thighs",
+    "400g glutinous rice",
+    "a handful of sliced shallots",
+    "1 1/2 tsp ground turmeric",
+    "3 tbsp neutral vegetable oil",
+    "200g bean sprouts",
+    "a handful of fresh mint, chopped",
+    "a generous spoonful of tamarind paste",
+    "500ml chicken stock"
+  ],
+  "instructions": [
+    "Gather and prep the rice noodles and white fish fillets, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced galangal and Thai bird's eye chilies, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the white fish fillets, season with red curry paste, and cook until just done, about 5 mins.",
+    "Warm the rice noodles alongside, turning once, until heated through and lightly toasted.",
+    "Plate the rice noodles and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Keep the heat moderate so the white fish fillets cooks through gently without drying out or turning rubbery.",
+    "A squeeze of citrus or a sprinkle of mint just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇭"
+}

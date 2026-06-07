@@ -1,0 +1,37 @@
+{
+  "slug": "seffa",
+  "name": "Seffa",
+  "description": "Steamed vermicelli or couscous dusted with powdered sugar, cinnamon, and fried almonds as a sweet course.",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "600g ground beef",
+    "400g crusty bread",
+    "2 tsp sliced shallots",
+    "1 tsp ground turmeric",
+    "2 tbsp butter",
+    "2 potatoes, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of preserved lemon",
+    "500ml vegetable stock",
+    "2 tsp ground cumin",
+    "1 cup ripe tomatoes, sliced"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with olive oil.",
+    "In a large bowl, whisk together the couscous and ground ginger until evenly combined.",
+    "In a separate bowl, blend the dried apricots with the water until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 30 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly."
+  ],
+  "tips": [
+    "Resist opening the oven door too early — a sudden change in temperature can cause the dessert to sink or crack.",
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇲🇦"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mulligatawny",
+  "name": "Mulligatawny Soup",
+  "description": "An Anglo-Indian lentil and chicken soup spiced with curry powder, enriched with coconut milk and apple.",
+  "prepTime": "15 mins",
+  "cookTime": "40 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g red lentils",
+    "300g basmati rice",
+    "a handful of curry leaves",
+    "2 tsp mustard seeds",
+    "1/4 cup neutral vegetable oil",
+    "2 potatoes, chopped",
+    "a handful of fresh cilantro, chopped",
+    "roasted cashews, for serving"
+  ],
+  "instructions": [
+    "Heat ghee in a large pot over medium heat and cook the crushed green cardamom pods and curry leaves gently until soft and fragrant.",
+    "Stir in the ground turmeric and dried fenugreek leaves, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chicken thighs and potatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the coconut milk, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chicken thighs is tender, about 40 mins.",
+    "Stir in the naan bread and continue simmering for a few minutes more, until heated through.",
+    "Finish with the tamarind paste and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Taste and adjust the seasoning right at the end — the coconut milk reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇳"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "sopa-azteca",
+  "name": "Sopa Azteca",
+  "description": "Tortilla soup of crispy fried strips in a smoky tomato-pasilla broth with avocado, sour cream, and cheese.",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g black beans",
+    "2 cups white rice",
+    "2 tbsp rehydrated dried chilies",
+    "2 tsp chili powder",
+    "3 tbsp neutral vegetable oil",
+    "2 white onions, chopped",
+    "a handful of fresh epazote, chopped",
+    "a generous spoonful of Mexican crema",
+    "500ml orange juice",
+    "2 tsp ground cumin",
+    "1 cup red bell peppers, sliced"
+  ],
+  "instructions": [
+    "Heat lard in a large pot over medium heat and cook the rehydrated dried chilies and minced garlic gently until soft and fragrant.",
+    "Stir in the dried oregano and smoked paprika, toasting briefly until the kitchen fills with their aroma.",
+    "Add the black beans and jalapeños, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the black beans is tender, about 30 mins.",
+    "Stir in the white rice and continue simmering for a few minutes more, until heated through.",
+    "Finish with the pickled red onions and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇽"
+}

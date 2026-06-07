@@ -1,0 +1,41 @@
+{
+  "slug": "hot-cakes",
+  "name": "Hot Cakes Mexicanos",
+  "description": "Fluffy Mexican-style pancakes served with cajeta syrup, fresh fruit, and a sprinkle of cinnamon sugar.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg pork shoulder",
+    "2 cups bolillo rolls",
+    "a handful of finely chopped white onion",
+    "1/2 tsp ground cumin",
+    "2 tbsp olive oil",
+    "2 jalapeños, chopped",
+    "a handful of fresh epazote, chopped",
+    "toasted pumpkin seeds, to taste",
+    "2 cups water",
+    "1 tsp chili powder",
+    "200g white onions",
+    "a drizzle of lime wedges"
+  ],
+  "instructions": [
+    "Gather and prep the white rice and pork shoulder, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the rehydrated dried chilies and jalapeños, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the pork shoulder, season with dried oregano, and cook until just done, about 15 mins.",
+    "Warm the white rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the white rice and spoon the cooked mixture over the top.",
+    "Drizzle with pickled red onions and finish with a sprinkle of cilantro.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Keep the heat moderate so the pork shoulder cooks through gently without drying out or turning rubbery.",
+    "A squeeze of citrus or a sprinkle of cilantro just before serving brightens up the whole plate.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇲🇽"
+}

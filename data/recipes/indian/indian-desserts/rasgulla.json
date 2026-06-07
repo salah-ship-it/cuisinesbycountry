@@ -1,0 +1,35 @@
+{
+  "slug": "rasgulla",
+  "name": "Rasgulla",
+  "description": "Delicate spongy chenna cheese balls simmered in light sugar syrup, a Bengali classic light as a cloud.",
+  "prepTime": "30 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Hard",
+  "servings": 12,
+  "ingredients": [
+    "500g chicken thighs",
+    "400g roti",
+    "2 tsp crushed green cardamom pods",
+    "1/2 tsp ground coriander",
+    "1/4 cup neutral vegetable oil",
+    "1 cup potatoes, sliced",
+    "a handful of fresh curry leaves, chopped",
+    "a generous spoonful of tamarind paste"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with ghee.",
+    "In a large bowl, whisk together the idli batter and dried fenugreek leaves until evenly combined.",
+    "In a separate bowl, blend the roasted cashews with the coconut milk until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 20 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with cilantro or a dusting of plain yogurt."
+  ],
+  "tips": [
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting.",
+    "Resist opening the oven door too early — a sudden change in temperature can cause the dessert to sink or crack."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇮🇳"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "yayla-corbasi",
+  "name": "Yayla Çorbası",
+  "description": "A comforting highland yogurt and rice soup tempered with eggs and finished with a mint-butter drizzle.",
+  "prepTime": "10 mins",
+  "cookTime": "25 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg fresh mussels",
+    "1 cup simit rings",
+    "2 tsp minced garlic",
+    "1/2 tsp ground cumin",
+    "1/4 cup unsalted butter",
+    "1 cup eggplant, sliced",
+    "a handful of fresh mint, chopped",
+    "plain yogurt, to taste",
+    "500ml chicken stock",
+    "1 tsp Aleppo pepper"
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and cook the finely chopped red onion and minced garlic gently until soft and fragrant.",
+    "Stir in the ground sumac and dried mint, toasting briefly until the kitchen fills with their aroma.",
+    "Add the beef sirloin and eggplant, stirring well to coat everything in the spiced base.",
+    "Pour in the chicken stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the beef sirloin is tender, about 25 mins.",
+    "Stir in the pide bread and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇷"
+}

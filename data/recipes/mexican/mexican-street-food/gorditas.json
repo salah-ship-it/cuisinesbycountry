@@ -1,0 +1,38 @@
+{
+  "slug": "gorditas",
+  "name": "Gorditas",
+  "description": "Thick stuffed masa cakes split open and filled with beans, cheese, chicharrón, or salsa for a hearty street bite.",
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "1 kg white fish fillets",
+    "300g corn tortillas",
+    "1 tbsp finely chopped white onion",
+    "1 tsp smoked paprika",
+    "1/4 cup olive oil",
+    "a generous handful of avocado",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of toasted pumpkin seeds",
+    "1 cup beef stock",
+    "1/2 tsp ground cinnamon",
+    "2 red bell peppers, chopped"
+  ],
+  "instructions": [
+    "Prepare the pinto beans base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the chicken thighs, tomatillos, rehydrated dried chilies, and ground cumin, mixing well so everything is evenly seasoned.",
+    "Heat lard in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the pinto beans until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the chicken thighs mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the pinto beans with the filling, a spoonful of salsa verde, and a scattering of epazote.",
+    "Add a final touch of pickled red onions for extra flavor and texture."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Keep the lard hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇲🇽"
+}

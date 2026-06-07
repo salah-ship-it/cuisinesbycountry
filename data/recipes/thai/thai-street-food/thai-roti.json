@@ -1,0 +1,38 @@
+{
+  "slug": "thai-roti",
+  "name": "Roti",
+  "description": "A flaky fried roti stretched paper-thin on a hot griddle, folded with egg and banana and drizzled with condensed milk.",
+  "prepTime": "20 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Medium",
+  "servings": 2,
+  "ingredients": [
+    "500g chicken thighs",
+    "400g jasmine rice",
+    "2 tbsp sliced lemongrass",
+    "a pinch of palm sugar",
+    "3 tbsp coconut oil",
+    "a generous handful of Thai eggplant",
+    "a handful of fresh Thai basil, chopped",
+    "fish sauce, to taste",
+    "500ml water",
+    "1 tsp ground turmeric"
+  ],
+  "instructions": [
+    "Prepare the roti dough base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the firm tofu, Thai bird's eye chilies, sliced galangal, and white pepper, mixing well so everything is evenly seasoned.",
+    "Heat neutral vegetable oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the roti dough until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the firm tofu mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the roti dough with the filling, a spoonful of crispy fried shallots, and a scattering of cilantro.",
+    "Add a final touch of lime wedges for extra flavor and texture."
+  ],
+  "tips": [
+    "Keep the neutral vegetable oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇹🇭"
+}

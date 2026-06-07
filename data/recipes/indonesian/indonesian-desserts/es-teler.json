@@ -1,0 +1,34 @@
+{
+  "slug": "es-teler",
+  "name": "Es Teler",
+  "description": "A popular Indonesian dessert drink of avocado, coconut flesh, jackfruit, and sweetened condensed milk over shaved ice.",
+  "prepTime": "10 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "600g tempeh",
+    "2 cups compressed rice cakes (lontong)",
+    "2 tsp sliced shallots",
+    "2 tsp palm sugar",
+    "1/4 cup coconut oil",
+    "200g bean sprouts",
+    "a handful of fresh Thai basil, chopped",
+    "kecap manis (sweet soy sauce), to taste"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with coconut oil.",
+    "In a large bowl, whisk together the rice noodles and tamarind paste until evenly combined.",
+    "In a separate bowl, blend the crispy fried shallots with the chicken stock until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 0 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly."
+  ],
+  "tips": [
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting.",
+    "Bring your crispy fried shallots to room temperature before mixing for a smoother, more even texture."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇮🇩"
+}

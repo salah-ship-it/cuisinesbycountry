@@ -1,0 +1,37 @@
+{
+  "slug": "tsukemono",
+  "name": "Tsukemono",
+  "description": "An array of Japanese pickled vegetables—cucumber, daikon, and plum—that cleanse the palate at breakfast.",
+  "prepTime": "10 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g pork loin",
+    "300g ramen noodles",
+    "a handful of grated fresh ginger",
+    "1 1/2 tsp wasabi paste",
+    "3 tbsp toasted sesame oil",
+    "200g napa cabbage",
+    "a handful of fresh mitsuba, chopped",
+    "soy sauce, to taste",
+    "400ml dashi stock",
+    "2 tsp shichimi togarashi"
+  ],
+  "instructions": [
+    "Gather and prep the short-grain rice and large prawns, measuring everything out so it is ready to go.",
+    "Heat toasted sesame oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the grated fresh ginger and bean sprouts, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the large prawns, season with wasabi paste, and cook until just done, about 0 mins.",
+    "Warm the short-grain rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the short-grain rice and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "A squeeze of citrus or a sprinkle of shiso leaves just before serving brightens up the whole plate.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Keep the heat moderate so the large prawns cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇯🇵"
+}

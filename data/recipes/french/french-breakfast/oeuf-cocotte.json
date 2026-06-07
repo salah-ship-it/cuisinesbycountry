@@ -1,0 +1,36 @@
+{
+  "slug": "oeuf-cocotte",
+  "name": "Œuf Cocotte",
+  "description": "An egg baked in a ramekin with a spoon of cream and herbs until the white just sets around a still-runny yolk.",
+  "prepTime": "5 mins",
+  "cookTime": "12 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg sea bass fillets",
+    "300g puff pastry",
+    "2 tbsp sliced shallots",
+    "2 tsp grated nutmeg",
+    "2 tbsp extra-virgin olive oil",
+    "1 cup pearl onions, sliced",
+    "a handful of fresh chervil, chopped",
+    "a drizzle of cognac",
+    "2 cups beef stock"
+  ],
+  "instructions": [
+    "Gather and prep the puff pastry and sea bass fillets, measuring everything out so it is ready to go.",
+    "Heat extra-virgin olive oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced leeks and ripe tomatoes, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the sea bass fillets, season with cracked black peppercorns, and cook until just done, about 12 mins.",
+    "Warm the puff pastry alongside, turning once, until heated through and lightly toasted.",
+    "Plate the puff pastry and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Keep the heat moderate so the sea bass fillets cooks through gently without drying out or turning rubbery.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "Prep the puff pastry and sea bass fillets the night before to make busy mornings much easier."
+  ],
+  "cuisineName": "French Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇫🇷"
+}

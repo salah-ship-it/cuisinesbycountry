@@ -1,0 +1,36 @@
+{
+  "slug": "moroccan-tomato-soup",
+  "name": "Moroccan Tomato Soup",
+  "description": "A velvety roasted tomato soup brightened with chermoula spices and topped with a drizzle of argan oil.",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g lamb shanks",
+    "400g crusty bread",
+    "2 tbsp finely chopped red onion",
+    "1 tsp ground turmeric",
+    "2 tbsp olive oil",
+    "1 cup ripe tomatoes, sliced",
+    "a handful of fresh cilantro, chopped",
+    "preserved lemon, for serving"
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and cook the sliced shallots and finely chopped red onion gently until soft and fragrant.",
+    "Stir in the ground cumin and ground ginger, toasting briefly until the kitchen fills with their aroma.",
+    "Add the lamb shoulder and red bell peppers, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the lamb shoulder is tender, about 30 mins.",
+    "Stir in the couscous and continue simmering for a few minutes more, until heated through.",
+    "Finish with the dried apricots and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the cilantro, and serve piping hot."
+  ],
+  "tips": [
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Taste and adjust the seasoning right at the end — the water reduces as it simmers, concentrating the flavor."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇦"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "nasi-lemak-indonesian",
+  "name": "Nasi Lemak",
+  "description": "Coconut milk rice wrapped in banana leaf and served with sambal, fried anchovies, cucumber, and boiled egg.",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "500g firm tofu",
+    "400g compressed rice cakes (lontong)",
+    "2 tbsp grated fresh ginger",
+    "1 tsp palm sugar",
+    "3 tbsp neutral vegetable oil",
+    "200g long beans",
+    "a handful of fresh kaffir lime leaves, chopped",
+    "kecap manis (sweet soy sauce), to taste",
+    "400ml coconut milk",
+    "2 tsp crushed candlenuts",
+    "a generous handful of bean sprouts"
+  ],
+  "instructions": [
+    "Gather and prep the jasmine rice and large prawns, measuring everything out so it is ready to go.",
+    "Heat coconut oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the grated fresh ginger and long beans, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the large prawns, season with ground turmeric, and cook until just done, about 30 mins.",
+    "Warm the jasmine rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the jasmine rice and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast.",
+    "A squeeze of citrus or a sprinkle of Thai basil just before serving brightens up the whole plate."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇩"
+}

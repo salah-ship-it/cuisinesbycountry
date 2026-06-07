@@ -1,0 +1,37 @@
+{
+  "slug": "baozi",
+  "name": "Baozi",
+  "description": "Fluffy steamed buns filled with char siu pork, minced pork, or red bean paste, sold hot from bamboo steamers.",
+  "prepTime": "30 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "500g firm tofu",
+    "2 cups wonton wrappers",
+    "a handful of minced garlic",
+    "2 tsp chili oil",
+    "2 tbsp neutral vegetable oil",
+    "1 cup napa cabbage, sliced",
+    "a handful of fresh scallion greens, chopped",
+    "Shaoxing wine, for serving"
+  ],
+  "instructions": [
+    "Prepare the jasmine rice base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the chicken thighs, bamboo shoots, minced garlic, and five-spice powder, mixing well so everything is evenly seasoned.",
+    "Heat toasted sesame oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the jasmine rice until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the chicken thighs mixture until cooked through and lightly charred at the edges, about 15 mins.",
+    "Assemble by layering the jasmine rice with the filling, a spoonful of toasted sesame oil, and a scattering of cilantro.",
+    "Add a final touch of oyster sauce for extra flavor and texture.",
+    "Serve immediately while hot, with extra toasted sesame oil on the side for dipping or drizzling."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Double the toasted sesame oil so you have plenty for dipping — it tends to disappear fast."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇨🇳"
+}

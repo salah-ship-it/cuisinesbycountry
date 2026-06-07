@@ -1,0 +1,36 @@
+{
+  "slug": "sesame-balls",
+  "name": "Sesame Balls",
+  "description": "Chewy fried glutinous rice spheres coated in sesame seeds and filled with lotus paste or red bean—a dim sum classic.",
+  "prepTime": "25 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "1 kg whole duck",
+    "400g glutinous rice",
+    "2 tbsp minced garlic",
+    "1 1/2 tsp star anise",
+    "3 tbsp toasted sesame oil",
+    "2 bean sprouts, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of soy sauce",
+    "500ml water",
+    "1/2 tsp doubanjiang (chili bean paste)"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with toasted sesame oil.",
+    "In a large bowl, whisk together the egg noodles and chili oil until evenly combined.",
+    "In a separate bowl, blend the toasted sesame seeds with the pork stock until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 10 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly."
+  ],
+  "tips": [
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting.",
+    "This keeps well for a couple of days in an airtight container, and the flavor often improves overnight."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇨🇳"
+}

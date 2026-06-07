@@ -1,0 +1,39 @@
+{
+  "slug": "ezogelin-corbasi",
+  "name": "Ezogelin Çorbası",
+  "description": "A warming red lentil and bulgur soup with tomato paste, dried mint, and paprika, named after a bride of legend.",
+  "prepTime": "10 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g ground lamb",
+    "300g bulgur wheat",
+    "2 tsp minced garlic",
+    "1 tsp cracked black pepper",
+    "2 tbsp unsalted butter",
+    "200g green peppers",
+    "a handful of fresh mint, chopped",
+    "butter-fried pita, for serving",
+    "400ml beef stock",
+    "1 1/2 tsp ground sumac",
+    "200g eggplant",
+    "a drizzle of pomegranate molasses"
+  ],
+  "instructions": [
+    "Heat unsalted butter in a large pot over medium heat and cook the finely chopped red onion and sliced scallions gently until soft and fragrant.",
+    "Stir in the Aleppo pepper and ground sumac, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chicken thighs and red onions, stirring well to coat everything in the spiced base.",
+    "Pour in the beef stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chicken thighs is tender, about 30 mins.",
+    "Stir in the yufka pastry and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the beef stock reduces as it simmers, concentrating the flavor.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇹🇷"
+}

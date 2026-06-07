@@ -1,0 +1,37 @@
+{
+  "slug": "birria",
+  "name": "Birria de Res",
+  "description": "Jalisco-style beef slow-cooked in a dried chili adobo until falling apart, served in its rich consommé broth.",
+  "prepTime": "30 mins",
+  "cookTime": "3 hrs",
+  "difficulty": "Hard",
+  "servings": 8,
+  "ingredients": [
+    "600g black beans",
+    "400g masa dough",
+    "a handful of minced garlic",
+    "1/2 tsp smoked paprika",
+    "1/4 cup neutral vegetable oil",
+    "200g red bell peppers",
+    "a handful of fresh epazote, chopped",
+    "toasted pumpkin seeds, for serving",
+    "400ml orange juice"
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and cook the minced garlic and rehydrated dried chilies gently until soft and fragrant.",
+    "Stir in the ground cinnamon and dried oregano, toasting briefly until the kitchen fills with their aroma.",
+    "Add the pork shoulder and tomatillos, stirring well to coat everything in the spiced base.",
+    "Pour in the orange juice, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the pork shoulder is tender, about 3 hrs.",
+    "Stir in the pinto beans and continue simmering for a few minutes more, until heated through.",
+    "Finish with the Mexican crema and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the orange juice reduces as it simmers, concentrating the flavor.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇽"
+}

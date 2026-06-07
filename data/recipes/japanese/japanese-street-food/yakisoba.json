@@ -1,0 +1,36 @@
+{
+  "slug": "yakisoba",
+  "name": "Yakisoba",
+  "description": "Stir-fried buckwheat noodles tossed with pork, cabbage, and a tangy Worcester-based sauce, topped with pickled ginger.",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "400g firm tofu",
+    "400g ramen noodles",
+    "1 tbsp grated fresh ginger",
+    "a pinch of white sesame seeds",
+    "1/4 cup neutral vegetable oil",
+    "200g napa cabbage",
+    "a handful of fresh chives, chopped",
+    "toasted sesame oil, to taste"
+  ],
+  "instructions": [
+    "Prepare the soba noodles base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the fresh salmon fillets, scallions, minced garlic, and wasabi paste, mixing well so everything is evenly seasoned.",
+    "Heat toasted sesame oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the soba noodles until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the fresh salmon fillets mixture until cooked through and lightly charred at the edges, about 10 mins.",
+    "Assemble by layering the soba noodles with the filling, a spoonful of pickled ginger, and a scattering of chives.",
+    "Add a final touch of toasted sesame oil for extra flavor and texture."
+  ],
+  "tips": [
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Double the pickled ginger so you have plenty for dipping — it tends to disappear fast.",
+    "Keep the toasted sesame oil hot but not smoking — a thermometer helps you nail the perfect frying or grilling temperature."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇯🇵"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "dorayaki",
+  "name": "Dorayaki",
+  "description": "Two fluffy honey pancakes sandwiched together with a generous filling of sweet azuki red bean paste.",
+  "prepTime": "15 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Easy",
+  "servings": 6,
+  "ingredients": [
+    "400g sushi-grade tuna",
+    "1 cup nori sheets",
+    "a handful of grated fresh ginger",
+    "2 tsp wasabi paste",
+    "2 tbsp toasted sesame oil",
+    "1 cup napa cabbage, sliced",
+    "a handful of fresh chives, chopped",
+    "a drizzle of mirin",
+    "2 cups water",
+    "1 1/2 tsp shichimi togarashi",
+    "200g shiitake mushrooms"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with neutral vegetable oil.",
+    "In a large bowl, whisk together the ramen noodles and cracked black pepper until evenly combined.",
+    "In a separate bowl, blend the soy sauce with the water until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 20 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with chives or a dusting of sake."
+  ],
+  "tips": [
+    "This keeps well for a couple of days in an airtight container, and the flavor often improves overnight.",
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇯🇵"
+}

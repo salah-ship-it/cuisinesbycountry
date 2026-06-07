@@ -1,0 +1,35 @@
+{
+  "slug": "pa-thong-ko",
+  "name": "Pa Thong Ko",
+  "description": "Deep-fried Chinese-style dough fritters that puff into twin sticks, dipped in condensed milk or pandan custard.",
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "400g white fish fillets",
+    "300g rice vermicelli",
+    "1 tbsp sliced galangal",
+    "a pinch of red curry paste",
+    "3 tbsp neutral vegetable oil",
+    "a generous handful of snake beans",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of crispy fried shallots",
+    "500ml chicken stock"
+  ],
+  "instructions": [
+    "Gather and prep the rice noodles and white fish fillets, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the torn kaffir lime leaves and cherry tomatoes, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the white fish fillets, season with ground turmeric, and cook until just done, about 15 mins.",
+    "Warm the rice noodles alongside, turning once, until heated through and lightly toasted.",
+    "Plate the rice noodles and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Prep the rice noodles and white fish fillets the night before to make busy mornings much easier.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Thai Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇹🇭"
+}

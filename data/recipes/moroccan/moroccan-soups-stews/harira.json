@@ -1,0 +1,38 @@
+{
+  "slug": "harira",
+  "name": "Harira",
+  "description": "Morocco's beloved tomato, lentil, and chickpea soup spiced with ginger and cinnamon, traditionally served to break the Ramadan fast.",
+  "prepTime": "20 mins",
+  "cookTime": "1 hr",
+  "difficulty": "Medium",
+  "servings": 6,
+  "ingredients": [
+    "400g chickpeas",
+    "1 cup flatbread",
+    "2 tbsp minced garlic",
+    "1 tsp ground cinnamon",
+    "1/4 cup smen (preserved butter)",
+    "2 red onions, chopped",
+    "a handful of fresh cilantro, chopped",
+    "a drizzle of dried apricots",
+    "400ml chicken stock",
+    "1/2 tsp ground cumin",
+    "a generous handful of carrots",
+    "honey, for serving"
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat and cook the minced garlic and grated fresh ginger gently until soft and fragrant.",
+    "Stir in the harissa paste and ground cumin, toasting briefly until the kitchen fills with their aroma.",
+    "Add the merguez sausage and zucchini, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the merguez sausage is tender, about 1 hr.",
+    "Stir in the crusty bread and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the water reduces as it simmers, concentrating the flavor.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇦"
+}

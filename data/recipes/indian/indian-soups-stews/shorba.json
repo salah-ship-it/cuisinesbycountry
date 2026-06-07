@@ -1,0 +1,38 @@
+{
+  "slug": "shorba",
+  "name": "Shorba",
+  "description": "An aromatic spiced broth of chicken or lamb simmered with ginger, coriander, and warming whole spices.",
+  "prepTime": "10 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g chickpeas",
+    "300g idli batter",
+    "2 tsp crushed green cardamom pods",
+    "1 tsp red chili powder",
+    "2 tbsp ghee",
+    "a generous handful of potatoes",
+    "a handful of fresh cilantro, chopped",
+    "a generous spoonful of heavy cream",
+    "1 cup water",
+    "2 tsp ground coriander"
+  ],
+  "instructions": [
+    "Heat neutral vegetable oil in a large pot over medium heat and cook the curry leaves and grated fresh ginger gently until soft and fragrant.",
+    "Stir in the red chili powder and ground cumin, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chickpeas and ripe tomatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the whole milk, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chickpeas is tender, about 30 mins.",
+    "Stir in the flattened rice (poha) and continue simmering for a few minutes more, until heated through.",
+    "Finish with the heavy cream and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the curry leaves, and serve piping hot."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the whole milk reduces as it simmers, concentrating the flavor.",
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇳"
+}

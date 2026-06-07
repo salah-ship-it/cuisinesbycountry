@@ -1,0 +1,34 @@
+{
+  "slug": "jidan-bing",
+  "name": "Jidan Bing",
+  "description": "A thin mung bean crepe folded with egg, scallion, and fermented black bean paste for a savory breakfast parcel.",
+  "prepTime": "10 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "700g whole duck",
+    "2 cups egg noodles",
+    "a handful of grated fresh ginger",
+    "a pinch of doubanjiang (chili bean paste)",
+    "2 tbsp neutral vegetable oil",
+    "a generous handful of scallions",
+    "a handful of fresh cilantro, chopped",
+    "Shaoxing wine, for serving"
+  ],
+  "instructions": [
+    "Gather and prep the glutinous rice and chicken thighs, measuring everything out so it is ready to go.",
+    "Heat toasted sesame oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the grated fresh ginger and bok choy, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the chicken thighs, season with star anise, and cook until just done, about 5 mins.",
+    "Warm the glutinous rice alongside, turning once, until heated through and lightly toasted.",
+    "Plate the glutinous rice and spoon the cooked mixture over the top."
+  ],
+  "tips": [
+    "Prep the glutinous rice and chicken thighs the night before to make busy mornings much easier.",
+    "Keep the heat moderate so the chicken thighs cooks through gently without drying out or turning rubbery."
+  ],
+  "cuisineName": "Chinese Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇨🇳"
+}

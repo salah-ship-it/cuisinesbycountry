@@ -1,0 +1,41 @@
+{
+  "slug": "spiced-pumpkin-soup",
+  "name": "Spiced Pumpkin Soup",
+  "description": "Silky pumpkin blended with ginger, cinnamon, and harissa for a warmly spiced Moroccan autumn soup.",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "500g lamb shanks",
+    "1 cup couscous",
+    "1 tbsp sliced shallots",
+    "1 tsp harissa paste",
+    "1/4 cup butter",
+    "a generous handful of red onions",
+    "a handful of fresh parsley, chopped",
+    "a generous spoonful of toasted almonds",
+    "1 cup water",
+    "1/2 tsp ras el hanout",
+    "200g butternut squash",
+    "a drizzle of pitted dates"
+  ],
+  "instructions": [
+    "Heat smen (preserved butter) in a large pot over medium heat and cook the grated fresh ginger and minced garlic gently until soft and fragrant.",
+    "Stir in the saffron threads and ground ginger, toasting briefly until the kitchen fills with their aroma.",
+    "Add the ground beef and potatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the ground beef is tender, about 30 mins.",
+    "Stir in the crusty bread and continue simmering for a few minutes more, until heated through.",
+    "Finish with the green olives and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the mint, and serve piping hot."
+  ],
+  "tips": [
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth.",
+    "Taste and adjust the seasoning right at the end — the water reduces as it simmers, concentrating the flavor.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇦"
+}

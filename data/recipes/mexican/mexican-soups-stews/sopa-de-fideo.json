@@ -1,0 +1,40 @@
+{
+  "slug": "sopa-de-fideo",
+  "name": "Sopa de Fideo",
+  "description": "Toasted thin noodles simmered in a tomato and garlic broth, Mexico's quick and comforting weeknight soup.",
+  "prepTime": "10 mins",
+  "cookTime": "20 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "1 kg black beans",
+    "400g bolillo rolls",
+    "a handful of finely chopped white onion",
+    "2 tsp ground cumin",
+    "1/4 cup neutral vegetable oil",
+    "a generous handful of white onions",
+    "a handful of fresh cilantro, chopped",
+    "crumbled cotija cheese, for serving",
+    "1 cup beef stock",
+    "1 tsp ground cinnamon",
+    "1 cup avocado, sliced",
+    "salsa verde, to taste"
+  ],
+  "instructions": [
+    "Heat lard in a large pot over medium heat and cook the rehydrated dried chilies and finely chopped white onion gently until soft and fragrant.",
+    "Stir in the smoked paprika and chili powder, toasting briefly until the kitchen fills with their aroma.",
+    "Add the black beans and tomatillos, stirring well to coat everything in the spiced base.",
+    "Pour in the water, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the black beans is tender, about 20 mins.",
+    "Stir in the masa dough and continue simmering for a few minutes more, until heated through.",
+    "Finish with the lime wedges and adjust the seasoning to taste."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "This freezes well; portion into containers and reheat gently on the stovetop for a quick meal later.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇲🇽"
+}

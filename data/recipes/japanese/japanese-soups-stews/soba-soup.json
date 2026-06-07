@@ -1,0 +1,36 @@
+{
+  "slug": "soba-soup",
+  "name": "Soba Noodle Soup",
+  "description": "Earthy buckwheat soba noodles served hot in a subtly smoky tsuyu broth with nori and a sprinkle of wasabi.",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "700g thinly sliced beef",
+    "400g soba noodles",
+    "1 tbsp grated fresh ginger",
+    "2 tsp white sesame seeds",
+    "1/4 cup neutral vegetable oil",
+    "a generous handful of shiitake mushrooms",
+    "a handful of fresh mitsuba, chopped",
+    "mirin, for serving",
+    "2 cups dashi stock",
+    "1 tsp wasabi paste"
+  ],
+  "instructions": [
+    "Heat toasted sesame oil in a large pot over medium heat and cook the sliced scallion whites and grated fresh ginger gently until soft and fragrant.",
+    "Stir in the wasabi paste and cracked black pepper, toasting briefly until the kitchen fills with their aroma.",
+    "Add the pork loin and shiitake mushrooms, stirring well to coat everything in the spiced base.",
+    "Pour in the dashi stock, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the pork loin is tender, about 15 mins.",
+    "Stir in the nori sheets and continue simmering for a few minutes more, until heated through."
+  ],
+  "tips": [
+    "Taste and adjust the seasoning right at the end — the dashi stock reduces as it simmers, concentrating the flavor.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Japanese Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇯🇵"
+}

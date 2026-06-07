@@ -1,0 +1,36 @@
+{
+  "slug": "tiramisu",
+  "name": "Tiramisù",
+  "description": "Classic Italian dessert of espresso-soaked ladyfingers layered with mascarpone cream and dusted with cocoa powder.",
+  "prepTime": "30 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Medium",
+  "servings": 8,
+  "ingredients": [
+    "600g pancetta",
+    "1 cup pizza dough",
+    "2 tsp sliced leeks",
+    "1/2 tsp dried oregano",
+    "2 tbsp unsalted butter",
+    "a generous handful of baby spinach",
+    "a handful of fresh sage, chopped",
+    "extra-virgin olive oil, for serving",
+    "500ml whole milk"
+  ],
+  "instructions": [
+    "Preheat your oven (or set up your steamer or frying station) and lightly grease your pan or molds with extra-virgin olive oil.",
+    "In a large bowl, whisk together the fresh lasagna sheets and red pepper flakes until evenly combined.",
+    "In a separate bowl, blend the pine nuts with the dry white wine until smooth and well incorporated.",
+    "Gently fold the wet mixture into the dry ingredients, taking care not to overmix.",
+    "Transfer everything to your prepared pan or molds and cook — bake, steam, chill, or fry — until set, about 0 mins.",
+    "Remove from the heat and let it cool completely; this helps the texture firm up perfectly.",
+    "Garnish with rosemary or a dusting of mascarpone."
+  ],
+  "tips": [
+    "For the cleanest slices, chill the finished dessert thoroughly before cutting.",
+    "Bring your pine nuts to room temperature before mixing for a smoother, more even texture."
+  ],
+  "cuisineName": "Italian Cuisine",
+  "categoryName": "Desserts",
+  "countryFlag": "🇮🇹"
+}

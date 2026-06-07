@@ -1,0 +1,36 @@
+{
+  "slug": "nasi-uduk",
+  "name": "Nasi Uduk",
+  "description": "Fragrant coconut milk rice cooked with lemongrass and bay leaf, served with fried chicken, tempe, and sambal.",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "700g firm tofu",
+    "400g compressed rice cakes (lontong)",
+    "1 tbsp sliced shallots",
+    "1 tsp crushed candlenuts",
+    "1/4 cup coconut oil",
+    "2 bean sprouts, chopped",
+    "a handful of fresh kaffir lime leaves, chopped",
+    "a generous spoonful of sambal"
+  ],
+  "instructions": [
+    "Gather and prep the compressed rice cakes (lontong) and beef shin, measuring everything out so it is ready to go.",
+    "Heat neutral vegetable oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced galangal and shallots, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the beef shin, season with ground turmeric, and cook until just done, about 30 mins.",
+    "Warm the compressed rice cakes (lontong) alongside, turning once, until heated through and lightly toasted.",
+    "Plate the compressed rice cakes (lontong) and spoon the cooked mixture over the top.",
+    "Drizzle with roasted peanuts and finish with a sprinkle of kaffir lime leaves.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Keep the heat moderate so the beef shin cooks through gently without drying out or turning rubbery.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇩"
+}

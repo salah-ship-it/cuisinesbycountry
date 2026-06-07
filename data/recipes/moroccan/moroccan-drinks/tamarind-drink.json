@@ -1,0 +1,39 @@
+{
+  "slug": "tamarind-drink",
+  "name": "Tamarind Drink",
+  "description": "A tangy-sweet cold beverage made from tamarind pulp dissolved in water and sweetened to balance its tartness.",
+  "prepTime": "10 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "700g lamb shanks",
+    "2 cups flatbread",
+    "2 tsp grated fresh ginger",
+    "1 tsp saffron threads",
+    "3 tbsp olive oil",
+    "2 butternut squash, chopped",
+    "a handful of fresh mint, chopped",
+    "a drizzle of preserved lemon",
+    "400ml chicken stock",
+    "2 tsp ground turmeric"
+  ],
+  "instructions": [
+    "Combine the flatbread and vegetable stock in a saucepan, blender, or pitcher, stirring well.",
+    "Add the sweet paprika and green olives, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 5 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with toasted almonds, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot.",
+    "Garnish with parsley just before serving.",
+    "Pour into your favorite glass or cup and enjoy."
+  ],
+  "tips": [
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil.",
+    "Serve in a chilled glass for the most refreshing result on a hot day.",
+    "Make a big batch and keep it chilled in the fridge — the flavor often deepens after a few hours."
+  ],
+  "cuisineName": "Moroccan Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇲🇦"
+}

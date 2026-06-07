@@ -1,0 +1,39 @@
+{
+  "slug": "masala-dosa",
+  "name": "Masala Dosa",
+  "description": "A crispy, wafer-thin fermented crepe from South India filled with spiced potato masala and served with chutneys.",
+  "prepTime": "20 mins",
+  "cookTime": "10 mins",
+  "difficulty": "Medium",
+  "servings": 4,
+  "ingredients": [
+    "400g chickpeas",
+    "300g semolina",
+    "a handful of minced garlic",
+    "1 1/2 tsp garam masala",
+    "3 tbsp ghee",
+    "1 cup potatoes, sliced",
+    "a handful of fresh mint, chopped",
+    "roasted cashews, for serving",
+    "2 cups coconut milk",
+    "1 tsp ground coriander",
+    "2 green chilies, chopped"
+  ],
+  "instructions": [
+    "Gather and prep the flattened rice (poha) and chicken thighs, measuring everything out so it is ready to go.",
+    "Heat ghee in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the curry leaves and cauliflower florets, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the chicken thighs, season with red chili powder, and cook until just done, about 10 mins.",
+    "Warm the flattened rice (poha) alongside, turning once, until heated through and lightly toasted.",
+    "Plate the flattened rice (poha) and spoon the cooked mixture over the top.",
+    "Drizzle with lemon wedges and finish with a sprinkle of mint.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Prep the flattened rice (poha) and chicken thighs the night before to make busy mornings much easier.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇳"
+}

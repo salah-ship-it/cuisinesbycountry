@@ -1,0 +1,39 @@
+{
+  "slug": "roti-bakar",
+  "name": "Roti Bakar",
+  "description": "Indonesian toast griddled in butter and spread with kaya jam, chocolate sprinkles, or cheese and condensed milk.",
+  "prepTime": "5 mins",
+  "cookTime": "5 mins",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "1 kg firm tofu",
+    "400g compressed rice cakes (lontong)",
+    "a handful of sliced galangal",
+    "1/2 tsp ground turmeric",
+    "2 tbsp neutral vegetable oil",
+    "200g chayote",
+    "a handful of fresh Thai basil, chopped",
+    "lime wedges, for serving",
+    "1 cup tamarind water",
+    "1 1/2 tsp crushed candlenuts"
+  ],
+  "instructions": [
+    "Gather and prep the rice noodles and tempeh, measuring everything out so it is ready to go.",
+    "Heat coconut oil in a non-stick pan over medium heat until warm but not smoking.",
+    "Add the sliced lemongrass and long beans, cooking gently until softened, about 3-4 minutes.",
+    "Stir in the tempeh, season with coriander seeds, and cook until just done, about 5 mins.",
+    "Warm the rice noodles alongside, turning once, until heated through and lightly toasted.",
+    "Plate the rice noodles and spoon the cooked mixture over the top.",
+    "Drizzle with lime wedges and finish with a sprinkle of kaffir lime leaves.",
+    "Serve immediately while everything is warm."
+  ],
+  "tips": [
+    "Keep the heat moderate so the tempeh cooks through gently without drying out or turning rubbery.",
+    "A squeeze of citrus or a sprinkle of kaffir lime leaves just before serving brightens up the whole plate.",
+    "Make a double batch — leftovers reheat beautifully for a quick weekday breakfast."
+  ],
+  "cuisineName": "Indonesian Cuisine",
+  "categoryName": "Breakfast",
+  "countryFlag": "🇮🇩"
+}

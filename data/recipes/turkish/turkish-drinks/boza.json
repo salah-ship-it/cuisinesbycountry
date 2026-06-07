@@ -1,0 +1,38 @@
+{
+  "slug": "boza",
+  "name": "Boza",
+  "description": "A thick, mildly fermented wheat drink with a sweet-sour taste, served with roasted chickpeas in winter streets.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "400g fresh mussels",
+    "400g bulgur wheat",
+    "a handful of finely chopped red onion",
+    "2 tsp Aleppo pepper",
+    "3 tbsp unsalted butter",
+    "a generous handful of baby potatoes",
+    "a handful of fresh parsley, chopped",
+    "butter-fried pita, to taste",
+    "1 cup beef stock",
+    "2 tsp dried mint",
+    "2 cucumber, chopped"
+  ],
+  "instructions": [
+    "Combine the rice pilaf and beef stock in a saucepan, blender, or pitcher, stirring well.",
+    "Add the ground sumac and crumbled feta, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 0 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with pomegranate molasses, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot."
+  ],
+  "tips": [
+    "If serving warm, gently reheat just before pouring rather than letting it come to a boil.",
+    "Adjust the sweetness gradually, tasting as you go — you can always add more pomegranate molasses, but you cannot take it away.",
+    "Serve in a chilled glass for the most refreshing result on a hot day."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇹🇷"
+}

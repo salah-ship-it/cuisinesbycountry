@@ -1,0 +1,38 @@
+{
+  "slug": "kumpir",
+  "name": "Kumpir",
+  "description": "A giant baked potato split and mashed with butter and cheese, then piled with endless toppings of your choice.",
+  "prepTime": "10 mins",
+  "cookTime": "1 hr",
+  "difficulty": "Easy",
+  "servings": 2,
+  "ingredients": [
+    "500g beef sirloin",
+    "2 cups rice pilaf",
+    "2 tbsp minced garlic",
+    "1 tsp Aleppo pepper",
+    "3 tbsp unsalted butter",
+    "2 ripe tomatoes, chopped",
+    "a handful of fresh parsley, chopped",
+    "lemon wedges, to taste",
+    "500ml beef stock",
+    "1 1/2 tsp ground sumac",
+    "1 cup cucumber, sliced"
+  ],
+  "instructions": [
+    "Prepare the rice pilaf base and set it aside to rest while you get the filling ready.",
+    "In a bowl, combine the beef sirloin, baby potatoes, sliced scallions, and ground sumac, mixing well so everything is evenly seasoned.",
+    "Heat olive oil in a skillet, wok, or on a griddle over medium-high heat until shimmering.",
+    "Cook the rice pilaf until lightly golden on each side, then transfer to a warm plate.",
+    "Fry, grill, or steam the beef sirloin mixture until cooked through and lightly charred at the edges, about 1 hr.",
+    "Assemble by layering the rice pilaf with the filling, a spoonful of lemon wedges, and a scattering of dill."
+  ],
+  "tips": [
+    "Serve immediately for the best contrast between a crisp exterior and a warm, tender filling.",
+    "Prep all your fillings and toppings before you start cooking, since this dish comes together quickly once the heat is on.",
+    "Double the lemon wedges so you have plenty for dipping — it tends to disappear fast."
+  ],
+  "cuisineName": "Turkish Cuisine",
+  "categoryName": "Street Food",
+  "countryFlag": "🇹🇷"
+}

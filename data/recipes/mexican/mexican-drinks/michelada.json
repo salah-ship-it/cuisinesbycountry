@@ -1,0 +1,34 @@
+{
+  "slug": "michelada",
+  "name": "Michelada",
+  "description": "A savory beer cocktail of Mexican lager, lime juice, hot sauce, and Worcestershire served over ice in a chili-salt rim.",
+  "prepTime": "5 mins",
+  "cookTime": "0 mins",
+  "difficulty": "Easy",
+  "servings": 1,
+  "ingredients": [
+    "600g black beans",
+    "400g white rice",
+    "1 tbsp rehydrated dried chilies",
+    "2 tsp chili powder",
+    "3 tbsp neutral vegetable oil",
+    "a generous handful of white onions",
+    "a handful of fresh epazote, chopped",
+    "a generous spoonful of salsa verde"
+  ],
+  "instructions": [
+    "Combine the pinto beans and beef stock in a saucepan, blender, or pitcher, stirring well.",
+    "Add the ground cinnamon and lime wedges, stirring gently so their flavor infuses the mixture.",
+    "Heat gently over low heat (or blend, or steep, depending on the drink) until well combined and fragrant, about 0 mins.",
+    "Strain through a fine sieve to remove any solids, if needed.",
+    "Sweeten to taste with toasted pumpkin seeds, adjusting gradually until the balance feels right.",
+    "Chill in the refrigerator, or pour straight over ice, depending on whether it is served cold or hot."
+  ],
+  "tips": [
+    "Adjust the sweetness gradually, tasting as you go — you can always add more toasted pumpkin seeds, but you cannot take it away.",
+    "Serve in a chilled glass for the most refreshing result on a hot day."
+  ],
+  "cuisineName": "Mexican Cuisine",
+  "categoryName": "Drinks",
+  "countryFlag": "🇲🇽"
+}

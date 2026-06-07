@@ -1,0 +1,38 @@
+{
+  "slug": "dal-tadka",
+  "name": "Dal Tadka",
+  "description": "Yellow toor lentils cooked until creamy, finished with a sizzling tarka of ghee, cumin, garlic, and dried chilies.",
+  "prepTime": "10 mins",
+  "cookTime": "35 mins",
+  "difficulty": "Easy",
+  "servings": 4,
+  "ingredients": [
+    "600g paneer cubes",
+    "400g idli batter",
+    "2 tbsp crushed green cardamom pods",
+    "a pinch of dried fenugreek leaves",
+    "2 tbsp ghee",
+    "200g potatoes",
+    "a handful of fresh mint, chopped",
+    "a generous spoonful of lemon wedges",
+    "400ml water",
+    "2 tsp ground cumin"
+  ],
+  "instructions": [
+    "Heat ghee in a large pot over medium heat and cook the crushed green cardamom pods and minced garlic gently until soft and fragrant.",
+    "Stir in the red chili powder and dried fenugreek leaves, toasting briefly until the kitchen fills with their aroma.",
+    "Add the chickpeas and ripe tomatoes, stirring well to coat everything in the spiced base.",
+    "Pour in the coconut milk, scraping up any browned bits from the bottom of the pot, and bring to a boil.",
+    "Reduce the heat, cover, and let everything simmer gently until the chickpeas is tender, about 35 mins.",
+    "Stir in the semolina and continue simmering for a few minutes more, until heated through.",
+    "Finish with the tamarind paste and adjust the seasoning to taste.",
+    "Ladle into bowls, scatter over the cilantro, and serve piping hot."
+  ],
+  "tips": [
+    "Letting the pot rest for 10 minutes off the heat allows the flavors to deepen before serving.",
+    "Skim off any foam that rises during the first few minutes of simmering for a clearer, cleaner broth."
+  ],
+  "cuisineName": "Indian Cuisine",
+  "categoryName": "Soups & Stews",
+  "countryFlag": "🇮🇳"
+}
