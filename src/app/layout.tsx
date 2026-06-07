@@ -38,6 +38,9 @@ export const metadata: Metadata = {
     title: "Cuisines By Country - Authentic Recipes From Around The World",
     description: SITE_DESCRIPTION,
   },
+  verification: {
+    google: 'OCL4ssezcFrXry-Nv3hITnodiZvq4Lp8Dsx2EMG17Qk',
+  },
 };
 
 export default function RootLayout({
