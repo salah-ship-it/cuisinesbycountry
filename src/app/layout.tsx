@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const SITE_URL = "https://www.cuisinesbycountry.com";
+const SITE_URL = "https://cuisinesbycountry.com";
 const SITE_DESCRIPTION =
   "Explore authentic recipes from 10 world cuisines. Step-by-step cooking guides for Moroccan, Italian, Japanese, Indian, Mexican, Turkish, French, Thai, Chinese and Indonesian food.";
 

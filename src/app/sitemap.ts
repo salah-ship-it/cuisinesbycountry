@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { getCuisines } from '@/lib/taxonomy';
 
-const SITE_URL = 'https://www.cuisinesbycountry.com';
+const SITE_URL = 'https://cuisinesbycountry.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const cuisines = getCuisines();
